@@ -1,0 +1,135 @@
+{
+ "atelier": "samguk",
+ "card": "우번",
+ "faction": "wu",
+ "slot": "casual5",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "ref": "우번_mecha_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "heritage_guandi",
+  "ofam": "active",
+  "item": "esports_jersey",
+  "posture": "sit_chair",
+  "support": "back_seat",
+  "frame": "face_close",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "out",
+  "use": "sig_raise",
+  "kind": "raise",
+  "legs": "",
+  "gaze": "camera",
+  "time": "neon",
+  "ofree": true,
+  "ofreeRecent": "an ancestral shrine hall with a bronze incense burner — kneeling on the ground; The wooden rigging deck of a community puppet theatre after a rehearsal — She mends a miniature moon prop with a strip of rice paper; an old Chengdu teahouse with bamboo chairs — holds her keepsake up beside her face; An open courtyard at a handmade paper mill — She holds a handmade sheet toward the sun and follows seven pale mulberry fibres with her free index finger; a small rural station with a wooden bench and a single platform — standing; an editorial photo studio with a seamless backdrop and dramatic lights — kneeling on the ground; a narrow path through a tall bamboo grove — standing; a backstage dressing room with a bulb-lit mirror — standing close to a high shelf or line; a Guan Yu temple — tilts a cup; a pilot ready room beside a hangar — holds a folding fan open near her chest; a convention photo zone under ring lights — holds a smartphone at chest height; an indoor climbing wall of coloured holds — holds her keepsake in both hands in front of her; a futuristic spa of white curves and soft light — standing",
+  "expr": "gentle",
+  "preset": "sip_close",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "우번_mecha_kr_drawn_rim_dewy_f_casual5.webp",
+ "prompt": "INPUT: the attached image is the approved character — her Mecha card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of Yu Fan of the Three Kingdoms, seen in her everyday life. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change, and her hair may be worn differently only as SCENE's Hair line says. Her mecha-world identity shows ONLY as a small accessory, an object around her, or the object PROP says she holds — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume.\n\nDESIGN (accessory hints only): her legend — brilliant and blunt, Book of Changes scholarship, a scholar's robe — may inform at most one small accessory, a hair ornament or an object beside her, in its palette (crimson red, gold, river teal, black lacquer). The clothes keep the chosen outfit's own colours; her skin, hair and eyes stay as in the attached image.\n\nOBJECTS: any identity accessory or object, including the one PROP names, takes a present-day form that fits this place — a charm, a hairpin, a phone strap, a modern cup or bottle; no Chinese antique objects such as jade carvings, porcelain wine cups, bronze vessels or paper lanterns.\n\nSTYLE: Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nAGE: the same adult woman as in the attached image — keep her own face shape, cheekbones, eye proportions and skin tone exactly; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases). Keep her face soft, feminine and attractive in every framing — never elongated, gaunt, mannish or heavy-jawed, even in close-ups, profiles or low angles.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her legend shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nSCENE (chosen):\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: an ancestral shrine hall with a bronze incense burner — kneeling on the ground; The wooden rigging deck of a community puppet theatre after a rehearsal — She mends a miniature moon prop with a strip of rice paper; an old Chengdu teahouse with bamboo chairs — holds her keepsake up beside her face; An open courtyard at a handmade paper mill — She holds a handmade sheet toward the sun and follows seven pale mulberry fibres with her free index finger; a small rural station with a wooden bench and a single platform — standing; an editorial photo studio with a seamless backdrop and dramatic lights — kneeling on the ground; a narrow path through a tall bamboo grove — standing; a backstage dressing room with a bulb-lit mirror — standing close to a high shelf or line; a Guan Yu temple — tilts a cup; a pilot ready room beside a hangar — holds a folding fan open near her chest; a convention photo zone under ring lights — holds a smartphone at chest height; an indoor climbing wall of coloured holds — holds her keepsake in both hands in front of her; a futuristic spa of white curves and soft light — standing.\nPlace: An elevated pedestrian deck near an all-night laundromat, lit by unlettered lavender and cyan neon reflected in the windows.\nActivity: She leans over the clear railing to watch a street-cleaning tram draw one perfect straight line through the reflections far below.\nPose: Her own right hand rests palm-down on the railing and her own left hand holds the folded cloth laundry tote at her hip.\nFraming: A medium front three-quarter view from the side of the deck, with the foreground railing low and her face lit from the laundromat window.\nTime of day (fixed): night under neon and signage light, coloured reflections — set your scene at this time.\nOutfit: A fitted soft-gray mesh-knit polo with an opaque lilac lining, a clean open collar and high-waisted violet bicycle shorts.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing; nothing slipped off; intimate areas covered\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its garment, armor, regalia, ornaments, mecha plates or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her mecha-world identity belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her faction's palette, armor, robes or regalia.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers.\n\nANATOMY: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nFIGURE: slender-limbed yet full-busted with rounded hips and a narrow waist — keep this exact build from the attached image, neither slimmer nor fuller.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.\n\nAVOID: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+ "date": "2026-11-18",
+ "record": "records/우번/mecha-casual5.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "우번",
+  "out": "casual",
+  "world": "mecha",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 5,
+  "scenes": {
+   "우번": {
+    "era": "now",
+    "place": "heritage_guandi",
+    "ofam": "active",
+    "treeV": 2,
+    "prop": "",
+    "preset": "sip_close",
+    "use": "sig_raise",
+    "kind": "raise",
+    "posture": "sit_chair",
+    "support": "back_seat",
+    "frame": "face_close",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "out",
+    "legs": "",
+    "gaze": "camera",
+    "item": "esports_jersey",
+    "expr": "gentle",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "ofree": true,
+    "time": "neon",
+    "ofreeRecent": "an ancestral shrine hall with a bronze incense burner — kneeling on the ground; The wooden rigging deck of a community puppet theatre after a rehearsal — She mends a miniature moon prop with a strip of rice paper; an old Chengdu teahouse with bamboo chairs — holds her keepsake up beside her face; An open courtyard at a handmade paper mill — She holds a handmade sheet toward the sun and follows seven pale mulberry fibres with her free index finger; a small rural station with a wooden bench and a single platform — standing; an editorial photo studio with a seamless backdrop and dramatic lights — kneeling on the ground; a narrow path through a tall bamboo grove — standing; a backstage dressing room with a bulb-lit mirror — standing close to a high shelf or line; a Guan Yu temple — tilts a cup; a pilot ready room beside a hangar — holds a folding fan open near her chest; a convention photo zone under ring lights — holds a smartphone at chest height; an indoor climbing wall of coloured holds — holds her keepsake in both hands in front of her; a futuristic spa of white curves and soft light — standing"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "61c35d027c26e1ce143b355aa4a8448f5189db9c4c87ba02d83ac691a4de3c2f",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "a651bb50918ec3ce7918913422c150e640f47b6b1f794e191626e49e271a944f",
+  "retries": [],
+  "ref_sha256": "93df64fe6dcd1f67a730127b412cfc79831deee74b890e8c6b3369d402ea1b65",
+  "free_design": {
+   "Place": "An elevated pedestrian deck near an all-night laundromat, lit by unlettered lavender and cyan neon reflected in the windows.",
+   "Activity": "She leans over the clear railing to watch a street-cleaning tram draw one perfect straight line through the reflections far below.",
+   "Pose": "Her own right hand rests palm-down on the railing and her own left hand holds the folded cloth laundry tote at her hip.",
+   "Framing": "A medium front three-quarter view from the side of the deck, with the foreground railing low and her face lit from the laundromat window.",
+   "Outfit": "A fitted soft-gray mesh-knit polo with an opaque lilac lining, a clean open collar and high-waisted violet bicycle shorts."
+  },
+  "free_prompt": "INPUT: the attached image is the approved character — her Mecha card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of Yu Fan of the Three Kingdoms, seen in her everyday life. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change, and her hair may be worn differently only as SCENE's Hair line says. Her mecha-world identity shows ONLY as a small accessory, an object around her, or the object PROP says she holds — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume.\n\nDESIGN (accessory hints only): her legend — brilliant and blunt, Book of Changes scholarship, a scholar's robe — may inform at most one small accessory, a hair ornament or an object beside her, in its palette (crimson red, gold, river teal, black lacquer). The clothes keep the chosen outfit's own colours; her skin, hair and eyes stay as in the attached image.\n\nOBJECTS: any identity accessory or object, including the one PROP names, takes a present-day form that fits this place — a charm, a hairpin, a phone strap, a modern cup or bottle; no Chinese antique objects such as jade carvings, porcelain wine cups, bronze vessels or paper lanterns.\n\nSTYLE: Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nAGE: the same adult woman as in the attached image — keep her own face shape, cheekbones, eye proportions and skin tone exactly; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases). Keep her face soft, feminine and attractive in every framing — never elongated, gaunt, mannish or heavy-jawed, even in close-ups, profiles or low angles.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her legend shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nSCENE (chosen):\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: an ancestral shrine hall with a bronze incense burner — kneeling on the ground; The wooden rigging deck of a community puppet theatre after a rehearsal — She mends a miniature moon prop with a strip of rice paper; an old Chengdu teahouse with bamboo chairs — holds her keepsake up beside her face; An open courtyard at a handmade paper mill — She holds a handmade sheet toward the sun and follows seven pale mulberry fibres with her free index finger; a small rural station with a wooden bench and a single platform — standing; an editorial photo studio with a seamless backdrop and dramatic lights — kneeling on the ground; a narrow path through a tall bamboo grove — standing; a backstage dressing room with a bulb-lit mirror — standing close to a high shelf or line; a Guan Yu temple — tilts a cup; a pilot ready room beside a hangar — holds a folding fan open near her chest; a convention photo zone under ring lights — holds a smartphone at chest height; an indoor climbing wall of coloured holds — holds her keepsake in both hands in front of her; a futuristic spa of white curves and soft light — standing.\nPlace: An elevated pedestrian deck near an all-night laundromat, lit by unlettered lavender and cyan neon reflected in the windows.\nActivity: She leans over the clear railing to watch a street-cleaning tram draw one perfect straight line through the reflections far below.\nPose: Her own right hand rests palm-down on the railing and her own left hand holds the folded cloth laundry tote at her hip.\nFraming: A medium front three-quarter view from the side of the deck, with the foreground railing low and her face lit from the laundromat window.\nTime of day (fixed): night under neon and signage light, coloured reflections — set your scene at this time.\nOutfit: A fitted soft-gray mesh-knit polo with an opaque lilac lining, a clean open collar and high-waisted violet bicycle shorts.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing; nothing slipped off; intimate areas covered\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its garment, armor, regalia, ornaments, mecha plates or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her mecha-world identity belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her faction's palette, armor, robes or regalia.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers.\n\nANATOMY: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nFIGURE: slender-limbed yet full-busted with rounded hips and a narrow waist — keep this exact build from the attached image, neither slimmer nor fuller.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.\n\nAVOID: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin."
+ },
+ "execution": "sam-yufan-3784985c7376",
+ "imported": "2026-11-19",
+ "qa": {
+  "reviewer": "sam-yufan-3784985c7376",
+  "image_sha256": "61c35d027c26e1ce143b355aa4a8448f5189db9c4c87ba02d83ac691a4de3c2f",
+  "passed": true,
+  "anatomy": "ok",
+  "exposure": "match",
+  "observations": [
+   "1024×1536, 우번 성인 여성 한 명이 주 피사체.",
+   "네온 세탁소 옆 보행 데크와 보라색 바이크 쇼츠가 보인다.",
+   "난간을 짚는 손과 천 가방을 든 손이 자연스럽다. 시선은 아래쪽을 향한다."
+  ]
+ },
+ "acceptance": "user_approval_2026-11-19",
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ }
+}
