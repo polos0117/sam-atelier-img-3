@@ -1,0 +1,118 @@
+{
+ "atelier": "samguk",
+ "card": "사마소",
+ "faction": "wei",
+ "role": "strategist",
+ "world": "fantasy",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "azure",
+   "impression": "regal",
+   "expr": "smug",
+   "skin_tone": "fair",
+   "age": "early_20s",
+   "eye_size": "large",
+   "eye_tilt": "level",
+   "mark": "freckles",
+   "brows": "angled_sharp",
+   "nose": "aquiline",
+   "lips": "thin_long",
+   "face_shape": "oval",
+   "eyes": "almond_wide"
+  },
+  "silhouette": {
+   "body": "hourglass",
+   "hair_color": "smoky_lilac",
+   "hair": "hime_cut",
+   "bangs": "none"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "사마소_fantasy_kr_drawn_rim_dewy_f.webp",
+ "prompt": "A full-body character image, vertical 2:3 (1024×1536): Sima Zhao of the Romance of the Three Kingdoms, reimagined as an adult woman — the Sima who prepared Jin's throne — 'even passers-by know her heart'.\n\n1. STYLE\nKorean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nHer face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\n2. CHARACTER\nAge: about twenty — a fresh young-adult face.\nFace — her own, recognisably this character, a woman's face with no beard or facial hair: a mature, poised woman; porcelain-pale skin; diamond-shaped face; hooded eyes; pale violet eyes; thin arched brows; petite straight nose; soft medium lips.\nBody and hair: tall and statuesque with long legs and a full, curvaceous figure — full bust and hips, narrow waist build; a long swept-back ponytail divided into three soft loops down the back; smoky lilac-gray hair.\nExpression: a faint knowing smile, subtle and relaxed.\nLegend, carried in her design and bearing: open ambition, regal black-and-violet robes, a confident smile.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME AND EQUIPMENT — MEDIEVAL FANTASY\nCostume: an archmage-strategist's robes — layered robes with runic embroidery, a high collar, a circlet, a staff or a grimoire, star-chart motifs. Western medieval high-fantasy dress — plate, mail and heraldic tabards, gowns and mantles, circlets and crowns; steel, leather, wool, velvet and gold, with a subtle magical glow along the patterns. Her Three Kingdoms origin shows through her signature item, her colours and her bearing.\nSilhouette: a long floor-length robe with a high collar, wide sleeves and a shoulder mantle — a tall, mysterious mage's silhouette. This silhouette sets the overall shape of the costume above — keep its materials, ornaments and rank in this shape; the details are free.\nDesign idea: Three stepped rows of silver-edged fastenings draw the mantle inward toward the neck, echoing stone steps narrowing as they near a throne.\nColours: deep navy blue, black lacquer, cold steel silver, ivory white, with small accents of deep plum purple and silver (the Sima Jin).\nSignature item: a black-lacquered scepter, reimagined as a Western high-fantasy version of the same kind of object with the same silhouette — polished steel and silvered mithril throughout, the shaft or hilt also forged metal with engraved runes (never plain wood), a faint magical glow running along the edge and the runes, a gem-set guard or socket, a leather-wrapped grip and heraldic or elven ornament, with any animal motif re-sculpted in Western heraldic style. She holds it at full scale: one whole object, drawn once, held in front of or beside her body; a long weapon keeps one straight, unbroken shaft with a single head or blade.\nExposure (bold): her regalia opens to show skin — bare upper arms below the pauldrons, which stay seated on top of her shoulders (bare shoulders only where no shoulder guard sits), a deep open neckline under the gorget with natural cleavage, the tabard or gown cut with a high side slit at full length — it shows the side line of one leg as she stands, no leg pushed out or knee bent for it; armor pieces stay on and symmetrical. Intimate areas covered; no corset; keep the costume material and palette.\n\n4. SCENE\nWorld: a stern northern empire of medieval high fantasy: black-stone citadels with blue banners, iron-shod heavy cavalry, snowy plains and pine forests, a court ruled by strict law, cold blue sigil-magic.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nStance and hands: Her right hand holds the scepter beside her waist, and her free hand settles lightly over the lowest mantle clasp.\nSetting detail: An empty vaulted council chamber with pale limestone ribs and a tall lancet window.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: her whole figure from the top of her head or headpiece to both feet inside the frame with clear margins, about four-fifths of the image height; camera at chest height with natural portrait perspective.\n\n5. CONSTRAINTS\nOne figure only — no second character, horse or other creature. No readable text or numbers — banners and shields carry only heraldic devices (a beast or a crest), never letters or Chinese characters. No logo, watermark, speech bubble or frame border. A Western medieval setting and dress only — stone castles, Romanesque or Gothic architecture — with no Chinese architecture, robes or hanzi.\nAvoid: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+ "date": "2026-11-19",
+ "record": "records/사마소/fantasy.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "사마소",
+  "out": "world",
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {
+   "사마소|fantasy": {}
+  },
+  "looks": {
+   "사마소|fantasy": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "사마소|fantasy": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "execution": "sam-simazhao-c8a637b0",
+ "imported": "2026-11-20",
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "225ef87803bf6980031504389743d1de81a7c2be07a9cf4827dad0c0a1d6a7c2",
+  "webp": {
+   "quality": 90
+  },
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "e0d96cf8f10ec670a254a5e2d8b5604a650bca322e7e77802371333f328cc9fb",
+  "retries": [],
+  "candidate": 3,
+  "design": "gpt_free",
+  "plan": "A",
+  "free_prompt": "A full-body character image, vertical 2:3 (1024×1536): Sima Zhao of the Romance of the Three Kingdoms, reimagined as an adult woman — the Sima who prepared Jin's throne — 'even passers-by know her heart'.\n\n1. STYLE\nKorean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nHer face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\n2. CHARACTER\nAge: about twenty — a fresh young-adult face.\nFace — her own, recognisably this character, a woman's face with no beard or facial hair: a mature, poised woman; porcelain-pale skin; diamond-shaped face; hooded eyes; pale violet eyes; thin arched brows; petite straight nose; soft medium lips.\nBody and hair: tall and statuesque with long legs and a full, curvaceous figure — full bust and hips, narrow waist build; a long swept-back ponytail divided into three soft loops down the back; smoky lilac-gray hair.\nExpression: a faint knowing smile, subtle and relaxed.\nLegend, carried in her design and bearing: open ambition, regal black-and-violet robes, a confident smile.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME AND EQUIPMENT — MEDIEVAL FANTASY\nCostume: an archmage-strategist's robes — layered robes with runic embroidery, a high collar, a circlet, a staff or a grimoire, star-chart motifs. Western medieval high-fantasy dress — plate, mail and heraldic tabards, gowns and mantles, circlets and crowns; steel, leather, wool, velvet and gold, with a subtle magical glow along the patterns. Her Three Kingdoms origin shows through her signature item, her colours and her bearing.\nSilhouette: a long floor-length robe with a high collar, wide sleeves and a shoulder mantle — a tall, mysterious mage's silhouette. This silhouette sets the overall shape of the costume above — keep its materials, ornaments and rank in this shape; the details are free.\nDesign idea: Three stepped rows of silver-edged fastenings draw the mantle inward toward the neck, echoing stone steps narrowing as they near a throne.\nColours: deep navy blue, black lacquer, cold steel silver, ivory white, with small accents of deep plum purple and silver (the Sima Jin).\nSignature item: a black-lacquered scepter, reimagined as a Western high-fantasy version of the same kind of object with the same silhouette — polished steel and silvered mithril throughout, the shaft or hilt also forged metal with engraved runes (never plain wood), a faint magical glow running along the edge and the runes, a gem-set guard or socket, a leather-wrapped grip and heraldic or elven ornament, with any animal motif re-sculpted in Western heraldic style. She holds it at full scale: one whole object, drawn once, held in front of or beside her body; a long weapon keeps one straight, unbroken shaft with a single head or blade.\nExposure (bold): her regalia opens to show skin — bare upper arms below the pauldrons, which stay seated on top of her shoulders (bare shoulders only where no shoulder guard sits), a deep open neckline under the gorget with natural cleavage, the tabard or gown cut with a high side slit at full length — it shows the side line of one leg as she stands, no leg pushed out or knee bent for it; armor pieces stay on and symmetrical. Intimate areas covered; no corset; keep the costume material and palette.\n\n4. SCENE\nWorld: a stern northern empire of medieval high fantasy: black-stone citadels with blue banners, iron-shod heavy cavalry, snowy plains and pine forests, a court ruled by strict law, cold blue sigil-magic.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nStance and hands: Her right hand holds the scepter beside her waist, and her free hand settles lightly over the lowest mantle clasp.\nSetting detail: An empty vaulted council chamber with pale limestone ribs and a tall lancet window.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: her whole figure from the top of her head or headpiece to both feet inside the frame with clear margins, about four-fifths of the image height; camera at chest height with natural portrait perspective.\n\n5. CONSTRAINTS\nOne figure only — no second character, horse or other creature. No readable text or numbers — banners and shields carry only heraldic devices (a beast or a crest), never letters or Chinese characters. No logo, watermark, speech bubble or frame border. A Western medieval setting and dress only — stone castles, Romanesque or Gothic architecture — with no Chinese architecture, robes or hanzi.\nAvoid: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+  "summary": "hairstyle a long swept-back ponytail divided into three soft loops down the back; costume silhouette a long floor-length robe with a high collar, wide sleeves and a shoulder mantle — a tall, mysterious mage's silhouette; design idea Three stepped rows of silver-edged fastenings draw the mantle inward toward the neck, echoing stone steps narrowing as they near a throne.; face a mature, poised woman, porcelain-pale skin, diamond-shaped face, hooded eyes, pale violet eyes, thin arched brows, petite straight nose, soft medium lips; expression a faint knowing smile."
+ },
+ "qa": {
+  "reviewer": "sam-simazhao-c8a637b0",
+  "image_sha256": "225ef87803bf6980031504389743d1de81a7c2be07a9cf4827dad0c0a1d6a7c2",
+  "passed": true,
+  "anatomy": "ok",
+  "exposure": "match",
+  "observations": [
+   "스테인드글라스가 있는 중세 궁정과 자주색 겹망토",
+   "묶은 회보라 머리와 한 자루의 홀, 왼손은 망토 앞쪽에 위치"
+  ]
+ },
+ "acceptance": "사용자가 사마소 이미지와 도감 데이터의 main 반영을 승인",
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ }
+}
