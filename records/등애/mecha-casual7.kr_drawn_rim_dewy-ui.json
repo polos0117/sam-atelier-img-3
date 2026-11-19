@@ -1,0 +1,135 @@
+{
+ "atelier": "samguk",
+ "card": "등애",
+ "faction": "wei",
+ "slot": "casual7",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "ref": "등애_mecha_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "fantasy",
+  "place": "fx_underwater",
+  "ofam": "drape",
+  "item": "peplos_mini",
+  "posture": "stand",
+  "support": "none",
+  "frame": "chest_up",
+  "body": "front_3q",
+  "head": "tilt",
+  "camera": "eye",
+  "right": "prop",
+  "left": "out",
+  "use": "lantern_hang",
+  "legs": "",
+  "gaze": "",
+  "time": "dusk",
+  "ofree": true,
+  "ofreeFamily": "roleplay",
+  "ofreeSitu": "free",
+  "ofreeRecent": "an editorial photo studio with a seamless backdrop and dramatic lights — standing; a pilot ready room beside a hangar — carries a small red paper lantern by its cord; her bedroom — holds a tall iced coffee in a clear cup with a straw at chest height; a festival street of lanterns — fans a folding fan open between her hands; the moat path beneath the old Jingzhou city wall at dusk — carries her keepsake low at her side",
+  "expr": "nostalgic",
+  "preset": "raise_chest",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "등애_mecha_kr_drawn_rim_dewy_f_casual7.webp",
+ "prompt": "INPUT: the attached image is the approved character — her Mecha card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of Deng Ai of the Three Kingdoms, seen in her everyday life. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change, and her hair may be worn differently only as SCENE's Hair line says. Her mecha-world identity shows ONLY as a small accessory, an object around her, or the object PROP says she holds — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume.\n\nDESIGN (accessory hints only): her legend — a stutter and a brilliant mind for terrain, felt cloak, rope and climbing gear on her armor — may inform at most one small accessory, a hair ornament or an object beside her, in its palette (deep navy blue, black lacquer, cold steel silver, ivory white). The clothes keep the chosen outfit's own colours; her skin, hair and eyes stay as in the attached image.\n\nSTYLE: Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nAGE: the same adult woman as in the attached image — keep her own face shape, cheekbones, eye proportions and skin tone exactly; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases). Keep her face soft, feminine and attractive in every framing — never elongated, gaunt, mannish or heavy-jawed, even in close-ups, profiles or low angles.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her legend shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nSCENE (chosen):\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: an editorial photo studio with a seamless backdrop and dramatic lights — standing; a pilot ready room beside a hangar — carries a small red paper lantern by its cord; her bedroom — holds a tall iced coffee in a clear cup with a straw at chest height; a festival street of lanterns — fans a folding fan open between her hands; the moat path beneath the old Jingzhou city wall at dusk — carries her keepsake low at her side.\nPlace: …\nActivity: …\nPose: …\nFraming: …\nOutfit family (required): role-play costume — any role-play costume outfit; you may pick one from our outfit catalog (outfit-catalog.md in this pack) or design your own, but prefer one that is not in it.\nSituation (required): a situational exposure moment of your own design that fits the scene — prefer one that is not among ours: clothes soaked by rain or a splash, clothes caught by a strong gust of wind, a top worn half undone, a strap slipped off the shoulder, a hem knotted up under the bust, an outer layer tied around the waist, a sheen of sweat from heat, a backlit silhouette through thin fabric, a skirt slit fallen open, sleeves pushed up with one more button undone, a tie or scarf pulled loose.\nTime of day (fixed): dusk — blue hour, lights coming on — set your scene at this time.\nOutfit: …\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing; intimate areas covered\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its garment, armor, regalia, ornaments, mecha plates or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her mecha-world identity belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her faction's palette, armor, robes or regalia.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers.\n\nANATOMY: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nFIGURE: willowy and long-limbed with soft curves — a full bust, rounded hips and a slender waist — keep this exact build from the attached image, neither slimmer nor fuller.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.\n\nAVOID: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+ "date": "2026-11-19",
+ "record": "records/등애/mecha-casual7.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "등애",
+  "out": "casual",
+  "world": "mecha",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 7,
+  "scenes": {
+   "등애": {
+    "era": "fantasy",
+    "place": "fx_underwater",
+    "ofam": "drape",
+    "treeV": 2,
+    "prop": "",
+    "preset": "raise_chest",
+    "use": "lantern_hang",
+    "posture": "stand",
+    "support": "none",
+    "frame": "chest_up",
+    "body": "front_3q",
+    "head": "tilt",
+    "camera": "eye",
+    "right": "prop",
+    "left": "out",
+    "legs": "",
+    "gaze": "",
+    "item": "peplos_mini",
+    "expr": "nostalgic",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "ofree": true,
+    "time": "dusk",
+    "ofreeFamily": "roleplay",
+    "ofreeSitu": "free",
+    "ofreeRecent": "an editorial photo studio with a seamless backdrop and dramatic lights — standing; a pilot ready room beside a hangar — carries a small red paper lantern by its cord; her bedroom — holds a tall iced coffee in a clear cup with a straw at chest height; a festival street of lanterns — fans a folding fan open between her hands; the moat path beneath the old Jingzhou city wall at dusk — carries her keepsake low at her side"
+   }
+  }
+ },
+ "execution": "sam-dengai-66b1bbd86cc1",
+ "imported": "2026-11-19",
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "7dbb62ea36763cd17f1d83582bc3c9db6c4b3389a55eb11dbc31ca416a5772ca",
+  "webp": {
+   "quality": 90
+  },
+  "prompt_form": "gpt-structured",
+  "prompt_sha256": "29359f1cd4b2211635dc4a9127a9fb6ebdf5c17e97af9e39c39c2a63a0c66e0d",
+  "retries": [],
+  "ref_sha256": "c61ec87ef84342d705143e0f059ffdbbecf093272785743c5283a9dd1ed7361b",
+  "free_design": {
+   "Place": "A community theatre aboard a station, beside a painted replica of a rocky planet and a stack of soft stage props.",
+   "Activity": "She pauses during rehearsal for an original space-survey comedy to clip a fake expedition badge to the side of a canvas sample bag.",
+   "Pose": "Standing in a front three-quarter view. Her left hand holds the bag by its handle at her hip, and her right hand holds the lightweight badge just above the bag's fastener.",
+   "Framing": "Vertical thighs-up portrait with both hands in frame, clear face light, and the stage visible at the edges.",
+   "Outfit": "An original expedition stage costume with a matte turquoise asymmetric sleeveless jumpsuit, opaque fabric, and bronze cloth boots. Its separate outer chest harness is hung on the set's peg during the pause, showing the jumpsuit's square, open neckline and bare shoulders."
+  },
+  "free_prompt": "INPUT: the attached image is the approved character — her Mecha card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of Deng Ai of the Three Kingdoms, seen in her everyday life. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change, and her hair may be worn differently only as SCENE's Hair line says. Her mecha-world identity shows ONLY as a small accessory, an object around her, or the object PROP says she holds — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume.\n\nDESIGN (accessory hints only): her legend — a stutter and a brilliant mind for terrain, felt cloak, rope and climbing gear on her armor — may inform at most one small accessory, a hair ornament or an object beside her, in its palette (deep navy blue, black lacquer, cold steel silver, ivory white). The clothes keep the chosen outfit's own colours; her skin, hair and eyes stay as in the attached image.\n\nSTYLE: Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nAGE: the same adult woman as in the attached image — keep her own face shape, cheekbones, eye proportions and skin tone exactly; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases). Keep her face soft, feminine and attractive in every framing — never elongated, gaunt, mannish or heavy-jawed, even in close-ups, profiles or low angles.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her legend shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nSCENE (chosen):\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: an editorial photo studio with a seamless backdrop and dramatic lights — standing; a pilot ready room beside a hangar — carries a small red paper lantern by its cord; her bedroom — holds a tall iced coffee in a clear cup with a straw at chest height; a festival street of lanterns — fans a folding fan open between her hands; the moat path beneath the old Jingzhou city wall at dusk — carries her keepsake low at her side.\nPlace: A community theatre aboard a station, beside a painted replica of a rocky planet and a stack of soft stage props.\nActivity: She pauses during rehearsal for an original space-survey comedy to clip a fake expedition badge to the side of a canvas sample bag.\nPose: Standing in a front three-quarter view. Her left hand holds the bag by its handle at her hip, and her right hand holds the lightweight badge just above the bag's fastener.\nFraming: Vertical thighs-up portrait with both hands in frame, clear face light, and the stage visible at the edges.\nOutfit family (required): role-play costume — any role-play costume outfit; you may pick one from our outfit catalog (outfit-catalog.md in this pack) or design your own, but prefer one that is not in it.\nSituation (required): a situational exposure moment of your own design that fits the scene — prefer one that is not among ours: clothes soaked by rain or a splash, clothes caught by a strong gust of wind, a top worn half undone, a strap slipped off the shoulder, a hem knotted up under the bust, an outer layer tied around the waist, a sheen of sweat from heat, a backlit silhouette through thin fabric, a skirt slit fallen open, sleeves pushed up with one more button undone, a tie or scarf pulled loose.\nTime of day (fixed): dusk — blue hour, lights coming on — set your scene at this time.\nOutfit: An original expedition stage costume with a matte turquoise asymmetric sleeveless jumpsuit, opaque fabric, and bronze cloth boots. Its separate outer chest harness is hung on the set's peg during the pause, showing the jumpsuit's square, open neckline and bare shoulders.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing; intimate areas covered\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its garment, armor, regalia, ornaments, mecha plates or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her mecha-world identity belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her faction's palette, armor, robes or regalia.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers.\n\nANATOMY: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nFIGURE: willowy and long-limbed with soft curves — a full bust, rounded hips and a slender waist — keep this exact build from the attached image, neither slimmer nor fuller.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.\n\nAVOID: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin."
+ },
+ "qa": {
+  "reviewer": "sam-dengai-66b1bbd86cc1",
+  "image_sha256": "7dbb62ea36763cd17f1d83582bc3c9db6c4b3389a55eb11dbc31ca416a5772ca",
+  "passed": false,
+  "anatomy": "ok",
+  "exposure": "match",
+  "observations": [
+   "궤도 극장 무대에서 청록색 탐사 배역 의상과 천 가방을 사용.",
+   "별도 가슴 하네스가 벗어 놓인 상황은 화면에서 뚜렷하지 않음."
+  ]
+ },
+ "acceptance": "사용자가 2026-11-19 등애 작업에 이미지 및 도감 데이터 반영 승인",
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ }
+}
