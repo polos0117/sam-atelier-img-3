@@ -1,0 +1,118 @@
+{
+ "atelier": "samguk",
+ "card": "방덕",
+ "faction": "wei",
+ "role": "general",
+ "world": "samguk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "azure",
+   "impression": "fierce",
+   "expr": "determined",
+   "skin_tone": "porcelain",
+   "age": "mid_20s",
+   "eye_size": "small",
+   "eye_tilt": "down",
+   "mark": "mole_eye",
+   "brows": "straight_thin",
+   "nose": "petite_straight",
+   "lips": "thin_bow",
+   "face_shape": "v_line",
+   "eyes": "peach_blossom"
+  },
+  "silhouette": {
+   "body": "tall_curvy",
+   "hair_color": "antique_gold",
+   "hair": "lion_mane",
+   "bangs": "baby"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "방덕_samguk_kr_drawn_rim_dewy_f.webp",
+ "prompt": "A full-body character image, vertical 2:3 (1024×1536): Pang De of the Romance of the Three Kingdoms, reimagined as an adult woman — the general who carried her own coffin into battle against Guan Yu.\n\n1. STYLE\nKorean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nHer face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\n2. CHARACTER\nAge: mid-twenties — a clear adult face.\nFace — her own, recognisably this character, a woman's face with no beard or facial hair: a fierce, wild ferocity; porcelain-pale skin; delicate V-line face with a small, soft chin; smaller, narrower eyes than usual anime proportion — peach-blossom eyes with a soft, curved lower lid, outer eye corners drooping downward; thin straight brows; petite straight nose; thin lips with a defined cupid's bow; azure-blue eyes; a small beauty mark under one eye.\nBody and hair: tall and statuesque with long legs and a full, curvaceous figure — full bust and hips, narrow waist build; a huge mane of voluminous curls with short baby bangs; antique-gold hair.\nExpression: a firm, resolute look with calm, steady eyes, subtle and relaxed.\nLegend, carried in her design and bearing: a vow to fight to the death, a white mourning sash over her armor, unbreaking resolve.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME AND EQUIPMENT — THREE KINGDOMS\nCostume: Three Kingdoms war general's armor — lamellar scale armor laced over a silk battle robe, beast-head shoulder guards, a plumed helmet or a war headband, a long war cape, her weapon at hand. Late-Han Chinese dress — cross-collared silk robes with wide sleeves and a broad sash, lamellar or scale armor laced with cords where armor is worn, bronze, jade and lacquer ornament, Han court hair ornaments; silk, lacquered leather, bronze and iron.\nSilhouette: a chest guard, a quiver, a fitted short robe and leg wraps — a light, upright archer's silhouette. This silhouette sets the overall shape of the costume above — keep its materials, ornaments and rank in this shape; the details are free.\nColours: deep navy blue, black lacquer, cold steel silver, ivory white, with small accents of desert sand and rust orange (the Liang frontier), Taoist indigo and white (Zhang Lu).\nSignature item: a heavy saber. She holds it at full scale: one whole object, drawn once, held in front of or beside her body; a long weapon keeps one straight, unbroken shaft with a single head or blade.\nExposure (bold): her robes open to show skin — the cross collar opened into a deep neckline with natural cleavage, bare upper arms above detached wide sleeves (and bare shoulders where no shoulder guard sits), the skirt panels cut with a high side slit at full length — it shows the side line of one leg as she stands, no leg pushed out or knee bent for it; any armor pieces stay on and symmetrical. Intimate areas covered; keep the costume material and palette.\n\n4. SCENE\nWorld: Cao Wei in northern China, around 200–235 AD: the walled capitals of Xuchang, Ye and Luoyang, rammed-earth ramparts and tiled watchtowers, black-and-navy banners over vast northern plains, armoured cavalry, bronze ritual vessels and lacquered halls.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: her whole figure from the top of her head or headpiece to both feet inside the frame with clear margins, about four-fifths of the image height; camera at chest height with natural portrait perspective.\n\n5. CONSTRAINTS\nOne figure only — no second character, horse or other creature. No readable text or numbers, except that a banner, seal or emblem may carry the single character 魏 or 龐. No logo, watermark, speech bubble or frame border. Three Kingdoms-era Chinese dress, architecture and materials only.\nAvoid: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+ "date": "2026-11-19",
+ "record": "records/방덕/samguk.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "방덕",
+  "out": "world",
+  "world": "samguk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {
+   "방덕|samguk": {}
+  },
+  "looks": {
+   "방덕|samguk": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "방덕|samguk": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "e5c20cd17d066e91f95fb51e7a4406bc2d4148db094d3d6b67b19234ab77c5b2",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "retries": [],
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "8f2ba2c458208a56e0aa0c8e20df9fd37a4331023fe4d93a13e149d60b6203eb",
+  "selection": 4,
+  "design": "gpt_free",
+  "plan": "B",
+  "summary": "SUMMARY: hairstyle a sweep of straight waist-length hair tied into a low loop with long curtain bangs; costume silhouette a great war cape spreading from the shoulders to the ankles as the main shape, lamellar armor beneath; design idea Two broad reinforced folds of ivory mourning silk are sewn directly into the shoulders of the war cape, crossing to form its load-bearing yoke.; face a rugged, tough, outdoorsy look, light warm-beige skin with a golden undertone, oval face, long monolid eyes, honey-gold eyes, sharp angled brows, aquiline nose, soft medium lips; expression steady and resolute.",
+  "free_prompt": "SUMMARY: hairstyle a sweep of straight waist-length hair tied into a low loop with long curtain bangs; costume silhouette a great war cape spreading from the shoulders to the ankles as the main shape, lamellar armor beneath; design idea Two broad reinforced folds of ivory mourning silk are sewn directly into the shoulders of the war cape, crossing to form its load-bearing yoke.; face a rugged, tough, outdoorsy look, light warm-beige skin with a golden undertone, oval face, long monolid eyes, honey-gold eyes, sharp angled brows, aquiline nose, soft medium lips; expression steady and resolute.\nA full-body character image, vertical 2:3 (1024×1536): Pang De of the Romance of the Three Kingdoms, reimagined as an adult woman — the general who carried her own coffin into battle against Guan Yu.\n\n1. STYLE\nKorean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nHer face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\n2. CHARACTER\nAge: mid-twenties — a clear adult face.\nFace — her own, recognisably this character, a woman's face with no beard or facial hair: a rugged, tough, outdoorsy look; light warm-beige skin with a golden undertone; oval face; long monolid eyes; honey-gold eyes; sharp angled brows; aquiline nose; soft medium lips.\nBody and hair: tall and statuesque with long legs and a full, curvaceous figure — full bust and hips, narrow waist build; a sweep of straight waist-length hair tied into a low loop with long curtain bangs; antique-gold hair.\nExpression: a firm, resolute look with calm, steady eyes, subtle and relaxed.\nLegend, carried in her design and bearing: a vow to fight to the death, a white mourning sash over her armor, unbreaking resolve.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME AND EQUIPMENT — THREE KINGDOMS\nCostume: Three Kingdoms war general's armor — lamellar scale armor laced over a silk battle robe, beast-head shoulder guards, a plumed helmet or a war headband, a long war cape, her weapon at hand. Late-Han Chinese dress — cross-collared silk robes with wide sleeves and a broad sash, lamellar or scale armor laced with cords where armor is worn, bronze, jade and lacquer ornament, Han court hair ornaments; silk, lacquered leather, bronze and iron.\nSilhouette: a great war cape spreading from the shoulders to the ankles as the main shape, lamellar armor beneath. This silhouette sets the overall shape of the costume above — keep its materials, ornaments and rank in this shape; the details are free.\nDesign idea: Two broad reinforced folds of ivory mourning silk are sewn directly into the shoulders of the war cape, crossing to form its load-bearing yoke.\nColours: deep navy blue, black lacquer, cold steel silver, ivory white, with small accents of desert sand and rust orange (the Liang frontier), Taoist indigo and white (Zhang Lu).\nSignature item: a heavy saber. She holds it at full scale: one whole object, drawn once, held in front of or beside her body; a long weapon keeps one straight, unbroken shaft with a single head or blade.\nExposure (bold): her robes open to show skin — the cross collar opened into a deep neckline with natural cleavage, bare upper arms above detached wide sleeves (and bare shoulders where no shoulder guard sits), the skirt panels cut with a high side slit at full length — it shows the side line of one leg as she stands, no leg pushed out or knee bent for it; any armor pieces stay on and symmetrical. Intimate areas covered; keep the costume material and palette.\n\n4. SCENE\nWorld: Cao Wei in northern China, around 200–235 AD: the walled capitals of Xuchang, Ye and Luoyang, rammed-earth ramparts and tiled watchtowers, black-and-navy banners over vast northern plains, armoured cavalry, bronze ritual vessels and lacquered halls.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nStance and hands: The saber rests point-down beside her with her left hand on the hilt and her right hand lowered, fingers relaxed.\nSetting detail: A frontier gate under a slate-blue morning sky, with stone steps and a single navy banner.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: her whole figure from the top of her head or headpiece to both feet inside the frame with clear margins, about four-fifths of the image height; camera at chest height with natural portrait perspective.\n\n5. CONSTRAINTS\nOne figure only — no second character, horse or other creature. No readable text or numbers, except that a banner, seal or emblem may carry the single character 魏 or 龐. No logo, watermark, speech bubble or frame border. Three Kingdoms-era Chinese dress, architecture and materials only.\nAvoid: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin."
+ },
+ "qa": {
+  "reviewer": "sam-pangde-062a34923c2f",
+  "image_sha256": "e5c20cd17d066e91f95fb51e7a4406bc2d4148db094d3d6b67b19234ab77c5b2",
+  "passed": true,
+  "anatomy": "ok",
+  "exposure": "match",
+  "observations": [
+   "위나라 성문 앞, 흰 상복 자락과 대도 및 발끝까지의 전신을 확인."
+  ]
+ },
+ "execution": "sam-pangde-062a34923c2f",
+ "imported": "2026-11-20",
+ "acceptance": "user_approval_2026-11-02",
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ }
+}
