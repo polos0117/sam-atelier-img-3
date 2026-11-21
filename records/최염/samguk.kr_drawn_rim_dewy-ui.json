@@ -1,0 +1,115 @@
+{
+  "atelier": "samguk",
+  "card": "최염",
+  "faction": "wei",
+  "role": "official",
+  "world": "samguk",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v1",
+  "notes": {},
+  "look": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+  },
+  "design": {
+    "face": {
+      "eye_color": "azure",
+      "impression": "regal",
+      "expr": "serious",
+      "skin_tone": "warm_beige",
+      "age": "late_20s",
+      "eye_size": "medium",
+      "eye_tilt": "up",
+      "mark": "dark_lip",
+      "brows": "straight_thin",
+      "nose": "broad_soft",
+      "lips": "thin_bow",
+      "face_shape": "diamond",
+      "eyes": "monolid_long"
+    },
+    "silhouette": {
+      "body": "tall_curvy",
+      "hair_color": "ombre_violet",
+      "hair": "mermaid_waves",
+      "bangs": "asymmetric"
+    }
+  },
+  "shot": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+  },
+  "file": "최염_samguk_kr_drawn_rim_dewy_f.webp",
+  "prompt": "A full-body character image, vertical 2:3 (1024×1536): Cui Yan of the Romance of the Three Kingdoms, reimagined as an adult woman — the imposing selector of officials whose voice and bearing made even Cao Cao wary.\n\n1. STYLE\nKorean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nHer face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\n2. CHARACTER\nAge: late twenties — a graceful grown-up face with soft, smooth contours.\nFace — her own, recognisably this character, a woman's face with no beard or facial hair: a regal, imperious haughtiness; warm beige skin; diamond-shaped face with softly defined cheekbones and a tapered chin; eyes of natural size — smooth monolid eyes of natural size, outer eye corners slightly lifted; thin straight brows; a nose with a soft, rounded tip and natural width; thin lips with a defined cupid's bow; azure-blue eyes; dark berry lipstick.\nBody and hair: tall and statuesque with long legs and a full, curvaceous figure — full bust and hips, narrow waist build; very long loose mermaid waves to the waist with asymmetric bangs; deep violet hair fading to lilac at the tips.\nExpression: a level, steady look, mouth closed, subtle and relaxed.\nLegend, carried in her design and bearing: lofty dignity, a tall official's robe, a long silk tassel worn like a beard-length sash.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME AND EQUIPMENT — THREE KINGDOMS\nCostume: a Han court official's dress — layered robes with a broad belt and a hanging seal cord, a black jinxian guan cap, an ink brush and bound bamboo slips. Late-Han Chinese dress — cross-collared silk robes with wide sleeves and a broad sash, lamellar or scale armor laced with cords where armor is worn, bronze, jade and lacquer ornament, Han court hair ornaments; silk, lacquered leather, bronze and iron.\nSilhouette: no armor — a long floor-length robe with wide sleeves and a broad sash, a long elegant falling silhouette. This silhouette sets the overall shape of the costume above — keep its materials, ornaments and rank in this shape; the details are free.\nColours: deep navy blue, black lacquer, cold steel silver, ivory white.\nSignature item: a sealed letter of recommendation. She holds it at full scale: one whole object, drawn once, held in front of or beside her body; a long weapon keeps one straight, unbroken shaft with a single head or blade.\nExposure (bold): her robes open to show skin — the cross collar opened into a deep neckline with natural cleavage, bare upper arms above detached wide sleeves (and bare shoulders where no shoulder guard sits), the skirt panels cut with a high side slit at full length — it shows the side line of one leg as she stands, no leg pushed out or knee bent for it; any armor pieces stay on and symmetrical. Intimate areas covered; keep the costume material and palette.\n\n4. SCENE\nWorld: Cao Wei in northern China, around 200–235 AD: the walled capitals of Xuchang, Ye and Luoyang, rammed-earth ramparts and tiled watchtowers, black-and-navy banners over vast northern plains, armoured cavalry, bronze ritual vessels and lacquered halls.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: her whole figure from the top of her head or headpiece to both feet inside the frame with clear margins, about four-fifths of the image height; camera at chest height with natural portrait perspective.\n\n5. CONSTRAINTS\nOne figure only — no second character, horse or other creature. No readable text or numbers, except that a banner, seal or emblem may carry the single character 魏 or 崔. No logo, watermark, speech bubble or frame border. Three Kingdoms-era Chinese dress, architecture and materials only.\nAvoid: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+  "date": "2026-11-21",
+  "record": "records/최염/samguk.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "최염",
+    "out": "world",
+    "world": "samguk",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {
+      "최염|samguk": {}
+    },
+    "looks": {
+      "최염|samguk": {
+        "params": {},
+        "faceDesignOn": true,
+        "silhouetteOn": true,
+        "exposure": "bold"
+      }
+    },
+    "shots": {
+      "최염|samguk": {
+        "scene": "",
+        "time": "",
+        "pose": "",
+        "expr": "",
+        "frame": ""
+      }
+    },
+    "walked": {},
+    "casualN": 1,
+    "scenes": {}
+  },
+  "generation": {
+    "tool": "image_gen",
+    "endpoint": "images/generations",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "5a79348dbcf6f297856fda2db044adf33953a9733048dc6360468fb6993120bd",
+    "prompt_form": "en-prompt",
+    "prompt_sha256": "5ff44a6a9f76f6db9b3c340e04154035c594a2cddb1b187cd51c5bfd73337332",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "retries": [],
+    "candidate": 2,
+    "design": "atelier"
+  },
+  "execution": "sam-cuiyan-c606cb72",
+  "imported": "2026-11-21",
+  "qa": {
+    "reviewer": "codex",
+    "image_sha256": "5a79348dbcf6f297856fda2db044adf33953a9733048dc6360468fb6993120bd",
+    "passed": true,
+    "anatomy": "ok",
+    "exposure": "match",
+    "observations": [
+      "삼국시대 관복, 추천서와 위나라 깃발을 확인. 두 발이 프레임 안에 있다."
+    ]
+  },
+  "acceptance": "user_approval — upload after QA; user selected world candidates 2, 4, 2",
+  "review": {
+    "reviewed": true,
+    "by": "user",
+    "result": "selected"
+  }
+}
