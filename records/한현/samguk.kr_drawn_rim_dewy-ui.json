@@ -1,0 +1,116 @@
+{
+ "atelier": "samguk",
+ "card": "한현",
+ "faction": "qun",
+ "role": "lord",
+ "world": "samguk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "teal",
+   "impression": "cool",
+   "expr": "mildly_annoyed",
+   "skin_tone": "warm_beige",
+   "age": "mid_20s",
+   "eye_size": "small",
+   "eye_tilt": "down",
+   "mark": "mole_eye",
+   "brows": "straight_thick",
+   "nose": "upturned",
+   "lips": "heart_full",
+   "face_shape": "diamond",
+   "eyes": "monolid_long"
+  },
+  "silhouette": {
+   "body": "petite_curvy",
+   "hair_color": "electric_blue",
+   "hair": "cloud_updo",
+   "bangs": "straight"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "한현_samguk_kr_drawn_rim_dewy_f.webp",
+ "prompt": "A full-body character image, vertical 2:3 (1024×1536): Han Xuan of the Romance of the Three Kingdoms, reimagined as an adult woman — the governor of Changsha struck down by her own general.\n\n1. STYLE\nKorean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nHer face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\n2. CHARACTER\nAge: mid-twenties — a clear adult face.\nFace — her own, recognisably this character, a woman's face with no beard or facial hair: a cool, aloof beauty; warm beige skin; diamond-shaped face with softly defined cheekbones and a tapered chin; eyes on the smaller side of natural — smooth monolid eyes of natural size, outer eye corners drooping downward; straight brows of natural fullness; a nose with a slightly upturned tip; softly full, heart-shaped lips of natural size; teal eyes; a small beauty mark under one eye.\nBody and hair: petite and compact yet curvaceous — full bust and rounded hips on a small frame build; a tall, swept cloud-shaped updo with blunt straight bangs; electric-blue hair.\nExpression: a faint pout, brows slightly drawn, subtle and relaxed.\nLegend, carried in her design and bearing: haughty suspicion, official armor.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME AND EQUIPMENT — THREE KINGDOMS\nCostume: Han-dynasty ruler's regalia — layered silk robes in her faction's colours with broad embroidered sleeves, a jade-and-gold guan headpiece or a mian crown with beaded strings, jade pendants at the sash, a ceremonial jian sword at the belt. Late-Han Chinese dress — cross-collared silk robes with wide sleeves and a broad sash, lamellar or scale armor laced with cords where armor is worn, bronze, jade and lacquer ornament, Han court hair ornaments; silk, lacquered leather, bronze and iron.\nSilhouette: layered trailing court regalia with a tall crown, long hanging sashes and jade pendants — a ceremonial, stately silhouette. This silhouette sets the overall shape of the costume above — keep its materials, ornaments and rank in this shape; the details are free.\nColours: teal green, river blue, silver and ivory.\nSignature item: a governor's seal. She holds it at full scale: one whole object, drawn once, held in front of or beside her body; a long weapon keeps one straight, unbroken shaft with a single head or blade.\nExposure (bold): her robes open to show skin — the cross collar opened into a deep neckline with natural cleavage, bare upper arms above detached wide sleeves (and bare shoulders where no shoulder guard sits), the skirt panels cut with a high side slit at full length — it shows the side line of one leg as she stands, no leg pushed out or knee bent for it; any armor pieces stay on and symmetrical. Intimate areas covered; keep the costume material and palette.\n\n4. SCENE\nWorld: the chaos of the late Eastern Han, around 184–200 AD: burning Luoyang, the Hulao Pass, Yellow Turban fields, warlord camps of rival banners, frontier steppe and the southern jungles of the Nanman.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: her whole figure from the top of her head or headpiece to both feet inside the frame with clear margins, about four-fifths of the image height; camera at chest height with natural portrait perspective.\n\n5. CONSTRAINTS\nOne figure only — no second character, horse or other creature. No readable text or numbers, except that a banner, seal or emblem may carry the single character 雄 or 韓. No logo, watermark, speech bubble or frame border. Three Kingdoms-era Chinese dress, architecture and materials only.\nAvoid: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+ "date": "2026-11-21",
+ "record": "records/한현/samguk.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "한현",
+  "out": "world",
+  "world": "samguk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {
+   "한현|samguk": {}
+  },
+  "looks": {
+   "한현|samguk": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "한현|samguk": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "61e4883bdf0fc5c46286f3ace69214ae6a8a9bb54245f5962b26b0c0a6c376b2",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "retries": [],
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "35d72214d529de3e5e4681dfc90fa33b6e22cad4fb5d919384636b245eda1d11",
+  "selected_candidate": 1,
+  "design": "atelier"
+ },
+ "execution": "sam-hanxuan-2aea5b366800",
+ "imported": "2026-11-22",
+ "qa": {
+  "reviewer": "sam-hanxuan-2aea5b366800",
+  "image_sha256": "61e4883bdf0fc5c46286f3ace69214ae6a8a9bb54245f5962b26b0c0a6c376b2",
+  "passed": true,
+  "anatomy": "ok",
+  "exposure": "match",
+  "observations": [
+   "삼국시대 1번 전신. 장사 태수 인장과 관복, 전기 파랑 올림머리와 연한 금속·비단 장식이 읽힘.",
+   "두 팔이 이어지고 인장을 받치는 손은 일부 가려짐. 얼굴과 관모, 양발이 프레임에 들어옴."
+  ]
+ },
+ "acceptance": "user_approval_2026-11-02 — selected candidates approved in chat (1, 3, 1)",
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ }
+}
