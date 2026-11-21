@@ -1,0 +1,116 @@
+{
+ "atelier": "samguk",
+ "card": "육적",
+ "faction": "wu",
+ "role": "official",
+ "world": "samguk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "honey",
+   "impression": "innocent",
+   "expr": "soft_smile",
+   "skin_tone": "golden_tan",
+   "age": "mid_20s",
+   "eye_size": "small",
+   "eye_tilt": "down",
+   "mark": "mole_eye",
+   "brows": "straight_thin",
+   "nose": "high_bridge",
+   "lips": "full_wide",
+   "face_shape": "v_line",
+   "eyes": "hooded"
+  },
+  "silhouette": {
+   "body": "petite_curvy",
+   "hair_color": "caramel",
+   "hair": "horn_locks",
+   "bangs": "choppy"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "육적_samguk_kr_drawn_rim_dewy_f.webp",
+ "prompt": "A full-body character image, vertical 2:3 (1024×1536): Lu Ji of the Romance of the Three Kingdoms, reimagined as an adult woman — the scholar of Wu who, at six, hid three of Yuan Shu's oranges to bring home to her mother.\n\n1. STYLE\nKorean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nHer face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\n2. CHARACTER\nAge: mid-twenties — a clear adult face.\nFace — her own, recognisably this character, a woman's face with no beard or facial hair: a clear, innocent purity; light warm-beige skin with a golden undertone; delicate V-line face with a small, soft chin; eyes on the smaller side of natural — hooded eyes, outer eye corners drooping downward; thin straight brows; slim, delicate nose with a refined bridge; medium-full lips of natural width; honey-gold eyes; a small beauty mark under one eye.\nBody and hair: petite and compact yet curvaceous — full bust and rounded hips on a small frame build; two stiff locks rising from her head like horns with choppy uneven bangs; caramel-brown hair.\nExpression: a faint soft smile, relaxed eyes, subtle and relaxed.\nLegend, carried in her design and bearing: earnest learning, a scholar's robe, a celestial-sphere charm on a cord.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME AND EQUIPMENT — THREE KINGDOMS\nCostume: a Han court official's dress — layered robes with a broad belt and a hanging seal cord, a black jinxian guan cap, an ink brush and bound bamboo slips. Late-Han Chinese dress — cross-collared silk robes with wide sleeves and a broad sash, lamellar or scale armor laced with cords where armor is worn, bronze, jade and lacquer ornament, Han court hair ornaments; silk, lacquered leather, bronze and iron.\nSilhouette: very long flowing water sleeves trailing past the hands through the air over a fitted dancer's dress — the sleeves make the shape. This silhouette sets the overall shape of the costume above — keep its materials, ornaments and rank in this shape; the details are free.\nColours: crimson red, gold, river teal, black lacquer.\nSignature item: a small armillary sphere. She holds it at full scale: one whole object, drawn once, held in front of or beside her body; a long weapon keeps one straight, unbroken shaft with a single head or blade.\nExposure (bold): her robes open to show skin — the cross collar opened into a deep neckline with natural cleavage, bare upper arms above detached wide sleeves (and bare shoulders where no shoulder guard sits), the skirt panels cut with a high side slit at full length — it shows the side line of one leg as she stands, no leg pushed out or knee bent for it; any armor pieces stay on and symmetrical. Intimate areas covered; keep the costume material and palette.\n\n4. SCENE\nWorld: Eastern Wu along the Yangtze, around 200–280 AD: the river capital Jianye, great war junks with crimson sails, river fortresses, southern rain and lotus marshes, the fire ships of the Red Cliffs.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: her whole figure from the top of her head or headpiece to both feet inside the frame with clear margins, about four-fifths of the image height; camera at chest height with natural portrait perspective.\n\n5. CONSTRAINTS\nOne figure only — no second character, horse or other creature. No readable text or numbers, except that a banner, seal or emblem may carry the single character 吳 or 陸. No logo, watermark, speech bubble or frame border. Three Kingdoms-era Chinese dress, architecture and materials only.\nAvoid: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+ "date": "2026-11-22",
+ "record": "records/육적/samguk.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "육적",
+  "out": "world",
+  "world": "samguk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {
+   "육적|samguk": {}
+  },
+  "looks": {
+   "육적|samguk": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "육적|samguk": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "eeedb94c61717d262de5079e69bd175b44517cd3437517eb6868aa5555b45bda",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "2d617582232c4c354e19511d0da8e2493f98f2859dfbef7d568ae44fdaa2c2d7",
+  "date": "2026-11-22",
+  "retries": [],
+  "selection": 1,
+  "design": "atelier"
+ },
+ "execution": "luji-a426b65",
+ "imported": "2026-11-22",
+ "acceptance": "User selected world candidates and authorized non-force publication.",
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ },
+ "qa": {
+  "reviewer": "luji-a426b65",
+  "image_sha256": "eeedb94c61717d262de5079e69bd175b44517cd3437517eb6868aa5555b45bda",
+  "passed": true,
+  "anatomy": "no obvious issue in visible anatomy",
+  "exposure": "match",
+  "observations": [
+   "Late-Han riverside pavilion, one scholar holding a whole armillary sphere. Full figure is present; sleeves partially conceal the hands."
+  ]
+ }
+}
