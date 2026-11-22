@@ -1,0 +1,123 @@
+{
+ "atelier": "samguk",
+ "card": "한수",
+ "faction": "qun",
+ "role": "general",
+ "world": "samguk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "emerald",
+   "impression": "sharp",
+   "expr": "half_smile",
+   "skin_tone": "fair",
+   "age": "mid_20s",
+   "eye_size": "small",
+   "eye_tilt": "down",
+   "mark": "mole_eye",
+   "brows": "straight_thick",
+   "nose": "upturned",
+   "lips": "heart_full",
+   "face_shape": "inverted_triangle",
+   "eyes": "monolid_long"
+  },
+  "silhouette": {
+   "body": "curvy_athletic",
+   "hair_color": "copper",
+   "hair": "half_up",
+   "bangs": "one_eye"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "한수_samguk_kr_drawn_rim_dewy_f.webp",
+ "prompt": "SUMMARY: a low braided crown with short swept-back temple locks; a heavy fur mantle over the shoulders with leather straps and beast ornaments — a rugged frontier silhouette; The mantle is cut into two broad opposing lobes, fastened together across a single narrow leather bridge like two rival camps held by one pact. softly rounded face that still tapers to a small chin, hooded eyes, soft feathered brows; a relaxed closed-mouth half-smile.\nA full-body character image, vertical 2:3 (1024×1536): Han Sui of the Romance of the Three Kingdoms, reimagined as an adult woman — the sworn sibling of Ma Teng who became her enemy.\n\n1. STYLE\nKorean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nHer face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\n2. CHARACTER\nAge: mid-twenties — a clear adult face.\nFace — her own, recognisably this character, a woman's face with no beard or facial hair: a stoic, unreadable reserve; olive skin; softly rounded face that still tapers to a small chin; hooded eyes; steel-blue eyes; soft feathered brows; a nose with a gentle aquiline curve; soft medium lips.\nBody and hair: strong and broad-shouldered with firm muscle, yet full-busted with wide rounded hips and a defined waist build; a low braided crown with short swept-back temple locks; polished copper-red hair.\nExpression: a slight smile, lips closed, subtle and relaxed.\nLegend, carried in her design and bearing: crafty frontier politics, weathered armor, a two-faced smile.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME AND EQUIPMENT — THREE KINGDOMS\nCostume: Three Kingdoms war general's armor — lamellar scale armor laced over a silk battle robe, beast-head shoulder guards, a plumed helmet or a war headband, a long war cape, her weapon at hand. Late-Han Chinese dress — cross-collared silk robes with wide sleeves and a broad sash, lamellar or scale armor laced with cords where armor is worn, bronze, jade and lacquer ornament, Han court hair ornaments; silk, lacquered leather, bronze and iron.\nSilhouette: a heavy fur mantle over the shoulders with leather straps and beast ornaments — a rugged frontier silhouette. This silhouette sets the overall shape of the costume above — keep its materials, ornaments and rank in this shape; the details are free.\nDesign idea: The mantle is cut into two broad opposing lobes, fastened together across a single narrow leather bridge like two rival camps held by one pact.\nColours: desert sand, rust orange, dark leather brown and steel.\nSignature item: a curved frontier saber. She holds it at full scale: one whole object, drawn once, held in front of or beside her body; a long weapon keeps one straight, unbroken shaft with a single head or blade.\nExposure (bold): her robes open to show skin — the cross collar opened into a deep neckline with natural cleavage, bare upper arms above detached wide sleeves (and bare shoulders where no shoulder guard sits), the skirt panels cut with a high side slit at full length — it shows the side line of one leg as she stands, no leg pushed out or knee bent for it; any armor pieces stay on and symmetrical. Intimate areas covered; keep the costume material and palette.\n\n4. SCENE\nWorld: the chaos of the late Eastern Han, around 184–200 AD: burning Luoyang, the Hulao Pass, Yellow Turban fields, warlord camps of rival banners, frontier steppe and the southern jungles of the Nanman.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nStance and hands: She holds the curved saber at her side with one hand, and the other hand rests open and visible.\nSetting detail: At a frontier signal platform above a dry ravine with ochre ridges and timber signal posts.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: her whole figure from the top of her head or headpiece to both feet inside the frame with clear margins, about four-fifths of the image height; camera at chest height with natural portrait perspective.\n\n5. CONSTRAINTS\nOne figure only — no second character, horse or other creature. No readable text or numbers, except that a banner, seal or emblem may carry the single character 雄 or 韓. No logo, watermark, speech bubble or frame border. Three Kingdoms-era Chinese dress, architecture and materials only.\nAvoid: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+ "date": "2026-11-22",
+ "record": "records/한수/samguk.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "한수",
+  "out": "world",
+  "world": "samguk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {
+   "한수|samguk": {}
+  },
+  "looks": {
+   "한수|samguk": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "한수|samguk": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "99f4096b474479ad4510186e52cd3fcd707653226f31f8714b82ef929b87d497",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "retries": [
+   {
+    "n": 1,
+    "status": "generated",
+    "exposure": "bold"
+   }
+  ],
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "cae9a37f7cef08d346398cadd6bea6a5c345f04723bdecc6c0dc13be25c1283f",
+  "design": "gpt_free",
+  "candidate": 4,
+  "free_prompt": "SUMMARY: a low braided crown with short swept-back temple locks; a heavy fur mantle over the shoulders with leather straps and beast ornaments — a rugged frontier silhouette; The mantle is cut into two broad opposing lobes, fastened together across a single narrow leather bridge like two rival camps held by one pact. softly rounded face that still tapers to a small chin, hooded eyes, soft feathered brows; a relaxed closed-mouth half-smile.\nA full-body character image, vertical 2:3 (1024×1536): Han Sui of the Romance of the Three Kingdoms, reimagined as an adult woman — the sworn sibling of Ma Teng who became her enemy.\n\n1. STYLE\nKorean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nHer face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\n2. CHARACTER\nAge: mid-twenties — a clear adult face.\nFace — her own, recognisably this character, a woman's face with no beard or facial hair: a stoic, unreadable reserve; olive skin; softly rounded face that still tapers to a small chin; hooded eyes; steel-blue eyes; soft feathered brows; a nose with a gentle aquiline curve; soft medium lips.\nBody and hair: strong and broad-shouldered with firm muscle, yet full-busted with wide rounded hips and a defined waist build; a low braided crown with short swept-back temple locks; polished copper-red hair.\nExpression: a slight smile, lips closed, subtle and relaxed.\nLegend, carried in her design and bearing: crafty frontier politics, weathered armor, a two-faced smile.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME AND EQUIPMENT — THREE KINGDOMS\nCostume: Three Kingdoms war general's armor — lamellar scale armor laced over a silk battle robe, beast-head shoulder guards, a plumed helmet or a war headband, a long war cape, her weapon at hand. Late-Han Chinese dress — cross-collared silk robes with wide sleeves and a broad sash, lamellar or scale armor laced with cords where armor is worn, bronze, jade and lacquer ornament, Han court hair ornaments; silk, lacquered leather, bronze and iron.\nSilhouette: a heavy fur mantle over the shoulders with leather straps and beast ornaments — a rugged frontier silhouette. This silhouette sets the overall shape of the costume above — keep its materials, ornaments and rank in this shape; the details are free.\nDesign idea: The mantle is cut into two broad opposing lobes, fastened together across a single narrow leather bridge like two rival camps held by one pact.\nColours: desert sand, rust orange, dark leather brown and steel.\nSignature item: a curved frontier saber. She holds it at full scale: one whole object, drawn once, held in front of or beside her body; a long weapon keeps one straight, unbroken shaft with a single head or blade.\nExposure (bold): her robes open to show skin — the cross collar opened into a deep neckline with natural cleavage, bare upper arms above detached wide sleeves (and bare shoulders where no shoulder guard sits), the skirt panels cut with a high side slit at full length — it shows the side line of one leg as she stands, no leg pushed out or knee bent for it; any armor pieces stay on and symmetrical. Intimate areas covered; keep the costume material and palette.\n\n4. SCENE\nWorld: the chaos of the late Eastern Han, around 184–200 AD: burning Luoyang, the Hulao Pass, Yellow Turban fields, warlord camps of rival banners, frontier steppe and the southern jungles of the Nanman.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nStance and hands: She holds the curved saber at her side with one hand, and the other hand rests open and visible.\nSetting detail: At a frontier signal platform above a dry ravine with ochre ridges and timber signal posts.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: her whole figure from the top of her head or headpiece to both feet inside the frame with clear margins, about four-fifths of the image height; camera at chest height with natural portrait perspective.\n\n5. CONSTRAINTS\nOne figure only — no second character, horse or other creature. No readable text or numbers, except that a banner, seal or emblem may carry the single character 雄 or 韓. No logo, watermark, speech bubble or frame border. Three Kingdoms-era Chinese dress, architecture and materials only.\nAvoid: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+  "summary": "a low braided crown with short swept-back temple locks; a heavy fur mantle over the shoulders with leather straps and beast ornaments — a rugged frontier silhouette; The mantle is cut into two broad opposing lobes, fastened together across a single narrow leather bridge like two rival camps held by one pact. softly rounded face that still tapers to a small chin, hooded eyes, soft feathered brows; a relaxed closed-mouth half-smile."
+ },
+ "execution": "sam-hansui-c21d051461a5",
+ "imported": "2026-11-22",
+ "qa": {
+  "reviewer": "sam-hansui-c21d051461a5",
+  "image_sha256": "99f4096b474479ad4510186e52cd3fcd707653226f31f8714b82ef929b87d497",
+  "passed": true,
+  "anatomy": "ok",
+  "exposure": "match",
+  "observations": [
+   "서량 망루, 모피 망토와 층갑, 완전한 곡도가 프레임 안에 들어온 전신."
+  ]
+ },
+ "acceptance": "user approval for chosen world cuts 4,3,4 and direct registration",
+ "review": {
+  "reviewed": true,
+  "by": "user",
+  "result": "selected"
+ }
+}

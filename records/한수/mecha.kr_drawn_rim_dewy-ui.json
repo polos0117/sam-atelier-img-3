@@ -1,0 +1,123 @@
+{
+ "atelier": "samguk",
+ "card": "한수",
+ "faction": "qun",
+ "role": "general",
+ "world": "mecha",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "emerald",
+   "impression": "sharp",
+   "expr": "half_smile",
+   "skin_tone": "fair",
+   "age": "mid_20s",
+   "eye_size": "small",
+   "eye_tilt": "down",
+   "mark": "mole_eye",
+   "brows": "straight_thick",
+   "nose": "upturned",
+   "lips": "heart_full",
+   "face_shape": "round",
+   "eyes": "droopy_soft"
+  },
+  "silhouette": {
+   "body": "curvy_athletic",
+   "hair_color": "copper",
+   "hair": "jellyfish_cut",
+   "bangs": "curtain"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "한수_mecha_kr_drawn_rim_dewy_f.webp",
+ "prompt": "SUMMARY: a close cropped swept-back undercut with sculpted waves on top; several long rigid jointed plates hanging from behind the shoulders to the ankles like a cape — plates, not cloth; The two shoulder-mounted banks of long rigid plates hinge toward one another in opposing arcs and lock at a shared spine joint, recalling a divided command. heart-shaped face, softly deep-set eyes of natural size, full brows set slightly low over the eyes; a relaxed closed-mouth half-smile.\nA full-body character image, vertical 2:3 (1024×1536): Han Sui of the Romance of the Three Kingdoms, reimagined as an adult woman — the sworn sibling of Ma Teng who became her enemy.\n\n1. STYLE\nKorean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nHer face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\n2. CHARACTER\nAge: mid-twenties — a clear adult face.\nFace — her own, recognisably this character, a woman's face with no beard or facial hair: a mature, poised woman; light warm-beige skin with a golden undertone; heart-shaped face; softly deep-set eyes of natural size; teal eyes; full brows set slightly low over the eyes; a nose with a soft, rounded tip and natural width; medium-full lips of natural width.\nBody and hair: broad-shouldered and strong build; a close cropped swept-back undercut with sculpted waves on top; polished copper-red hair.\nExpression: a slight smile, lips closed, subtle and relaxed.\nLegend, carried in her design and bearing: crafty frontier politics, weathered armor, a two-faced smile.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME AND EQUIPMENT — MECHA\nCostume: a female mecha personification built as an assault-type mecha frame — heavy armor plates, thruster packs, reinforced limbs, her weapon rebuilt as a large mecha armament. Solid hard-surface plates with visible joints cover her frame except at the openings named under Exposure; any cape or skirt is made of rigid armored plates; her face and hair stay human.\nSilhouette: several long rigid jointed plates hanging from behind the shoulders to the ankles like a cape — plates, not cloth. This silhouette sets the overall shape of the costume above — keep its materials, ornaments and rank in this shape; the details are free.\nDesign idea: The two shoulder-mounted banks of long rigid plates hinge toward one another in opposing arcs and lock at a shared spine joint, recalling a divided command.\nColours: desert sand, rust orange, dark leather brown and steel. Faction frame: desert-sand and rust-orange plating with dark leather-brown parts and steel joints, rugged steppe-raider silhouette, horse-tail plumes, orange glow lines.\nSignature item: a curved frontier saber, rebuilt as a far-future high-tech version of the same kind of object with the same silhouette — hard-surface alloy plates with panel lines, mechanical joints, vents and emitter nodes, an energy edge, plasma blade or glowing core in her glow-line colour and small status lights, with any animal motif re-sculpted as sleek machined armour. She holds it at full scale: one whole object, drawn once, held in front of or beside her body; a long weapon keeps one straight, unbroken shaft with a single head or blade.\nExposure (bold): her mecha frame is cut open by design in only these places — a bare waist and midriff between the bust plate and the hip armor, and bare upper thighs between the hip armor and thigh-high leg plates; everywhere else she stays fully plated. The plates stay on, fitted and symmetrical, with skin clearly showing in each opening. Intimate areas covered; keep the plate material and palette.\n\n4. SCENE\nWorld: year 2190, the Free Zones — a lawless asteroid belt between the three powers: warlord fortresses carved into asteroids, wrecked starships drifting in the dark, a violet nebula, warning lights blinking.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nStance and hands: She holds the curved saber at her side with one hand, and the other hand rests open and visible.\nSetting detail: At the mouth of a bright ochre maintenance hangar cut into a desert escarpment.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: her whole figure from the top of her head or headpiece to both feet inside the frame with clear margins, about four-fifths of the image height; camera at chest height with natural portrait perspective.\n\n5. CONSTRAINTS\nOne figure only — no second character, horse or other creature. No readable text or numbers — emblems are abstract insignia shapes only, never letters or Chinese characters. No logo, watermark, speech bubble or frame border. A far-future setting only — space stations, starships and high-tech structures — with no traditional East-Asian architecture.\nAvoid: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+ "date": "2026-11-22",
+ "record": "records/한수/mecha.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "한수",
+  "out": "world",
+  "world": "mecha",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {
+   "한수|mecha": {}
+  },
+  "looks": {
+   "한수|mecha": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "한수|mecha": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "f09619c4bc34001df3d96c0ba0b3f54911e3572d59a7e4aafb84ce51e31a2ca4",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "retries": [
+   {
+    "n": 1,
+    "status": "generated",
+    "exposure": "bold"
+   }
+  ],
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "f890e3dbe2f904fe59899b95958a8e88a7aea716aa87386117c0d1233cc18f13",
+  "design": "gpt_free",
+  "candidate": 4,
+  "free_prompt": "SUMMARY: a close cropped swept-back undercut with sculpted waves on top; several long rigid jointed plates hanging from behind the shoulders to the ankles like a cape — plates, not cloth; The two shoulder-mounted banks of long rigid plates hinge toward one another in opposing arcs and lock at a shared spine joint, recalling a divided command. heart-shaped face, softly deep-set eyes of natural size, full brows set slightly low over the eyes; a relaxed closed-mouth half-smile.\nA full-body character image, vertical 2:3 (1024×1536): Han Sui of the Romance of the Three Kingdoms, reimagined as an adult woman — the sworn sibling of Ma Teng who became her enemy.\n\n1. STYLE\nKorean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nHer face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\n2. CHARACTER\nAge: mid-twenties — a clear adult face.\nFace — her own, recognisably this character, a woman's face with no beard or facial hair: a mature, poised woman; light warm-beige skin with a golden undertone; heart-shaped face; softly deep-set eyes of natural size; teal eyes; full brows set slightly low over the eyes; a nose with a soft, rounded tip and natural width; medium-full lips of natural width.\nBody and hair: broad-shouldered and strong build; a close cropped swept-back undercut with sculpted waves on top; polished copper-red hair.\nExpression: a slight smile, lips closed, subtle and relaxed.\nLegend, carried in her design and bearing: crafty frontier politics, weathered armor, a two-faced smile.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME AND EQUIPMENT — MECHA\nCostume: a female mecha personification built as an assault-type mecha frame — heavy armor plates, thruster packs, reinforced limbs, her weapon rebuilt as a large mecha armament. Solid hard-surface plates with visible joints cover her frame except at the openings named under Exposure; any cape or skirt is made of rigid armored plates; her face and hair stay human.\nSilhouette: several long rigid jointed plates hanging from behind the shoulders to the ankles like a cape — plates, not cloth. This silhouette sets the overall shape of the costume above — keep its materials, ornaments and rank in this shape; the details are free.\nDesign idea: The two shoulder-mounted banks of long rigid plates hinge toward one another in opposing arcs and lock at a shared spine joint, recalling a divided command.\nColours: desert sand, rust orange, dark leather brown and steel. Faction frame: desert-sand and rust-orange plating with dark leather-brown parts and steel joints, rugged steppe-raider silhouette, horse-tail plumes, orange glow lines.\nSignature item: a curved frontier saber, rebuilt as a far-future high-tech version of the same kind of object with the same silhouette — hard-surface alloy plates with panel lines, mechanical joints, vents and emitter nodes, an energy edge, plasma blade or glowing core in her glow-line colour and small status lights, with any animal motif re-sculpted as sleek machined armour. She holds it at full scale: one whole object, drawn once, held in front of or beside her body; a long weapon keeps one straight, unbroken shaft with a single head or blade.\nExposure (bold): her mecha frame is cut open by design in only these places — a bare waist and midriff between the bust plate and the hip armor, and bare upper thighs between the hip armor and thigh-high leg plates; everywhere else she stays fully plated. The plates stay on, fitted and symmetrical, with skin clearly showing in each opening. Intimate areas covered; keep the plate material and palette.\n\n4. SCENE\nWorld: year 2190, the Free Zones — a lawless asteroid belt between the three powers: warlord fortresses carved into asteroids, wrecked starships drifting in the dark, a violet nebula, warning lights blinking.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nStance and hands: She holds the curved saber at her side with one hand, and the other hand rests open and visible.\nSetting detail: At the mouth of a bright ochre maintenance hangar cut into a desert escarpment.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: her whole figure from the top of her head or headpiece to both feet inside the frame with clear margins, about four-fifths of the image height; camera at chest height with natural portrait perspective.\n\n5. CONSTRAINTS\nOne figure only — no second character, horse or other creature. No readable text or numbers — emblems are abstract insignia shapes only, never letters or Chinese characters. No logo, watermark, speech bubble or frame border. A far-future setting only — space stations, starships and high-tech structures — with no traditional East-Asian architecture.\nAvoid: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+  "summary": "a close cropped swept-back undercut with sculpted waves on top; several long rigid jointed plates hanging from behind the shoulders to the ankles like a cape — plates, not cloth; The two shoulder-mounted banks of long rigid plates hinge toward one another in opposing arcs and lock at a shared spine joint, recalling a divided command. heart-shaped face, softly deep-set eyes of natural size, full brows set slightly low over the eyes; a relaxed closed-mouth half-smile."
+ },
+ "execution": "sam-hansui-c21d051461a5",
+ "imported": "2026-11-22",
+ "qa": {
+  "reviewer": "sam-hansui-c21d051461a5",
+  "image_sha256": "f09619c4bc34001df3d96c0ba0b3f54911e3572d59a7e4aafb84ce51e31a2ca4",
+  "passed": true,
+  "anatomy": "ok",
+  "exposure": "match",
+  "observations": [
+   "사막 격납고 앞의 전신 메카 갑주, 어깨 뒤 긴 장갑판과 발광 곡도."
+  ]
+ },
+ "acceptance": "user approval for chosen world cuts 4,3,4 and direct registration",
+ "review": {
+  "reviewed": true,
+  "by": "user",
+  "result": "selected"
+ }
+}
