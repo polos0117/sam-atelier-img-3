@@ -1,0 +1,121 @@
+{
+ "atelier": "samguk",
+ "card": "능조",
+ "faction": "wu",
+ "role": "general",
+ "world": "samguk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "aqua",
+   "impression": "boyish",
+   "expr": "determined",
+   "skin_tone": "fair",
+   "age": "early_20s",
+   "eye_size": "large",
+   "eye_tilt": "down",
+   "mark": "scar",
+   "brows": "soft_round",
+   "nose": "straight_narrow",
+   "lips": "full_wide",
+   "face_shape": "v_line",
+   "eyes": "round_large"
+  },
+  "silhouette": {
+   "body": "petite_curvy",
+   "hair_color": "silver_white",
+   "hair": "messy_bun",
+   "bangs": "baby"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "능조_samguk_kr_drawn_rim_dewy_f.webp",
+ "prompt": "A full-body character image, vertical 2:3 (1024×1536): Ling Cao of the Romance of the Three Kingdoms, reimagined as an adult woman — the river commander who led from a light boat and fell to an arrow.\n\n1. STYLE\nKorean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nHer face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\n2. CHARACTER\nAge: about twenty — a fresh young-adult face.\nFace — her own, recognisably this character, a woman's face with no beard or facial hair: a boyish, mischievous tomboy energy; fair skin; delicate V-line face with a small, soft chin; eyes on the larger side of natural — rounder almond eyes of natural size, outer eye corners drooping downward; soft rounded brows; a straight nose with a slim bridge; medium-full lips of natural width; clear aqua eyes; a thin faint scar through one eyebrow.\nBody and hair: petite and compact yet curvaceous — full bust and rounded hips on a small frame build; a loose messy bun with fallen strands with short baby bangs; silver-white hair.\nExpression: a firm, resolute look with calm, steady eyes, subtle and relaxed.\nLegend, carried in her design and bearing: swiftness and boldness, light river armor.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME AND EQUIPMENT — THREE KINGDOMS\nCostume: Three Kingdoms war general's armor — lamellar scale armor laced over a silk battle robe, beast-head shoulder guards, a plumed helmet or a war headband, a long war cape, her weapon at hand. Late-Han Chinese dress — cross-collared silk robes with wide sleeves and a broad sash, lamellar or scale armor laced with cords where armor is worn, bronze, jade and lacquer ornament, Han court hair ornaments; silk, lacquered leather, bronze and iron.\nSilhouette: fitted light lamellar armor with short armored skirts slit for riding, bracers and greaves — a lean, practical cavalry silhouette. This silhouette sets the overall shape of the costume above — keep its materials, ornaments and rank in this shape; the details are free.\nColours: crimson red, gold, river teal, black lacquer.\nSignature item: a short spear. She holds it at full scale: one whole object, drawn once, held in front of or beside her body; a long weapon keeps one straight, unbroken shaft with a single head or blade.\nExposure (bold): her robes open to show skin — the cross collar opened into a deep neckline with natural cleavage, bare upper arms above detached wide sleeves (and bare shoulders where no shoulder guard sits), the skirt panels cut with a high side slit at full length — it shows the side line of one leg as she stands, no leg pushed out or knee bent for it; any armor pieces stay on and symmetrical. Intimate areas covered; keep the costume material and palette.\n\n4. SCENE\nWorld: Eastern Wu along the Yangtze, around 200–280 AD: the river capital Jianye, great war junks with crimson sails, river fortresses, southern rain and lotus marshes, the fire ships of the Red Cliffs.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: her whole figure from the top of her head or headpiece to both feet inside the frame with clear margins, about four-fifths of the image height; camera at chest height with natural portrait perspective.\n\n5. CONSTRAINTS\nOne figure only — no second character, horse or other creature. No readable text or numbers, except that a banner, seal or emblem may carry the single character 吳 or 凌. No logo, watermark, speech bubble or frame border. Three Kingdoms-era Chinese dress, architecture and materials only.\nAvoid: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+ "date": "2026-11-22",
+ "record": "records/능조/samguk.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "능조",
+  "out": "world",
+  "world": "samguk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {
+   "능조|samguk": {}
+  },
+  "looks": {
+   "능조|samguk": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "능조|samguk": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "a14d5f1defeb0ab305a01e570eb3bf201f25dcb021488586aec731cfafad6e5f",
+  "webp": {
+   "quality": 90
+  },
+  "retries": [
+   {
+    "n": 1,
+    "status": "generated",
+    "exposure": "bold"
+   }
+  ],
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "9c0f87b17ad6cc1b1992a3bc0dd54d74a258545cb57836b705d79e3e90b0c562",
+  "design": "ours",
+  "selection": 2
+ },
+ "execution": "sam-lingcao-2d5fb16f7b23",
+ "imported": "2026-11-22",
+ "qa": {
+  "reviewer": "sam-lingcao-2d5fb16f7b23",
+  "image_sha256": "a14d5f1defeb0ab305a01e570eb3bf201f25dcb021488586aec731cfafad6e5f",
+  "passed": true,
+  "anatomy": "ok",
+  "exposure": "match",
+  "observations": [
+   "삼국시대 2번. 수상 군영의 장수, 은백발 만두머리, 한 자루 단창이 이어짐.",
+   "전신과 양팔이 보이고 진홍·청록 색과 단갑 확인."
+  ]
+ },
+ "acceptance": "user_approval_2026-11-22 — 세계컷 2,2,1 선택, 완료 뒤 원격 main 반영 승인",
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ }
+}
