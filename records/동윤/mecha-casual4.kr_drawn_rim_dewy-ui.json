@@ -1,0 +1,19 @@
+{
+  "card": "동윤",
+  "world": "mecha",
+  "style": "kr_drawn_rim_dewy",
+  "gender": "f",
+  "file": "동윤_mecha_kr_drawn_rim_dewy_f_casual4.webp",
+  "date": "2026-11-18",
+  "generation": {
+    "source": "recovered_original_png",
+    "sha256": "46c60bb9232ce0eb49083aea2105f555a86a6f62d15a5fa30b1e43d8711da847"
+  },
+  "recovery": {
+    "source_title": "네온과 빗소리, 다이너의 그녀.png",
+    "verified_against": "dongyun-complete-27-sheet.jpg",
+    "selected_world_option": 3
+  },
+  "n": 4,
+  "ref": "동윤_mecha_kr_drawn_rim_dewy_f.webp"
+}

@@ -1,0 +1,19 @@
+{
+  "card": "동윤",
+  "world": "mecha",
+  "style": "kr_drawn_rim_dewy",
+  "gender": "f",
+  "file": "동윤_mecha_kr_drawn_rim_dewy_f_casual5.webp",
+  "date": "2026-11-18",
+  "generation": {
+    "source": "recovered_original_png",
+    "sha256": "021d538ce0a896260fa3b08830622740b5dbe832c689d71852a3de2fb1e1415d"
+  },
+  "recovery": {
+    "source_title": "밤의 온실 씨앗 도서관.png",
+    "verified_against": "dongyun-complete-27-sheet.jpg",
+    "selected_world_option": 3
+  },
+  "n": 5,
+  "ref": "동윤_mecha_kr_drawn_rim_dewy_f.webp"
+}

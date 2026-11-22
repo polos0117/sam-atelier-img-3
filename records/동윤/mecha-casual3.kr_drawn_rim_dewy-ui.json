@@ -1,0 +1,19 @@
+{
+  "card": "동윤",
+  "world": "mecha",
+  "style": "kr_drawn_rim_dewy",
+  "gender": "f",
+  "file": "동윤_mecha_kr_drawn_rim_dewy_f_casual3.webp",
+  "date": "2026-11-18",
+  "generation": {
+    "source": "recovered_original_png",
+    "sha256": "31163391f0390c6e928a8df230db61d0a674a3126266d49c1dec27853fab0586"
+  },
+  "recovery": {
+    "source_title": "화보 스튜디오의 하인 코스프레.png",
+    "verified_against": "dongyun-complete-27-sheet.jpg",
+    "selected_world_option": 3
+  },
+  "n": 3,
+  "ref": "동윤_mecha_kr_drawn_rim_dewy_f.webp"
+}

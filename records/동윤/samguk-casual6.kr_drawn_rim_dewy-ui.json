@@ -1,0 +1,19 @@
+{
+  "card": "동윤",
+  "world": "samguk",
+  "style": "kr_drawn_rim_dewy",
+  "gender": "f",
+  "file": "동윤_samguk_kr_drawn_rim_dewy_f_casual6.webp",
+  "date": "2026-11-18",
+  "generation": {
+    "source": "recovered_original_png",
+    "sha256": "a9289ae0a47f1424a03dc4b0fa67f0e762d155a78d68ea2fe158eb41b33ae4b2"
+  },
+  "recovery": {
+    "source_title": "양쯔강 노을과 펜을 든 그녀.png",
+    "verified_against": "dongyun-complete-27-sheet.jpg",
+    "selected_world_option": 1
+  },
+  "n": 6,
+  "ref": "동윤_samguk_kr_drawn_rim_dewy_f.webp"
+}

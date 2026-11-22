@@ -1,0 +1,19 @@
+{
+  "card": "동윤",
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "gender": "f",
+  "file": "동윤_fantasy_kr_drawn_rim_dewy_f_casual2.webp",
+  "date": "2026-11-18",
+  "generation": {
+    "source": "recovered_original_png",
+    "sha256": "ec91c94c62f3413e746dffa398740c8bd556c3a290fbe5420e2920bf00ce99a5"
+  },
+  "recovery": {
+    "source_title": "성채 침실의 에메랄드 휴식.png",
+    "verified_against": "dongyun-complete-27-sheet.jpg",
+    "selected_world_option": 2
+  },
+  "n": 2,
+  "ref": "동윤_fantasy_kr_drawn_rim_dewy_f.webp"
+}

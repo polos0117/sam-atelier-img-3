@@ -1,0 +1,19 @@
+{
+  "card": "동윤",
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "gender": "f",
+  "file": "동윤_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+  "date": "2026-11-18",
+  "generation": {
+    "source": "recovered_original_png",
+    "sha256": "bcad145d2d8d0a1d514c38eaf7142287f89532af99ef57fe8e0c6966fa268a11"
+  },
+  "recovery": {
+    "source_title": "온천마을 족욕탕의 푸른 황혼.png",
+    "verified_against": "dongyun-complete-27-sheet.jpg",
+    "selected_world_option": 2
+  },
+  "n": 6,
+  "ref": "동윤_fantasy_kr_drawn_rim_dewy_f.webp"
+}

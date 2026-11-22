@@ -1,0 +1,19 @@
+{
+  "card": "동윤",
+  "world": "samguk",
+  "style": "kr_drawn_rim_dewy",
+  "gender": "f",
+  "file": "동윤_samguk_kr_drawn_rim_dewy_f_casual4.webp",
+  "date": "2026-11-18",
+  "generation": {
+    "source": "recovered_original_png",
+    "sha256": "a3a7c1a9660da7780463be0084c978734a2615be926fa03b789d7db6a4b34d7c"
+  },
+  "recovery": {
+    "source_title": "서커스 링의 주황빛 옆모습.png",
+    "verified_against": "dongyun-complete-27-sheet.jpg",
+    "selected_world_option": 1
+  },
+  "n": 4,
+  "ref": "동윤_samguk_kr_drawn_rim_dewy_f.webp"
+}

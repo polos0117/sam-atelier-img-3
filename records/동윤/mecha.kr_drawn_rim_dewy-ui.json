@@ -1,0 +1,17 @@
+{
+  "card": "동윤",
+  "world": "mecha",
+  "style": "kr_drawn_rim_dewy",
+  "gender": "f",
+  "file": "동윤_mecha_kr_drawn_rim_dewy_f.webp",
+  "date": "2026-11-18",
+  "generation": {
+    "source": "recovered_original_png",
+    "sha256": "64c40554cbda64f7c90c1830a2d2482fcc50c57c03bba8e1ae0dd7baaa56c6b5"
+  },
+  "recovery": {
+    "source_title": "옥빛 우주 기갑 동윤.png",
+    "verified_against": "dongyun-complete-27-sheet.jpg",
+    "selected_world_option": 3
+  }
+}

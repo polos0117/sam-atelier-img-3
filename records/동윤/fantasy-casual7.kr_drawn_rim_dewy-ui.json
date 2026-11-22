@@ -1,0 +1,19 @@
+{
+  "card": "동윤",
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "gender": "f",
+  "file": "동윤_fantasy_kr_drawn_rim_dewy_f_casual7.webp",
+  "date": "2026-11-18",
+  "generation": {
+    "source": "recovered_original_png",
+    "sha256": "4d8e908bd48724cd79d3c26797fcb67ef8b50c6e21804478b269eeadcc8f5168"
+  },
+  "recovery": {
+    "source_title": "성채 옥상에서 별을 재다.png",
+    "verified_against": "dongyun-complete-27-sheet.jpg",
+    "selected_world_option": 2
+  },
+  "n": 7,
+  "ref": "동윤_fantasy_kr_drawn_rim_dewy_f.webp"
+}

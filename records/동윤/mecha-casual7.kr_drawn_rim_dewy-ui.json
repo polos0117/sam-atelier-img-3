@@ -1,0 +1,19 @@
+{
+  "card": "동윤",
+  "world": "mecha",
+  "style": "kr_drawn_rim_dewy",
+  "gender": "f",
+  "file": "동윤_mecha_kr_drawn_rim_dewy_f_casual7.webp",
+  "date": "2026-11-18",
+  "generation": {
+    "source": "recovered_original_png",
+    "sha256": "c2fd1ff34e1d5f07f308f9f7e469d5c4c3e024457e8c29a5b8c7dc73e9c1ddca"
+  },
+  "recovery": {
+    "source_title": "달 우체국의 우편가방 점검.png",
+    "verified_against": "dongyun-complete-27-sheet.jpg",
+    "selected_world_option": 3
+  },
+  "n": 7,
+  "ref": "동윤_mecha_kr_drawn_rim_dewy_f.webp"
+}

@@ -1,0 +1,19 @@
+{
+  "card": "동윤",
+  "world": "samguk",
+  "style": "kr_drawn_rim_dewy",
+  "gender": "f",
+  "file": "동윤_samguk_kr_drawn_rim_dewy_f_casual5.webp",
+  "date": "2026-11-18",
+  "generation": {
+    "source": "recovered_original_png",
+    "sha256": "1cdfecfbd12627d0e8d5b9eace6a3ff90cb2fb589ac4ff967e28b9142a55a1c2"
+  },
+  "recovery": {
+    "source_title": "레터프레스 공방의 곧은 선.png",
+    "verified_against": "dongyun-complete-27-sheet.jpg",
+    "selected_world_option": 1
+  },
+  "n": 5,
+  "ref": "동윤_samguk_kr_drawn_rim_dewy_f.webp"
+}

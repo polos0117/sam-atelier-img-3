@@ -1,0 +1,19 @@
+{
+  "card": "동윤",
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "gender": "f",
+  "file": "동윤_fantasy_kr_drawn_rim_dewy_f_casual1.webp",
+  "date": "2026-11-18",
+  "generation": {
+    "source": "recovered_original_png",
+    "sha256": "87f764b2ee40d66b702132876b66d45f8e085c30fae946ff148ad7056a703bf3"
+  },
+  "recovery": {
+    "source_title": "대리석 사원의 꽃다발 윙크.png",
+    "verified_against": "dongyun-complete-27-sheet.jpg",
+    "selected_world_option": 2
+  },
+  "n": 1,
+  "ref": "동윤_fantasy_kr_drawn_rim_dewy_f.webp"
+}

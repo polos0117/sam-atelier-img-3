@@ -1,0 +1,22 @@
+{
+  "card": "동윤",
+  "world": "mecha",
+  "style": "kr_drawn_rim_dewy",
+  "gender": "f",
+  "file": "동윤_mecha_kr_drawn_rim_dewy_f_casual90.webp",
+  "date": "2026-11-18",
+  "generation": {
+    "source": "recovered_original_png",
+    "sha256": "8f38b8c89086699675f8d6105fb494491e65f9c9c6cc9b567f75130fc60a5711"
+  },
+  "recovery": {
+    "source_title": "눈 내리는 미래 기숙사의 등불지기.png",
+    "verified_against": "dongyun-complete-27-sheet.jpg",
+    "selected_world_option": 3
+  },
+  "n": 90,
+  "ref": "동윤_mecha_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "own": true
+  }
+}

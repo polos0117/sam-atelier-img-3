@@ -1,0 +1,17 @@
+{
+  "card": "동윤",
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "gender": "f",
+  "file": "동윤_fantasy_kr_drawn_rim_dewy_f.webp",
+  "date": "2026-11-18",
+  "generation": {
+    "source": "recovered_original_png",
+    "sha256": "4d00f6efb20ab301092e8c1e290e4e7cb302c6a4cebba59c3de893522482b1b0"
+  },
+  "recovery": {
+    "source_title": "용의 깃발 아래 선 엄정한 궁정학자.png",
+    "verified_against": "dongyun-complete-27-sheet.jpg",
+    "selected_world_option": 2
+  }
+}

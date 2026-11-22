@@ -1,0 +1,19 @@
+{
+  "card": "동윤",
+  "world": "mecha",
+  "style": "kr_drawn_rim_dewy",
+  "gender": "f",
+  "file": "동윤_mecha_kr_drawn_rim_dewy_f_casual2.webp",
+  "date": "2026-11-18",
+  "generation": {
+    "source": "recovered_original_png",
+    "sha256": "21844781b44626138b25b540bf4a5f19b48ecee73d67e5e4794c314190892e43"
+  },
+  "recovery": {
+    "source_title": "눈 내리는 우주 관측덱의 그녀.png",
+    "verified_against": "dongyun-complete-27-sheet.jpg",
+    "selected_world_option": 3
+  },
+  "n": 2,
+  "ref": "동윤_mecha_kr_drawn_rim_dewy_f.webp"
+}

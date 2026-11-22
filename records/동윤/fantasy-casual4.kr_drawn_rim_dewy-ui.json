@@ -1,0 +1,19 @@
+{
+  "card": "동윤",
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "gender": "f",
+  "file": "동윤_fantasy_kr_drawn_rim_dewy_f_casual4.webp",
+  "date": "2026-11-18",
+  "generation": {
+    "source": "recovered_original_png",
+    "sha256": "494bddc2c021ae7ca2a4079888702b5512f2bdf5d2dd945644264bcc9eeeaa3d"
+  },
+  "recovery": {
+    "source_title": "성의 영사실, 빛을 맞추는 무대 지휘관.png",
+    "verified_against": "dongyun-complete-27-sheet.jpg",
+    "selected_world_option": 2
+  },
+  "n": 4,
+  "ref": "동윤_fantasy_kr_drawn_rim_dewy_f.webp"
+}

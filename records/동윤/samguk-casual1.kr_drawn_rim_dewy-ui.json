@@ -1,0 +1,19 @@
+{
+  "card": "동윤",
+  "world": "samguk",
+  "style": "kr_drawn_rim_dewy",
+  "gender": "f",
+  "file": "동윤_samguk_kr_drawn_rim_dewy_f_casual1.webp",
+  "date": "2026-11-18",
+  "generation": {
+    "source": "recovered_original_png",
+    "sha256": "154157c023d561fce40f7b43ee5dde2acbe93fe247d869ecee8c176476e7e84a"
+  },
+  "recovery": {
+    "source_title": "물가 카바나에서 뒤돌아본 순간.png",
+    "verified_against": "dongyun-complete-27-sheet.jpg",
+    "selected_world_option": 1
+  },
+  "n": 1,
+  "ref": "동윤_samguk_kr_drawn_rim_dewy_f.webp"
+}

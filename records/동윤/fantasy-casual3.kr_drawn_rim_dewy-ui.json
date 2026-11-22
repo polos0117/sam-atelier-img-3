@@ -1,0 +1,19 @@
+{
+  "card": "동윤",
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "gender": "f",
+  "file": "동윤_fantasy_kr_drawn_rim_dewy_f_casual3.webp",
+  "date": "2026-11-18",
+  "generation": {
+    "source": "recovered_original_png",
+    "sha256": "eb9a333e7f8f35ff104179ef8e59509a07e27f023ec2c369268f24a7b5693d98"
+  },
+  "recovery": {
+    "source_title": "링 라이트 아래 아야네 코스프레 통화.png",
+    "verified_against": "dongyun-complete-27-sheet.jpg",
+    "selected_world_option": 2
+  },
+  "n": 3,
+  "ref": "동윤_fantasy_kr_drawn_rim_dewy_f.webp"
+}

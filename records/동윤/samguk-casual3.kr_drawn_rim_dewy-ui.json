@@ -1,0 +1,19 @@
+{
+  "card": "동윤",
+  "world": "samguk",
+  "style": "kr_drawn_rim_dewy",
+  "gender": "f",
+  "file": "동윤_samguk_kr_drawn_rim_dewy_f_casual3.webp",
+  "date": "2026-11-18",
+  "generation": {
+    "source": "recovered_original_png",
+    "sha256": "71397bbada4a5780b1113006a38ee582679a60bcc3119d9b12794ce953cd980b"
+  },
+  "recovery": {
+    "source_title": "별빛 무대의 슬라임 코스프레(1).png",
+    "verified_against": "dongyun-complete-27-sheet.jpg",
+    "selected_world_option": 1
+  },
+  "n": 3,
+  "ref": "동윤_samguk_kr_drawn_rim_dewy_f.webp"
+}

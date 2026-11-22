@@ -1,0 +1,19 @@
+{
+  "card": "동윤",
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "gender": "f",
+  "file": "동윤_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
+  "date": "2026-11-18",
+  "generation": {
+    "source": "recovered_original_png",
+    "sha256": "e23374d8f0a5e9cc720294814dabefb11d01b5fe23febfb0a877ae9ff19077ef"
+  },
+  "recovery": {
+    "source_title": "황금빛 사천 차밭 산책.png",
+    "verified_against": "dongyun-complete-27-sheet.jpg",
+    "selected_world_option": 2
+  },
+  "n": 5,
+  "ref": "동윤_fantasy_kr_drawn_rim_dewy_f.webp"
+}

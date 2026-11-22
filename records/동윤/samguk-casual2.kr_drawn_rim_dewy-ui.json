@@ -1,0 +1,19 @@
+{
+  "card": "동윤",
+  "world": "samguk",
+  "style": "kr_drawn_rim_dewy",
+  "gender": "f",
+  "file": "동윤_samguk_kr_drawn_rim_dewy_f_casual2.webp",
+  "date": "2026-11-18",
+  "generation": {
+    "source": "recovered_original_png",
+    "sha256": "21a3e385980ba09117c884a3491f65566aea9199709874af7c0147a8515c21f3"
+  },
+  "recovery": {
+    "source_title": "아침빛 아래 책을 든 그녀.png",
+    "verified_against": "dongyun-complete-27-sheet.jpg",
+    "selected_world_option": 1
+  },
+  "n": 2,
+  "ref": "동윤_samguk_kr_drawn_rim_dewy_f.webp"
+}

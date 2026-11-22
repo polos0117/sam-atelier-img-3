@@ -1,0 +1,19 @@
+{
+  "card": "동윤",
+  "world": "mecha",
+  "style": "kr_drawn_rim_dewy",
+  "gender": "f",
+  "file": "동윤_mecha_kr_drawn_rim_dewy_f_casual1.webp",
+  "date": "2026-11-18",
+  "generation": {
+    "source": "recovered_original_png",
+    "sha256": "2a8dddcfa8070575285f86c19b59ae4de432dd926c400addbaedbac79323baf3"
+  },
+  "recovery": {
+    "source_title": "그랜드 피아노 곁, 빈 잔의 미소.png",
+    "verified_against": "dongyun-complete-27-sheet.jpg",
+    "selected_world_option": 3
+  },
+  "n": 1,
+  "ref": "동윤_mecha_kr_drawn_rim_dewy_f.webp"
+}

@@ -1,0 +1,22 @@
+{
+  "card": "동윤",
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "gender": "f",
+  "file": "동윤_fantasy_kr_drawn_rim_dewy_f_casual90.webp",
+  "date": "2026-11-18",
+  "generation": {
+    "source": "recovered_original_png",
+    "sha256": "b8c62a09cdeac55f15ab89c01389938a523dc6e57bcd1887080d445fb5ac9a1d"
+  },
+  "recovery": {
+    "source_title": "푸른 황혼의 기숙사 열쇠지기.png",
+    "verified_against": "dongyun-complete-27-sheet.jpg",
+    "selected_world_option": 2
+  },
+  "n": 90,
+  "ref": "동윤_fantasy_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "own": true
+  }
+}
