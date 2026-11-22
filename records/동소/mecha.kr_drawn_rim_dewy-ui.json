@@ -1,0 +1,124 @@
+{
+ "atelier": "samguk",
+ "card": "동소",
+ "faction": "wei",
+ "role": "official",
+ "world": "mecha",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "ice_blue",
+   "impression": "cool",
+   "expr": "half_smile",
+   "skin_tone": "fair",
+   "age": "early_20s",
+   "eye_size": "large",
+   "eye_tilt": "level",
+   "mark": "winged_liner",
+   "brows": "arched_thin",
+   "nose": "small_button",
+   "lips": "plush_pout",
+   "face_shape": "heart",
+   "eyes": "round_large"
+  },
+  "silhouette": {
+   "body": "voluptuous",
+   "hair_color": "scarlet",
+   "hair": "triple_tails",
+   "bangs": "parted"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "동소_mecha_kr_drawn_rim_dewy_f.webp",
+ "prompt": "SUMMARY: a high single segmented braid with a swept open forehead; separate armor pieces rather than one shell — plates on the shoulders, forearms, chest, waist, thighs and shins, with a dark fitted inner suit showing between them; The torso plates stack inward like folded document panels and meet at a recessed mechanical seal that connects the jacket and waist sections. face with soft jaw angles that taper gently toward a rounded chin, not wide from the front, hooded eyes, soft rounded brows; a relaxed closed-mouth half-smile.\nA full-body character image, vertical 2:3 (1024×1536): Dong Zhao of the Romance of the Three Kingdoms, reimagined as an adult woman — the adviser who arranged Cao Cao's rise to dukedom.\n\n1. STYLE\nKorean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nHer face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\n2. CHARACTER\nAge: about twenty — a fresh young-adult face.\nFace — her own, recognisably this character, a woman's face with no beard or facial hair: a stoic, unreadable reserve; light warm-beige skin with a golden undertone; face with soft jaw angles that taper gently toward a rounded chin, not wide from the front; hooded eyes; silver-grey eyes; soft rounded brows; petite straight nose; soft medium lips.\nBody and hair: voluptuous, generously curved at bust, hips and thighs build; a high single segmented braid with a swept open forehead; bright scarlet hair.\nExpression: a slight smile, lips closed, subtle and relaxed.\nLegend, carried in her design and bearing: subtle political craft, dark robes.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME AND EQUIPMENT — MECHA\nCostume: a female mecha personification built as a support and logistics mecha frame — lighter plating, data panels and shield units, utility sub-arms. Solid hard-surface plates with visible joints cover her frame except at the openings named under Exposure; any cape or skirt is made of rigid armored plates; her face and hair stay human.\nSilhouette: separate armor pieces rather than one shell — plates on the shoulders, forearms, chest, waist, thighs and shins, with a dark fitted inner suit showing between them. This silhouette sets the overall shape of the costume above — keep its materials, ornaments and rank in this shape; the details are free.\nDesign idea: The torso plates stack inward like folded document panels and meet at a recessed mechanical seal that connects the jacket and waist sections.\nColours: deep navy blue, black lacquer, cold steel silver, ivory white, with small accents of imperial gold and deep navy (Yuan Shao), olive green and dusty tan (Zhang Yang). Faction frame: navy-blue and black lacquer heavy plating with cold steel-silver edges, angular command fins, a disciplined symmetrical frame, cold blue glow lines.\nSignature item: a sealed edict, rebuilt as a far-future high-tech version of the same kind of object with the same silhouette — hard-surface alloy plates with panel lines, mechanical joints, vents and emitter nodes, an energy edge, plasma blade or glowing core in her glow-line colour and small status lights, with any animal motif re-sculpted as sleek machined armour. She holds it at full scale: one whole object, drawn once, held in front of or beside her body; a long weapon keeps one straight, unbroken shaft with a single head or blade.\nExposure (bold): her mecha frame is cut open by design in only these places — a bare waist and midriff between the bust plate and the hip armor, and bare upper thighs between the hip armor and thigh-high leg plates; everywhere else she stays fully plated. The plates stay on, fitted and symmetrical, with skin clearly showing in each opening. Intimate areas covered; keep the plate material and palette.\n\n4. SCENE\nWorld: year 2190, the Wei Federation in orbit: a navy-black orbital fortress and capital-ship fleet above a cold blue planet, starfields and a distant sun, hard white floodlights on armored hulls.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nStance and hands: She presents the sealed edict in one hand beside her waist, with her other hand relaxed and visible.\nSetting detail: In a bright fortified command archive with angular data racks and tall ivory hangar panels.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: her whole figure from the top of her head or headpiece to both feet inside the frame with clear margins, about four-fifths of the image height; camera at chest height with natural portrait perspective.\n\n5. CONSTRAINTS\nOne figure only — no second character, horse or other creature. No readable text or numbers — emblems are abstract insignia shapes only, never letters or Chinese characters. No logo, watermark, speech bubble or frame border. A far-future setting only — space stations, starships and high-tech structures — with no traditional East-Asian architecture.\nAvoid: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+ "date": "2026-11-22",
+ "record": "records/동소/mecha.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "동소",
+  "out": "world",
+  "world": "mecha",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {
+   "동소|mecha": {}
+  },
+  "looks": {
+   "동소|mecha": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "동소|mecha": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "528ae5d6090570b1e1c3e7f6835775a183a4dd36ba147eee38fa5b7bc9c75d0a",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "retries": [
+   {
+    "n": 1,
+    "status": "generated",
+    "exposure": "bold"
+   }
+  ],
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "05ccc108bf65a5cebb7c9918fc6d00a2c6685bbecf0e50e4d3be56f279cf724f",
+  "design": "gpt_free",
+  "candidate": 4,
+  "plan": "B",
+  "free_prompt": "SUMMARY: a high single segmented braid with a swept open forehead; separate armor pieces rather than one shell — plates on the shoulders, forearms, chest, waist, thighs and shins, with a dark fitted inner suit showing between them; The torso plates stack inward like folded document panels and meet at a recessed mechanical seal that connects the jacket and waist sections. face with soft jaw angles that taper gently toward a rounded chin, not wide from the front, hooded eyes, soft rounded brows; a relaxed closed-mouth half-smile.\nA full-body character image, vertical 2:3 (1024×1536): Dong Zhao of the Romance of the Three Kingdoms, reimagined as an adult woman — the adviser who arranged Cao Cao's rise to dukedom.\n\n1. STYLE\nKorean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nHer face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\n2. CHARACTER\nAge: about twenty — a fresh young-adult face.\nFace — her own, recognisably this character, a woman's face with no beard or facial hair: a stoic, unreadable reserve; light warm-beige skin with a golden undertone; face with soft jaw angles that taper gently toward a rounded chin, not wide from the front; hooded eyes; silver-grey eyes; soft rounded brows; petite straight nose; soft medium lips.\nBody and hair: voluptuous, generously curved at bust, hips and thighs build; a high single segmented braid with a swept open forehead; bright scarlet hair.\nExpression: a slight smile, lips closed, subtle and relaxed.\nLegend, carried in her design and bearing: subtle political craft, dark robes.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME AND EQUIPMENT — MECHA\nCostume: a female mecha personification built as a support and logistics mecha frame — lighter plating, data panels and shield units, utility sub-arms. Solid hard-surface plates with visible joints cover her frame except at the openings named under Exposure; any cape or skirt is made of rigid armored plates; her face and hair stay human.\nSilhouette: separate armor pieces rather than one shell — plates on the shoulders, forearms, chest, waist, thighs and shins, with a dark fitted inner suit showing between them. This silhouette sets the overall shape of the costume above — keep its materials, ornaments and rank in this shape; the details are free.\nDesign idea: The torso plates stack inward like folded document panels and meet at a recessed mechanical seal that connects the jacket and waist sections.\nColours: deep navy blue, black lacquer, cold steel silver, ivory white, with small accents of imperial gold and deep navy (Yuan Shao), olive green and dusty tan (Zhang Yang). Faction frame: navy-blue and black lacquer heavy plating with cold steel-silver edges, angular command fins, a disciplined symmetrical frame, cold blue glow lines.\nSignature item: a sealed edict, rebuilt as a far-future high-tech version of the same kind of object with the same silhouette — hard-surface alloy plates with panel lines, mechanical joints, vents and emitter nodes, an energy edge, plasma blade or glowing core in her glow-line colour and small status lights, with any animal motif re-sculpted as sleek machined armour. She holds it at full scale: one whole object, drawn once, held in front of or beside her body; a long weapon keeps one straight, unbroken shaft with a single head or blade.\nExposure (bold): her mecha frame is cut open by design in only these places — a bare waist and midriff between the bust plate and the hip armor, and bare upper thighs between the hip armor and thigh-high leg plates; everywhere else she stays fully plated. The plates stay on, fitted and symmetrical, with skin clearly showing in each opening. Intimate areas covered; keep the plate material and palette.\n\n4. SCENE\nWorld: year 2190, the Wei Federation in orbit: a navy-black orbital fortress and capital-ship fleet above a cold blue planet, starfields and a distant sun, hard white floodlights on armored hulls.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nStance and hands: She presents the sealed edict in one hand beside her waist, with her other hand relaxed and visible.\nSetting detail: In a bright fortified command archive with angular data racks and tall ivory hangar panels.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: her whole figure from the top of her head or headpiece to both feet inside the frame with clear margins, about four-fifths of the image height; camera at chest height with natural portrait perspective.\n\n5. CONSTRAINTS\nOne figure only — no second character, horse or other creature. No readable text or numbers — emblems are abstract insignia shapes only, never letters or Chinese characters. No logo, watermark, speech bubble or frame border. A far-future setting only — space stations, starships and high-tech structures — with no traditional East-Asian architecture.\nAvoid: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+  "summary": "a high single segmented braid with a swept open forehead; separate armor pieces rather than one shell — plates on the shoulders, forearms, chest, waist, thighs and shins, with a dark fitted inner suit showing between them; The torso plates stack inward like folded document panels and meet at a recessed mechanical seal that connects the jacket and waist sections. face with soft jaw angles that taper gently toward a rounded chin, not wide from the front, hooded eyes, soft rounded brows; a relaxed closed-mouth half-smile."
+ },
+ "execution": "sam-dongzhao-29d9196eb30c",
+ "imported": "2026-11-22",
+ "qa": {
+  "reviewer": "sam-dongzhao-29d9196eb30c",
+  "image_sha256": "528ae5d6090570b1e1c3e7f6835775a183a4dd36ba147eee38fa5b7bc9c75d0a",
+  "passed": true,
+  "anatomy": "ok",
+  "exposure": "match",
+  "observations": [
+   "궤도 기지 통로의 전신 단단한 장갑, 봉한 조서 장치, 길게 땋은 붉은 머리."
+  ]
+ },
+ "acceptance": "user approval for chosen world cuts 1,3,4 and direct registration",
+ "review": {
+  "reviewed": true,
+  "by": "user",
+  "result": "selected"
+ }
+}
