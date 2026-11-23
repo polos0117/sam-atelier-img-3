@@ -1,0 +1,117 @@
+{
+ "atelier": "samguk",
+ "card": "동백",
+ "faction": "qun",
+ "role": "official",
+ "world": "samguk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "rose",
+   "impression": "haughty",
+   "expr": "smug",
+   "skin_tone": "porcelain",
+   "age": "early_20s",
+   "eye_size": "large",
+   "eye_tilt": "level",
+   "mark": "mole_eye",
+   "brows": "straight_thin",
+   "nose": "aquiline",
+   "lips": "plush_pout",
+   "face_shape": "oval",
+   "eyes": "hooded"
+  },
+  "silhouette": {
+   "body": "busty_slender",
+   "hair_color": "flame_orange",
+   "hair": "asymmetric_bob",
+   "bangs": "side_swept"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "동백_samguk_kr_drawn_rim_dewy_f.webp",
+ "prompt": "A full-body character image, vertical 2:3 (1024×1536): Dong Bai of the Romance of the Three Kingdoms, reimagined as an adult woman — Dong Zhuo's granddaughter, made Lady of Weiyang before she came of age and crowned on a terrace built for her.\n\n1. STYLE\nKorean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nHer face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\n2. CHARACTER\nAge: about twenty — a youthful face.\nFace — her own, recognisably this character, a woman's face with no beard or facial hair: a haughty, untouchable pride — a cool, superior gaze and a proud, straight-backed poise; porcelain-pale skin; oval face; eyes on the larger side of natural — hooded eyes, level outer eye corners; thin straight brows; a nose with a gentle aquiline curve; soft, full lips; rose-pink eyes; a small beauty mark under one eye.\nBody and hair: slender-limbed yet full-busted with rounded hips and a narrow waist build; an asymmetric bob, longer on one side with side-swept bangs; flame-orange hair.\nExpression: a faint knowing smile, subtle and relaxed.\nLegend, carried in her design and bearing: spoiled pride, a little lady's gold-flowered carriage silks, a seal ribbon of purple silk at her waist.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME AND EQUIPMENT — THREE KINGDOMS\nCostume: a Han court official's dress — layered robes with a broad belt and a hanging seal cord, a black jinxian guan cap, an ink brush and bound bamboo slips. Late-Han Chinese dress — cross-collared silk robes with wide sleeves and a broad sash, lamellar or scale armor laced with cords where armor is worn, bronze, jade and lacquer ornament, Han court hair ornaments; silk, lacquered leather, bronze and iron.\nSilhouette: no armor — a long floor-length robe with wide sleeves and a broad sash, a long elegant falling silhouette. This silhouette sets the overall shape of the costume above — keep its materials, ornaments and rank in this shape; the details are free.\nColours: blood crimson, black iron, tarnished gold and smoky grey.\nSignature item: a purple-ribboned seal of rank. She holds it at full scale: one whole object, drawn once, held in front of or beside her body; a long weapon keeps one straight, unbroken shaft with a single head or blade.\nExposure (bold): her robes open to show skin — the cross collar opened into a deep neckline with natural cleavage, bare upper arms above detached wide sleeves (and bare shoulders where no shoulder guard sits), the skirt panels cut with a high side slit at full length — it shows the side line of one leg as she stands, no leg pushed out or knee bent for it; any armor pieces stay on and symmetrical. Intimate areas covered; keep the costume material and palette.\n\n4. SCENE\nWorld: the chaos of the late Eastern Han, around 184–200 AD: burning Luoyang, the Hulao Pass, Yellow Turban fields, warlord camps of rival banners, frontier steppe and the southern jungles of the Nanman.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: her whole figure from the top of her head or headpiece to both feet inside the frame with clear margins, about four-fifths of the image height; camera at chest height with natural portrait perspective.\n\n5. CONSTRAINTS\nOne figure only — no second character, horse or other creature. No readable text or numbers, except that a banner, seal or emblem may carry the single character 雄 or 董. No logo, watermark, speech bubble or frame border. Three Kingdoms-era Chinese dress, architecture and materials only.\nAvoid: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+ "date": "2026-11-23",
+ "record": "records/동백/samguk.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "동백",
+  "out": "world",
+  "world": "samguk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {
+   "동백|samguk": {}
+  },
+  "looks": {
+   "동백|samguk": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "동백|samguk": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "71e6f9a041c8d2fa8672b35c93a8c9ac9a84dcbab49ee0658a8f040027290323",
+  "webp": {
+   "quality": 90
+  },
+  "retries": [],
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "55e827960300f95d3699b6e2c44e69f3b6ee78a230d7044b62b723a61a304c13",
+  "design": "studio",
+  "candidate": 2,
+  "plan": "studio"
+ },
+ "execution": "sam-dongbai-2c6f3d8731b9",
+ "imported": "2026-11-24",
+ "qa": {
+  "reviewer": "sam-dongbai-2c6f3d8731b9",
+  "image_sha256": "71e6f9a041c8d2fa8672b35c93a8c9ac9a84dcbab49ee0658a8f040027290323",
+  "passed": false,
+  "anatomy": "ok",
+  "exposure": "match",
+  "observations": [
+   "한나라 관복과 董 인장, 붓을 든 세로 전신. 두 팔이 자연스럽게 이어짐.",
+   "배경 성벽 아래에 작은 인물 실루엣이 보임."
+  ],
+  "cause": "세계컷의 단독 인물 조건과 전장 배경이 충돌함."
+ },
+ "acceptance": "user_selection 2,1,2; user_approval_main_fast_forward",
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ }
+}

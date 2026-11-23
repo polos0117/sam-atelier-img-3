@@ -1,0 +1,136 @@
+{
+ "atelier": "samguk",
+ "card": "동백",
+ "faction": "qun",
+ "slot": "casual7",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "ref": "동백_mecha_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "heritage_studio",
+  "ofam": "costume",
+  "item": "cs_showgirl_mini_dress",
+  "posture": "walk",
+  "support": "none",
+  "frame": "environmental",
+  "body": "back",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "down",
+  "use": "sig_low",
+  "kind": "hold",
+  "legs": "walk_stride",
+  "gaze": "horizon",
+  "time": "fluorescent",
+  "ofree": true,
+  "ofreeFamily": "lingerie",
+  "ofreeSitu": "free",
+  "ofreeRecent": "a walled garden with a lotus pond — standing; an indoor lap pool with lane ropes — kneeling on the ground; a Peking opera dressing room — standing; A window table in a riverside antique shop with stacked paint boxes — She pairs old enamel color chips with a hand-painted toy boat; A quiet contemporary cabin on a moored heritage ship — She inspects the polished lacquer on a restored wooden miniature of a river junk; a Roman marble bath hall — standing; an underwater palace hall behind great glass arches — standing at a waist-high railing or sill; a photo studio with a seamless paper backdrop sweeping onto the floor — seated sideways on a stool or bench; an old Chengdu teahouse with bamboo chairs — shakes a gourd-shaped wine flask on a red cord by her ear to hear how much wine is left; a starship data archive — sitting on the ground; a themed costume event venue with props and a photo wall — standing; a bus shelter on a quiet street — seated sideways on a stool or bench; a chandelier ballroom at a masquerade — holds her keepsake at chest height",
+  "expr": "",
+  "preset": "walk_away",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "동백_mecha_kr_drawn_rim_dewy_f_casual7.webp",
+ "prompt": "INPUT: the attached image is the approved character — her Mecha card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of Dong Bai of the Three Kingdoms, seen in her everyday life. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change, and her hair may be worn differently only as SCENE's Hair line says. Her mecha-world identity shows ONLY as a small accessory, an object around her, or the object PROP says she holds — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume.\n\nDESIGN (accessory hints only): her legend — spoiled pride, a little lady's gold-flowered carriage silks, a seal ribbon of purple silk at her waist — may inform at most one small accessory, a hair ornament or an object beside her, in its palette (blood crimson, black iron, tarnished gold and smoky grey). The clothes keep the chosen outfit's own colours; her skin, hair and eyes stay as in the attached image.\n\nOBJECTS: any identity accessory or object, including the one PROP names, takes a present-day form that fits this place — a charm, a hairpin, a phone strap, a modern cup or bottle; no Chinese antique objects such as jade carvings, porcelain wine cups, bronze vessels or paper lanterns.\n\nSTYLE: Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nAGE: the same adult woman as in the attached image — keep her own face shape, cheekbones, eye proportions and skin tone exactly; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases). Keep her face soft, feminine and attractive in every framing — never elongated, gaunt, mannish or heavy-jawed, even in close-ups, profiles or low angles.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her legend shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nSCENE (chosen):\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a walled garden with a lotus pond — standing; an indoor lap pool with lane ropes — kneeling on the ground; a Peking opera dressing room — standing; A window table in a riverside antique shop with stacked paint boxes — She pairs old enamel color chips with a hand-painted toy boat; A quiet contemporary cabin on a moored heritage ship — She inspects the polished lacquer on a restored wooden miniature of a river junk; a Roman marble bath hall — standing; an underwater palace hall behind great glass arches — standing at a waist-high railing or sill; a photo studio with a seamless paper backdrop sweeping onto the floor — seated sideways on a stool or bench; an old Chengdu teahouse with bamboo chairs — shakes a gourd-shaped wine flask on a red cord by her ear to hear how much wine is left; a starship data archive — sitting on the ground; a themed costume event venue with props and a photo wall — standing; a bus shelter on a quiet street — seated sideways on a stool or bench; a chandelier ballroom at a masquerade — holds her keepsake at chest height.\nPlace: …\nActivity: …\nPose: …\nFraming: …\nOutfit family (required): lingerie-inspired — any lingerie-inspired outfit; you may pick one from our outfit catalog (outfit-catalog.md in this pack) or design your own, but prefer one that is not in it.\nSituation (required): a situational exposure moment of your own design that fits the scene — prefer one that is not among ours: clothes soaked by rain or a splash, clothes caught by a strong gust of wind, a top worn half undone, a strap slipped off the shoulder, a hem knotted up under the bust, an outer layer tied around the waist, a sheen of sweat from heat, a backlit silhouette through thin fabric, a skirt slit fallen open, sleeves pushed up with one more button undone, a tie or scarf pulled loose.\nTime of day (fixed): cool white overhead light, flat and bright — set your scene at this time.\nOutfit: …\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing; intimate areas covered\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its garment, armor, regalia, ornaments, mecha plates or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her mecha-world identity belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her faction's palette, armor, robes or regalia.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers. No animals or other creatures.\n\nANATOMY: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nFIGURE: slender-limbed yet full-busted with rounded hips and a narrow waist — keep this exact build from the attached image, neither slimmer nor fuller.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.\n\nAVOID: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+ "date": "2026-11-23",
+ "record": "records/동백/mecha-casual7.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "동백",
+  "out": "casual",
+  "world": "mecha",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 7,
+  "scenes": {
+   "동백": {
+    "era": "now",
+    "place": "heritage_studio",
+    "ofam": "costume",
+    "treeV": 2,
+    "prop": "",
+    "preset": "walk_away",
+    "use": "sig_low",
+    "kind": "hold",
+    "posture": "walk",
+    "support": "none",
+    "frame": "environmental",
+    "body": "back",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "down",
+    "legs": "walk_stride",
+    "gaze": "horizon",
+    "item": "cs_showgirl_mini_dress",
+    "expr": "",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "ofree": true,
+    "time": "fluorescent",
+    "ofreeFamily": "lingerie",
+    "ofreeSitu": "free",
+    "ofreeRecent": "a walled garden with a lotus pond — standing; an indoor lap pool with lane ropes — kneeling on the ground; a Peking opera dressing room — standing; A window table in a riverside antique shop with stacked paint boxes — She pairs old enamel color chips with a hand-painted toy boat; A quiet contemporary cabin on a moored heritage ship — She inspects the polished lacquer on a restored wooden miniature of a river junk; a Roman marble bath hall — standing; an underwater palace hall behind great glass arches — standing at a waist-high railing or sill; a photo studio with a seamless paper backdrop sweeping onto the floor — seated sideways on a stool or bench; an old Chengdu teahouse with bamboo chairs — shakes a gourd-shaped wine flask on a red cord by her ear to hear how much wine is left; a starship data archive — sitting on the ground; a themed costume event venue with props and a photo wall — standing; a bus shelter on a quiet street — seated sideways on a stool or bench; a chandelier ballroom at a masquerade — holds her keepsake at chest height"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "89e202cd731a57d65c707ab8c9e54fb9b9119ef7e1e1515bac42d2dcf13000a3",
+  "webp": {
+   "quality": 90
+  },
+  "retries": [],
+  "prompt_form": "gpt-structured",
+  "prompt_sha256": "0d5879285b23adc8504f34cbc2df56f06b90b056c10d8618bd98c7a342d9ec07",
+  "ref_sha256": "55a2a7d75caa2fbdecee737451eef20618f114e1a8a393c7163a093fbe703d5c",
+  "free_design": {
+   "Place": "A bright orbital hotel breakfast nook with cream banquette seating, a silver tabletop and flat cool white ceiling light.",
+   "Activity": "She is quietly leveling a stack of toast onto a small plate, leaning forward so the scalloped neckline of her lounge top becomes visible below the edge of her jacket.",
+   "Pose": "Seated upright in a three-quarter front view, with the torso leaning slightly from the waist. Her right forearm extends to rest her fingertips near the edge of the plate, while her left hand holds the handle of a plain teaspoon. Both wrists and elbows remain separate and visible.",
+   "Framing": "Portrait 2:3, eye-level waist-up composition with both hands and the table in view.",
+   "Outfit": "An opaque periwinkle lingerie-inspired lounge top with scalloped neckline panels, high-waisted navy sateen lounge shorts, and an open cropped linen jacket. The forward reach turns the top neckline toward the light while the lined fabric stays securely in place."
+  },
+  "free_prompt": "INPUT: the attached image is the approved character — her Mecha card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of Dong Bai of the Three Kingdoms, seen in her everyday life. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change, and her hair may be worn differently only as SCENE's Hair line says. Her mecha-world identity shows ONLY as a small accessory, an object around her, or the object PROP says she holds — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume.\n\nDESIGN (accessory hints only): her legend — spoiled pride, a little lady's gold-flowered carriage silks, a seal ribbon of purple silk at her waist — may inform at most one small accessory, a hair ornament or an object beside her, in its palette (blood crimson, black iron, tarnished gold and smoky grey). The clothes keep the chosen outfit's own colours; her skin, hair and eyes stay as in the attached image.\n\nOBJECTS: any identity accessory or object, including the one PROP names, takes a present-day form that fits this place — a charm, a hairpin, a phone strap, a modern cup or bottle; no Chinese antique objects such as jade carvings, porcelain wine cups, bronze vessels or paper lanterns.\n\nSTYLE: Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nAGE: the same adult woman as in the attached image — keep her own face shape, cheekbones, eye proportions and skin tone exactly; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases). Keep her face soft, feminine and attractive in every framing — never elongated, gaunt, mannish or heavy-jawed, even in close-ups, profiles or low angles.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her legend shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nSCENE (chosen):\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a walled garden with a lotus pond — standing; an indoor lap pool with lane ropes — kneeling on the ground; a Peking opera dressing room — standing; A window table in a riverside antique shop with stacked paint boxes — She pairs old enamel color chips with a hand-painted toy boat; A quiet contemporary cabin on a moored heritage ship — She inspects the polished lacquer on a restored wooden miniature of a river junk; a Roman marble bath hall — standing; an underwater palace hall behind great glass arches — standing at a waist-high railing or sill; a photo studio with a seamless paper backdrop sweeping onto the floor — seated sideways on a stool or bench; an old Chengdu teahouse with bamboo chairs — shakes a gourd-shaped wine flask on a red cord by her ear to hear how much wine is left; a starship data archive — sitting on the ground; a themed costume event venue with props and a photo wall — standing; a bus shelter on a quiet street — seated sideways on a stool or bench; a chandelier ballroom at a masquerade — holds her keepsake at chest height.\nPlace: A bright orbital hotel breakfast nook with cream banquette seating, a silver tabletop and flat cool white ceiling light.\nActivity: She is quietly leveling a stack of toast onto a small plate, leaning forward so the scalloped neckline of her lounge top becomes visible below the edge of her jacket.\nPose: Seated upright in a three-quarter front view, with the torso leaning slightly from the waist. Her right forearm extends to rest her fingertips near the edge of the plate, while her left hand holds the handle of a plain teaspoon. Both wrists and elbows remain separate and visible.\nFraming: Portrait 2:3, eye-level waist-up composition with both hands and the table in view.\nOutfit family (required): lingerie-inspired — any lingerie-inspired outfit; you may pick one from our outfit catalog (outfit-catalog.md in this pack) or design your own, but prefer one that is not in it.\nSituation (required): a situational exposure moment of your own design that fits the scene — prefer one that is not among ours: clothes soaked by rain or a splash, clothes caught by a strong gust of wind, a top worn half undone, a strap slipped off the shoulder, a hem knotted up under the bust, an outer layer tied around the waist, a sheen of sweat from heat, a backlit silhouette through thin fabric, a skirt slit fallen open, sleeves pushed up with one more button undone, a tie or scarf pulled loose.\nTime of day (fixed): cool white overhead light, flat and bright — set your scene at this time.\nOutfit: An opaque periwinkle lingerie-inspired lounge top with scalloped neckline panels, high-waisted navy sateen lounge shorts, and an open cropped linen jacket. The forward reach turns the top neckline toward the light while the lined fabric stays securely in place.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing; intimate areas covered\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its garment, armor, regalia, ornaments, mecha plates or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her mecha-world identity belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her faction's palette, armor, robes or regalia.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers. No animals or other creatures.\n\nANATOMY: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nFIGURE: slender-limbed yet full-busted with rounded hips and a narrow waist — keep this exact build from the attached image, neither slimmer nor fuller.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.\n\nAVOID: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin."
+ },
+ "execution": "sam-dongbai-2c6f3d8731b9",
+ "imported": "2026-11-24",
+ "qa": {
+  "reviewer": "sam-dongbai-2c6f3d8731b9",
+  "image_sha256": "89e202cd731a57d65c707ab8c9e54fb9b9119ef7e1e1515bac42d2dcf13000a3",
+  "passed": true,
+  "anatomy": "ok",
+  "exposure": "match",
+  "observations": [
+   "호텔 식당에서 토스트와 티스푼을 따로 다루는 두 손을 확인함. 제시한 라운지웨어와 재킷이 보임."
+  ]
+ },
+ "acceptance": "user_selection 2,1,2; user_approval_main_fast_forward",
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ }
+}
