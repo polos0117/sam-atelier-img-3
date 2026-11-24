@@ -1,0 +1,134 @@
+{
+  "atelier": "samguk",
+  "card": "부첨",
+  "faction": "shu",
+  "slot": "casual6",
+  "treeV": 2,
+  "world": "mecha",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v1",
+  "ref": "부첨_mecha_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "heritage",
+    "place": "heritage_wuzhang",
+    "ofam": "workwear",
+    "item": "painter_dungaree",
+    "posture": "sit_chair",
+    "support": "none",
+    "frame": "environmental",
+    "body": "front",
+    "head": "turn_side",
+    "camera": "eye",
+    "right": "prop",
+    "left": "lap",
+    "use": "ff_hide",
+    "legs": "knees_together",
+    "gaze": "screen_left",
+    "time": "dusk",
+    "ofree": true,
+    "ofreeRecent": "a hangar maintenance bay — holds her keepsake at chest height; a vine-covered observation ruin above a luminous alien jungle — she releases a palm-sized survey drone to map a path toward the sunset; a quiet orbital board-game cafe beneath a panoramic cloud deck — she plays the gracious casino host; an underwater palace hall behind great glass arches — holds a small hand lantern low at her side; the long stone stairway of Baidicheng above the Yangtze gorge — holds her keepsake in both hands in front of her; an editorial photo studio with a seamless backdrop and dramatic lights — standing; a starship galley and mess hall — holds a bowl of hot food at chest height; a bath-house changing room of wooden lockers — perched on a ledge or edge; a retro-futurist home of rounded chrome appliances and soft panels — standing; a walkway through a forest dome inside a colony ship — standing; a photo studio with a seamless paper backdrop sweeping onto the floor — lying on her front; an amusement-park parade street lined with spectators — kneeling on the ground; the Zhuge Liang shrine on the Wuzhang Plains plateau — standing",
+    "expr": "gentle",
+    "preset": "bench_sit",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": []
+  },
+  "file": "부첨_mecha_kr_drawn_rim_dewy_f_casual6.webp",
+  "prompt": "INPUT: the attached image is the approved character — her Mecha card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of Fu Qian of the Three Kingdoms, seen in her everyday life. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change, and her hair may be worn differently only as SCENE's Hair line says. Her mecha-world identity shows ONLY as a small accessory, an object around her, or the object PROP says she holds — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume.\n\nDESIGN (accessory hints only): her legend — battered armor, unwavering at the gate — may inform at most one small accessory, a hair ornament or an object beside her, in its palette (jade green, imperial gold, earthen brown, white jade). The clothes keep the chosen outfit's own colours; her skin, hair and eyes stay as in the attached image.\n\nSIGNATURE ACCESSORY: off duty she carries no weapon — no sword, saber, spear, glaive, halberd, bow, axe, shield or any blade in her hands, on her back or anywhere in the scene. Her signature weapon (a long-hafted pole axe) appears only as one small worn accessory modelled on its shape and colours — a hair ornament, pendant, earring, brooch or belt charm a few centimetres long, clearly jewellery and not a usable weapon.\n\nSTYLE: Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nAGE: the same adult woman as in the attached image — keep her own face shape, cheekbones, eye proportions and skin tone exactly; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases). Keep her face soft, feminine and attractive in every framing — never elongated, gaunt, mannish or heavy-jawed, even in close-ups, profiles or low angles.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her legend shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nSCENE (chosen):\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a hangar maintenance bay — holds her keepsake at chest height; a vine-covered observation ruin above a luminous alien jungle — she releases a palm-sized survey drone to map a path toward the sunset; a quiet orbital board-game cafe beneath a panoramic cloud deck — she plays the gracious casino host; an underwater palace hall behind great glass arches — holds a small hand lantern low at her side; the long stone stairway of Baidicheng above the Yangtze gorge — holds her keepsake in both hands in front of her; an editorial photo studio with a seamless backdrop and dramatic lights — standing; a starship galley and mess hall — holds a bowl of hot food at chest height; a bath-house changing room of wooden lockers — perched on a ledge or edge; a retro-futurist home of rounded chrome appliances and soft panels — standing; a walkway through a forest dome inside a colony ship — standing; a photo studio with a seamless paper backdrop sweeping onto the floor — lying on her front; an amusement-park parade street lined with spectators — kneeling on the ground; the Zhuge Liang shrine on the Wuzhang Plains plateau — standing.\nPlace: a quiet intercity sky-ferry observation lounge at blue hour\nActivity: She takes the window seat and watches the ferry approach a luminous gate-shaped bridge while peeling a mandarin.\nPose: Seated upright, right hand holding a peeled mandarin segment near her chest, left hand holding the remaining fruit over a small paper wrapper on her lap; both forearms remain in front.\nFraming: Front three-quarter seated view showing head to ankles, vertical 2:3.\nTime of day (fixed): dusk — blue hour, lights coming on — set your scene at this time.\nOutfit: a fitted teal off-shoulder cross-wrap jersey tunic with a deeply curved neckline, short split front over charcoal fitted shorts, contrasting long coral ribbed cuffs and low ankle boots\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing; nothing slipped off; intimate areas covered\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its garment, armor, regalia, ornaments, mecha plates or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her mecha-world identity belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her faction's palette, armor, robes or regalia.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers. No animals or other creatures.\n\nANATOMY: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nFIGURE: keep her exact build from the attached image, neither slimmer nor fuller.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.\n\nAVOID: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+  "date": "2026-11-24",
+  "record": "records/부첨/mecha-casual6.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "부첨",
+    "out": "casual",
+    "world": "mecha",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 6,
+    "scenes": {
+      "부첨": {
+        "era": "heritage",
+        "place": "heritage_wuzhang",
+        "ofam": "workwear",
+        "treeV": 2,
+        "prop": "",
+        "preset": "bench_sit",
+        "use": "ff_hide",
+        "posture": "sit_chair",
+        "support": "none",
+        "frame": "environmental",
+        "body": "front",
+        "head": "turn_side",
+        "camera": "eye",
+        "right": "prop",
+        "left": "lap",
+        "legs": "knees_together",
+        "gaze": "screen_left",
+        "item": "painter_dungaree",
+        "expr": "gentle",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "ofree": true,
+        "time": "dusk",
+        "ofreeRecent": "a hangar maintenance bay — holds her keepsake at chest height; a vine-covered observation ruin above a luminous alien jungle — she releases a palm-sized survey drone to map a path toward the sunset; a quiet orbital board-game cafe beneath a panoramic cloud deck — she plays the gracious casino host; an underwater palace hall behind great glass arches — holds a small hand lantern low at her side; the long stone stairway of Baidicheng above the Yangtze gorge — holds her keepsake in both hands in front of her; an editorial photo studio with a seamless backdrop and dramatic lights — standing; a starship galley and mess hall — holds a bowl of hot food at chest height; a bath-house changing room of wooden lockers — perched on a ledge or edge; a retro-futurist home of rounded chrome appliances and soft panels — standing; a walkway through a forest dome inside a colony ship — standing; a photo studio with a seamless paper backdrop sweeping onto the floor — lying on her front; an amusement-park parade street lined with spectators — kneeling on the ground; the Zhuge Liang shrine on the Wuzhang Plains plateau — standing"
+      }
+    }
+  },
+  "execution": "sam-fuqian-3b7c",
+  "imported": "2026-11-24",
+  "acceptance": "User selected 2,2,3 and authorized commits and ordinary main push.",
+  "review": {
+    "reviewed": false,
+    "by": "user",
+    "result": "pending"
+  },
+  "generation": {
+    "tool": "image_gen",
+    "endpoint": "images/edits",
+    "ref_sha256": "2b6b4798d0f35619a6c909e3a94c4524ccb5ddde61f8100462cdd93021c1e67d",
+    "prompt_sha256": "0ee9ba8dcb7a9e889d9d20492b39ce61e56b2e9b1ecd5023187e64e587f4b14b",
+    "prompt_form": "en-prompt",
+    "webp": {
+      "quality": 90
+    },
+    "retries": [],
+    "refDesign": "gpt_free",
+    "free_design": {
+      "Place": "a quiet intercity sky-ferry observation lounge at blue hour",
+      "Activity": "She takes the window seat and watches the ferry approach a luminous gate-shaped bridge while peeling a mandarin.",
+      "Pose": "Seated upright, right hand holding a peeled mandarin segment near her chest, left hand holding the remaining fruit over a small paper wrapper on her lap; both forearms remain in front.",
+      "Framing": "Front three-quarter seated view showing head to ankles, vertical 2:3.",
+      "Outfit": "a fitted teal off-shoulder cross-wrap jersey tunic with a deeply curved neckline, short split front over charcoal fitted shorts, contrasting long coral ribbed cuffs and low ankle boots"
+    },
+    "free_prompt": "INPUT: the attached image is the approved character — her Mecha card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of Fu Qian of the Three Kingdoms, seen in her everyday life. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change, and her hair may be worn differently only as SCENE's Hair line says. Her mecha-world identity shows ONLY as a small accessory, an object around her, or the object PROP says she holds — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume.\n\nDESIGN (accessory hints only): her legend — battered armor, unwavering at the gate — may inform at most one small accessory, a hair ornament or an object beside her, in its palette (jade green, imperial gold, earthen brown, white jade). The clothes keep the chosen outfit's own colours; her skin, hair and eyes stay as in the attached image.\n\nSIGNATURE ACCESSORY: off duty she carries no weapon — no sword, saber, spear, glaive, halberd, bow, axe, shield or any blade in her hands, on her back or anywhere in the scene. Her signature weapon (a long-hafted pole axe) appears only as one small worn accessory modelled on its shape and colours — a hair ornament, pendant, earring, brooch or belt charm a few centimetres long, clearly jewellery and not a usable weapon.\n\nSTYLE: Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nAGE: the same adult woman as in the attached image — keep her own face shape, cheekbones, eye proportions and skin tone exactly; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases). Keep her face soft, feminine and attractive in every framing — never elongated, gaunt, mannish or heavy-jawed, even in close-ups, profiles or low angles.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her legend shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nSCENE (chosen):\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a hangar maintenance bay — holds her keepsake at chest height; a vine-covered observation ruin above a luminous alien jungle — she releases a palm-sized survey drone to map a path toward the sunset; a quiet orbital board-game cafe beneath a panoramic cloud deck — she plays the gracious casino host; an underwater palace hall behind great glass arches — holds a small hand lantern low at her side; the long stone stairway of Baidicheng above the Yangtze gorge — holds her keepsake in both hands in front of her; an editorial photo studio with a seamless backdrop and dramatic lights — standing; a starship galley and mess hall — holds a bowl of hot food at chest height; a bath-house changing room of wooden lockers — perched on a ledge or edge; a retro-futurist home of rounded chrome appliances and soft panels — standing; a walkway through a forest dome inside a colony ship — standing; a photo studio with a seamless paper backdrop sweeping onto the floor — lying on her front; an amusement-park parade street lined with spectators — kneeling on the ground; the Zhuge Liang shrine on the Wuzhang Plains plateau — standing.\nPlace: a quiet intercity sky-ferry observation lounge at blue hour\nActivity: She takes the window seat and watches the ferry approach a luminous gate-shaped bridge while peeling a mandarin.\nPose: Seated upright, right hand holding a peeled mandarin segment near her chest, left hand holding the remaining fruit over a small paper wrapper on her lap; both forearms remain in front.\nFraming: Front three-quarter seated view showing head to ankles, vertical 2:3.\nTime of day (fixed): dusk — blue hour, lights coming on — set your scene at this time.\nOutfit: a fitted teal off-shoulder cross-wrap jersey tunic with a deeply curved neckline, short split front over charcoal fitted shorts, contrasting long coral ribbed cuffs and low ankle boots\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing; nothing slipped off; intimate areas covered\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its garment, armor, regalia, ornaments, mecha plates or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her mecha-world identity belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her faction's palette, armor, robes or regalia.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers. No animals or other creatures.\n\nANATOMY: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nFIGURE: keep her exact build from the attached image, neither slimmer nor fuller.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.\n\nAVOID: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "a1779a16639e715674ab785e65a2bcbf9fa80fd54d3ab94838dc843469da42c9",
+    "source_file": "/workspace/scratch/3b7c2bcbd11d/generated_images/exec-cca228f4-0b30-4e57-abd3-39c8b53739c7.png"
+  },
+  "qa": {
+    "reviewer": "gpt-session",
+    "image_sha256": "a1779a16639e715674ab785e65a2bcbf9fa80fd54d3ab94838dc843469da42c9",
+    "passed": true,
+    "anatomy": "ok",
+    "exposure": "match",
+    "observations": [
+      "Attached reference identity retained.",
+      "Scene and clothing visually reviewed; no usable weapon.",
+      "Visible arms and legs connect naturally; some digits obscured by grips or framing."
+    ]
+  }
+}
