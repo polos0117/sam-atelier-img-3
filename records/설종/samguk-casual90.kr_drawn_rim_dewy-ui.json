@@ -1,0 +1,90 @@
+{
+ "atelier": "samguk",
+ "card": "설종",
+ "faction": "wu",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "samguk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "ref": "설종_samguk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_study",
+  "ofam": "everyday",
+  "posture": "stand",
+  "support": "none",
+  "frame": "waist_up",
+  "body": "front",
+  "head": "tilt",
+  "camera": "low",
+  "right": "clasp_both",
+  "left": "clasp_both",
+  "use": "",
+  "legs": "",
+  "gaze": "camera",
+  "time": "dawn",
+  "own": "samguk",
+  "placeText": "a Han-era ad agency desk — slogan drafts pinned to a board, a keyboard, coffee cups and colored markers",
+  "spot": "left_third",
+  "expr": "pensive",
+  "preset": "clasp_low",
+  "prop": "",
+  "outfit": "a copywriter look fitted to her body — a fitted sleeveless blouse, a short pencil skirt and low heels, all cut as Han-era Chinese dress — cross-collared wraps, sashes, silk and hemp",
+  "scene": "she is a copywriter standing with her hands folded in front of the slogan board, smiling at her own pun",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "1:1",
+  "unlocked": []
+ },
+ "file": "설종_samguk_kr_drawn_rim_dewy_f_casual90.webp",
+ "prompt": "INPUT: the attached image is the approved character — her Three kingdoms card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of Xue Zong of the Three Kingdoms, seen in her everyday life. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change, and her hair may be worn differently only as SCENE's Hair line says. Her Three Kingdoms identity shows ONLY as a small accessory, an object around her, or the object PROP says she holds — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume.\n\nDESIGN (accessory hints only): her legend — nimble wit, a Wu court robe, a brush with a wine-cup charm on its cord — may inform at most one small accessory, a hair ornament or an object beside her, in its palette (crimson red, gold, river teal, black lacquer). The clothes keep the chosen outfit's own colours; her skin, hair and eyes stay as in the attached image.\n\nSTYLE: Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nAGE: the same adult woman as in the attached image — keep her own face shape, cheekbones, eye proportions and skin tone exactly; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases). Keep her face soft, feminine and attractive in every framing — never elongated, gaunt, mannish or heavy-jawed, even in close-ups, profiles or low angles.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her legend shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume. Everything else follows SCENE (chosen).\n\nFRAME: a square 1:1 (1024×1024) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nCROP: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame. This crop wins over every other line: details apply only to the part that shows, and the outfit reads through its visible neckline, straps, fabric and colour. Never widen the framing to show a hidden support, hand or leg; a limb crossing the edge runs naturally on past it, never cut off or fading out inside the image.\n\nWORLD: this scene happens inside her own world — the world of the attached image — as if she simply lives there: Eastern Wu along the Yangtze, around 200–280 AD: the river capital Jianye, great war junks with crimson sails, river fortresses, southern rain and lotus marshes, the fire ships of the Red Cliffs. Its architecture, props, light and weather show the world; no second character, no readable text other than the single character 吳 or 薛. Her clothes stay the everyday outfit SCENE describes, not regalia or armor.\n\nSCENE (chosen):\nPlace: a Han-era ad agency desk — slogan drafts pinned to a board, a keyboard, coffee cups and colored markers\nTime of day: dawn — the first pale light, cool and quiet, the sky just turning; the first pale light at the window, the room still dim.\nOutfit: a copywriter look fitted to her body — a fitted sleeveless blouse, a short pencil skirt and low heels, all cut as Han-era Chinese dress — cross-collared wraps, sashes, silk and hemp\nPOSTURE: standing.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body facing the camera; head tilted slightly; camera slightly below, looking up at her; she is placed in the left third of the frame, open space of the place to her right.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nBOTH HANDS: her fingers loosely interlaced low in front of her waist, elbows relaxed.\nGAZE: she looks into the camera.\nEXPRESSION: a quiet, thoughtful look, lips lightly closed. Keep it subtle and natural, a light touch rather than acting: no sneer, glare, smirk-pulled cheek or chin lifted to look down at the viewer; her face stays relaxed and attractive. Her eyes are naturally open and clear, not heavy-lidded or half-closed; brows relaxed and even, neither raised on one side nor furrowed; lips softly closed or only just parted.\nScene note: she is a copywriter standing with her hands folded in front of the slogan board, smiling at her own pun\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — inside the crop, the chosen outfit is worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders and collarbones, skin clearly showing; the crop stays exactly where CROP sets it and never moves down to show more; intimate areas covered\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its garment, armor, regalia, ornaments, mecha plates or background. Dress her exactly as SCENE describes; the part of that outfit inside the crop must read at first glance in its own colours. Do not carry the attached image's palette, patterns or trim into the outfit; her Three Kingdoms identity belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her faction's palette, armor, robes or regalia.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers. No animals or other creatures.\n\nANATOMY: natural adult proportions, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nFIGURE: strong and broad-shouldered with firm muscle, yet full-busted with wide rounded hips and a defined waist — keep this exact build from the attached image, neither slimmer nor fuller.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.\n\nAVOID: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+ "date": "2026-11-24",
+ "record": "records/설종/samguk-casual90.kr_drawn_rim_dewy-ui.json",
+ "own": {
+  "job_ko": "카피라이터",
+  "level": "bold",
+  "example": false
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "size": [
+   1254,
+   1254
+  ],
+  "png_sha256": "1db088ffd60c9d3e62eba8b469d78e3c878e615eafe5245b1eafd59c98ad37c2",
+  "webp": {
+   "quality": 90,
+   "target": [
+    1024,
+    1024
+   ]
+  },
+  "retries": [],
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "a72ea849a142abdc9f9ad01f1867692fc8751e581dfa61f7b6cf1faa14a4296f",
+  "ref_sha256": "4bb05d4b59c83fb7b26019d227c59abb1ff14165308fc1dc657316989d2637c3"
+ },
+ "execution": "sam-xuezong-casual-42600",
+ "imported": "2026-11-24",
+ "qa": {
+  "reviewer": "codex",
+  "image_sha256": "1db088ffd60c9d3e62eba8b469d78e3c878e615eafe5245b1eafd59c98ad37c2",
+  "passed": true,
+  "anatomy": "ok",
+  "exposure": "match",
+  "observations": [
+   "카피라이터의 작업실, 도안과 붓, 앞에서 두 손을 모은 자세가 보인다."
+  ]
+ },
+ "acceptance": "사용자 세계컷 2,3,1 선택 및 완료 후 main 일반 push 승인",
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ }
+}

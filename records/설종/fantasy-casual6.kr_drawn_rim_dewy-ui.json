@@ -1,0 +1,138 @@
+{
+ "atelier": "samguk",
+ "card": "설종",
+ "faction": "wu",
+ "slot": "casual6",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "ref": "설종_fantasy_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "ostyle": {
+   "material": "linen",
+   "acc": "beret"
+  },
+  "era": "now",
+  "place": "bath_changing",
+  "ofam": "everyday",
+  "item": "shirt_dress",
+  "posture": "sit_chair",
+  "support": "none",
+  "frame": "environmental",
+  "body": "front",
+  "head": "turn_side",
+  "camera": "eye",
+  "right": "prop",
+  "left": "lap",
+  "use": "towel_hold",
+  "legs": "knees_together",
+  "gaze": "screen_left",
+  "turn": "right",
+  "time": "fluorescent",
+  "color": "jewel",
+  "shade": "teal",
+  "situ": "undone",
+  "expr": "half_smile",
+  "preset": "bench_sit",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "3:2",
+  "unlocked": []
+ },
+ "file": "설종_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+ "prompt": "INPUT: the attached image is the approved character — her Medieval fantasy card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of Xue Zong of the Three Kingdoms, seen in her everyday life. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change, and her hair may be worn differently only as SCENE's Hair line says. Her medieval-fantasy identity shows ONLY as a small accessory, an object around her, or the object PROP says she holds — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume.\n\nDESIGN (accessory hints only): her legend — nimble wit, a Wu court robe, a brush with a wine-cup charm on its cord — may inform at most one small accessory, a hair ornament or an object beside her, in its palette (crimson red, gold, river teal, black lacquer). The clothes keep the chosen outfit's own colours; her skin, hair and eyes stay as in the attached image.\n\nOBJECTS: any identity accessory or object, including the one PROP names, takes a present-day form that fits this place — a charm, a hairpin, a phone strap, a modern cup or bottle; no Chinese antique objects such as jade carvings, porcelain wine cups, bronze vessels or paper lanterns.\n\nSTYLE: Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nAGE: the same adult woman as in the attached image — keep her own face shape, cheekbones, eye proportions and skin tone exactly; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases). Keep her face soft, feminine and attractive in every framing — never elongated, gaunt, mannish or heavy-jawed, even in close-ups, profiles or low angles.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her legend shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume. Everything else follows SCENE (chosen).\n\nFRAME: a horizontal 3:2 (1536×1024) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nERA: the present-day real world — today's clothing, hair, devices and interiors; an ordinary woman of today, nothing of her legend in her clothes.\n\nSCENE (chosen):\nPlace: a bath-house changing room of wooden lockers, a long bench, a mirror counter with hair dryers and stacks of folded towels\nTime of day: cool white overhead light, flat and bright; flat white light with crisp edges, no warm glow.\nOutfit: a button-front shirt dress with a wide waist belt — in deep peacock teal; the outfit colour reads clearly at first glance; styled with airy, slightly crumpled linen and a soft beret tilted to one side; right now — she wears her top half undone — the zip or the top buttons open much lower than usual, so the neckline falls open over her collarbones and the inner curve of her chest, the loose edges slipping apart\nPOSTURE: seated on a chair.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; body facing the camera; head turned so the tip of her nose points toward the right of the frame; camera at her eye level; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand rests on her knee.\nPROP: with her own right hand she holds a towel folded against her chest; it is all she holds.\nLEGS: knees together, feet slightly apart.\nGAZE: she looks toward the left of the frame.\nEXPRESSION: a slight smile, lips closed. Keep it subtle and natural, a light touch rather than acting: no sneer, glare, smirk-pulled cheek or chin lifted to look down at the viewer; her face stays relaxed and attractive. Her eyes are naturally open and clear, not heavy-lidded or half-closed; brows relaxed and even, neither raised on one side nor furrowed; lips softly closed or only just parted.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing; intimate areas covered\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its garment, armor, regalia, ornaments, mecha plates or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her medieval-fantasy identity belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her faction's palette, armor, robes or regalia.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers. No animals or other creatures.\n\nANATOMY: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nFIGURE: keep her exact build from the attached image, neither slimmer nor fuller.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.\n\nAVOID: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+ "date": "2026-11-24",
+ "record": "records/설종/fantasy-casual6.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "설종",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 6,
+  "scenes": {
+   "설종": {
+    "era": "now",
+    "place": "bath_changing",
+    "ofam": "everyday",
+    "treeV": 2,
+    "prop": "",
+    "preset": "bench_sit",
+    "use": "towel_hold",
+    "posture": "sit_chair",
+    "support": "none",
+    "frame": "environmental",
+    "body": "front",
+    "head": "turn_side",
+    "camera": "eye",
+    "right": "prop",
+    "left": "lap",
+    "legs": "knees_together",
+    "gaze": "screen_left",
+    "item": "shirt_dress",
+    "expr": "half_smile",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "3:2",
+    "unlocked": [],
+    "color": "jewel",
+    "shade": "teal",
+    "situ": "undone",
+    "time": "fluorescent",
+    "turn": "right",
+    "ostyle": {
+     "material": "linen",
+     "acc": "beret"
+    }
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "size": [
+   1536,
+   1024
+  ],
+  "png_sha256": "a2bf6779ba7c54eac9725c908803ca13e353afb25fefcbf2d8c561a25c4b101f",
+  "webp": {
+   "quality": 90,
+   "target": [
+    1536,
+    1024
+   ]
+  },
+  "retries": [],
+  "prompt_form": "gpt-structured",
+  "prompt_sha256": "b28e6c0c2ed93d6b8a37cf74ea932c0956e831141cf5a265d3d4cd1f2ff6de0b",
+  "ref_sha256": "a511a94b0d92ee15fe39cf15513bb925d0b4cef84a7856a9d95a7e913afd8621"
+ },
+ "execution": "sam-xuezong-casual-42600",
+ "imported": "2026-11-24",
+ "qa": {
+  "reviewer": "codex",
+  "image_sha256": "a2bf6779ba7c54eac9725c908803ca13e353afb25fefcbf2d8c561a25c4b101f",
+  "passed": true,
+  "anatomy": "ok",
+  "exposure": "match",
+  "observations": [
+   "목재 사물함이 있는 탈의실, 벤치에 앉아 수건을 접어 안고 있는 가로 구도."
+  ]
+ },
+ "acceptance": "사용자 세계컷 2,3,1 선택 및 완료 후 main 일반 push 승인",
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ }
+}

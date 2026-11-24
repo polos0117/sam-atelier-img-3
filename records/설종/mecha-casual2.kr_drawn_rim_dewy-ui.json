@@ -1,0 +1,140 @@
+{
+ "atelier": "samguk",
+ "card": "설종",
+ "faction": "wu",
+ "slot": "casual2",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "ref": "설종_mecha_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "ostyle": {
+   "layer": "cardigan",
+   "acc": "anklet"
+  },
+  "era": "nation",
+  "place": "nation_room",
+  "ofam": "homewear",
+  "item": "knit_dress_home",
+  "posture": "lie_front",
+  "support": "front_floor",
+  "frame": "environmental",
+  "body": "side",
+  "head": "with_body",
+  "camera": "floor",
+  "right": "chin_both",
+  "left": "chin_both",
+  "use": "",
+  "legs": "feet_up",
+  "gaze": "screen_left",
+  "turn": "right",
+  "time": "noon",
+  "spot": "left_third",
+  "depth": "layered",
+  "color": "jewel",
+  "shade": "emerald",
+  "expr": "sensual",
+  "preset": "lie_front_side",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "3:2",
+  "unlocked": []
+ },
+ "file": "설종_mecha_kr_drawn_rim_dewy_f_casual2.webp",
+ "prompt": "INPUT: the attached image is the approved character — her Mecha card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of Xue Zong of the Three Kingdoms, seen in her everyday life. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change, and her hair may be worn differently only as SCENE's Hair line says. Her mecha-world identity shows ONLY as a small accessory, an object around her, or the object PROP says she holds — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume.\n\nDESIGN (accessory hints only): her legend — nimble wit, a Wu court robe, a brush with a wine-cup charm on its cord — may inform at most one small accessory, a hair ornament or an object beside her, in its palette (crimson red, gold, river teal, black lacquer). The clothes keep the chosen outfit's own colours; her skin, hair and eyes stay as in the attached image.\n\nOBJECTS: any identity accessory or object, including the one PROP names, takes the form of her mecha world — a sleek metal charm, a tech tag, a glass-and-steel cup; no Chinese antique objects such as jade carvings, porcelain cups or paper lanterns.\n\nSTYLE: Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nAGE: the same adult woman as in the attached image — keep her own face shape, cheekbones, eye proportions and skin tone exactly; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases). Keep her face soft, feminine and attractive in every framing — never elongated, gaunt, mannish or heavy-jawed, even in close-ups, profiles or low angles.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her legend shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume. Everything else follows SCENE (chosen).\n\nFRAME: a horizontal 3:2 (1536×1024) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nWORLD: this scene happens inside her own world — the world of the attached image — as if she simply lives there: year 2190, the Wu carrier fleet in orbit above an ocean world: crimson starships and carriers, a glowing nebula, the planet's blue oceans and storm clouds below, neon running lights on the hulls. Its architecture, props, light and weather show the world; no second character, no readable text other than abstract heraldic or insignia shapes — never letters or Chinese characters. Her clothes stay the everyday outfit SCENE describes, not regalia or armor.\n\nSCENE (chosen):\nPlace: her crew cabin aboard a starship — a sleek bunk, soft ambient strip lights, a holographic panel and a porthole full of stars\nTime of day: midday — bright even light; a bright square of sunlight from the window on the floor.\nOutfit: a soft body-hugging knit dress — in deep emerald green; the outfit colour reads clearly at first glance; styled with a light fine-knit cardigan layered over it and a fine chain anklet\nPOSTURE: lying on her front.\nSUPPORT: she lies on her front, propped on her forearms.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; body in side profile, her face in profile too, not turned toward the camera, facing the left of the frame, so her own left side is toward the camera; camera low, near the ground — level with her face when she sits, kneels or lies on the floor or a bed, looking up at her when she stands; she is placed in the left third of the frame, open space of the place to her right; a second space shows beyond her through an opening — a door, an arch or a window.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nBOTH HANDS: both hands cup her chin, her forearms propped beneath her.\nLEGS: lower legs raised behind her, ankles loosely crossed.\nGAZE: she looks toward the left of the frame.\nEXPRESSION: softly lidded eyes, lips relaxed. Keep it subtle and natural, a light touch rather than acting: no sneer, glare, smirk-pulled cheek or chin lifted to look down at the viewer; her face stays relaxed and attractive. Brows relaxed and even, neither raised on one side nor furrowed; lips softly closed or only just parted.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing; nothing slipped off; intimate areas covered\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its garment, armor, regalia, ornaments, mecha plates or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her mecha-world identity belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her faction's palette, armor, robes or regalia.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers. No animals or other creatures.\n\nANATOMY: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nFIGURE: strong and broad-shouldered with firm muscle, yet full-busted with wide rounded hips and a defined waist — keep this exact build from the attached image, neither slimmer nor fuller.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.\n\nAVOID: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+ "date": "2026-11-24",
+ "record": "records/설종/mecha-casual2.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "설종",
+  "out": "casual",
+  "world": "mecha",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 2,
+  "scenes": {
+   "설종": {
+    "era": "nation",
+    "place": "nation_room",
+    "ofam": "homewear",
+    "treeV": 2,
+    "prop": "",
+    "preset": "lie_front_side",
+    "use": "",
+    "posture": "lie_front",
+    "support": "front_floor",
+    "frame": "environmental",
+    "body": "side",
+    "head": "with_body",
+    "camera": "floor",
+    "right": "chin_both",
+    "left": "chin_both",
+    "legs": "feet_up",
+    "gaze": "screen_left",
+    "item": "knit_dress_home",
+    "expr": "sensual",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "3:2",
+    "unlocked": [],
+    "color": "jewel",
+    "shade": "emerald",
+    "time": "noon",
+    "spot": "left_third",
+    "depth": "layered",
+    "turn": "right",
+    "ostyle": {
+     "layer": "cardigan",
+     "acc": "anklet"
+    }
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "size": [
+   1536,
+   1024
+  ],
+  "png_sha256": "672e3ce87ca83508e6f8dfe7d97bcd002b094ebaa8d1ad633818edb56636e519",
+  "webp": {
+   "quality": 90,
+   "target": [
+    1536,
+    1024
+   ]
+  },
+  "retries": [],
+  "prompt_form": "gpt-structured",
+  "prompt_sha256": "fc5c7b86afd01116b59e5bd63e74b96d579492d0d4417055653c79e8e3174186",
+  "ref_sha256": "d4520df7ff176a167dbaa40c68152237d9fb742deefa716544fb70982a48bef4"
+ },
+ "execution": "sam-xuezong-casual-42600",
+ "imported": "2026-11-24",
+ "qa": {
+  "reviewer": "codex",
+  "image_sha256": "672e3ce87ca83508e6f8dfe7d97bcd002b094ebaa8d1ad633818edb56636e519",
+  "passed": true,
+  "anatomy": "ok",
+  "exposure": "match",
+  "observations": [
+   "궤도 함선 창가에서 엎드려 쉰다. 초록 계열 실내복과 가로 구도가 보인다."
+  ]
+ },
+ "acceptance": "사용자 세계컷 2,3,1 선택 및 완료 후 main 일반 push 승인",
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ }
+}
