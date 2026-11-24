@@ -1,0 +1,121 @@
+{
+ "atelier": "samguk",
+ "card": "이엄",
+ "faction": "shu",
+ "role": "official",
+ "world": "samguk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "hazel",
+   "impression": "glamorous",
+   "expr": "smug",
+   "skin_tone": "warm_beige",
+   "age": "mid_20s",
+   "eye_size": "medium",
+   "eye_tilt": "level",
+   "mark": "mole_eye",
+   "brows": "feathered",
+   "nose": "petite_straight",
+   "lips": "thin_bow",
+   "face_shape": "inverted_triangle",
+   "eyes": "phoenix"
+  },
+  "silhouette": {
+   "body": "tall_curvy",
+   "hair_color": "teal",
+   "hair": "tilted_bun",
+   "bangs": "straight"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "이엄_samguk_kr_drawn_rim_dewy_f.webp",
+ "prompt": "SUMMARY: hairstyle a high looped ponytail with a clean side part and two temple locks; costume silhouette no armor — a long floor-length robe with wide sleeves and a broad sash, a long elegant falling silhouette; design idea Overlapping silk folds meet in square stepped hems patterned after the stacked grain measures of her supply office.; face oval face, almond-shaped eyes of natural size; expression faint knowing smile\nA full-body character image, vertical 2:3 (1024×1536): Li Yan of the Romance of the Three Kingdoms, reimagined as an adult woman — the co-regent entrusted with the young emperor who fell over the grain supply.\n\n1. STYLE\nKorean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nHer face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\n2. CHARACTER\nAge: mid-twenties — a young-adult face.\nFace — her own, recognisably this character, a woman's face with no beard or facial hair: an elegant, refined presence; fair skin; oval face; almond-shaped eyes of natural size; forest-green eyes; gently arched, slender brows; a nose with a gentle aquiline curve; soft, full lips.\nBody and hair: tall and statuesque with long legs and a full, curvaceous figure — full bust and hips, narrow waist build; a high looped ponytail with a clean side part and two temple locks; teal hair.\nExpression: a faint knowing smile, subtle and relaxed.\nLegend, carried in her design and bearing: ambitious pride and talent, rich official robes over light armor.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME AND EQUIPMENT — THREE KINGDOMS\nCostume: a Han court official's dress — layered robes with a broad belt and a hanging seal cord, a black jinxian guan cap, an ink brush and bound bamboo slips. Late-Han Chinese dress — cross-collared silk robes with wide sleeves and a broad sash, lamellar or scale armor laced with cords where armor is worn, bronze, jade and lacquer ornament, Han court hair ornaments; silk, lacquered leather, bronze and iron.\nSilhouette: no armor — a long floor-length robe with wide sleeves and a broad sash, a long elegant falling silhouette. This silhouette sets the overall shape of the costume above — keep its materials, ornaments and rank in this shape; the details are free.\nDesign idea: Overlapping silk folds meet in square stepped hems patterned after the stacked grain measures of her supply office.\nColours: jade green, imperial gold, earthen brown, white jade, with small accents of teal green and river blue (Liu Biao), deep forest green and bronze (Liu Zhang).\nSignature item: a bronze seal of command. She holds it at full scale: one whole object, drawn once, held in front of or beside her body; a long weapon keeps one straight, unbroken shaft with a single head or blade.\nExposure (bold): her robes open to show skin — the cross collar opened into a deep neckline with natural cleavage, bare upper arms above detached wide sleeves (and bare shoulders where no shoulder guard sits), the skirt panels cut with a high side slit at full length — it shows the side line of one leg as she stands, no leg pushed out or knee bent for it; any armor pieces stay on and symmetrical. Intimate areas covered; keep the costume material and palette.\n\n4. SCENE\nWorld: Shu Han in the Sichuan basin, around 208–263 AD: the city of Chengdu, cliffside plank roads over gorges, mist-wrapped mountains and bamboo forests, peach orchards, green-and-gold banners.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nSetting detail: A cliffside boardwalk command post with grain stores under tiled roofs.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: her whole figure from the top of her head or headpiece to both feet inside the frame with clear margins, about four-fifths of the image height; camera at chest height with natural portrait perspective.\n\n5. CONSTRAINTS\nOne figure only — no second character, horse or other creature. No readable text or numbers, except that a banner, seal or emblem may carry the single character 蜀 or 李. No logo, watermark, speech bubble or frame border. Three Kingdoms-era Chinese dress, architecture and materials only.\nAvoid: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+ "date": "2026-11-24",
+ "record": "records/이엄/samguk.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "이엄",
+  "out": "world",
+  "world": "samguk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {
+   "이엄|samguk": {}
+  },
+  "looks": {
+   "이엄|samguk": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "이엄|samguk": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/generations",
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "ee5fb81918fe2858e0f9a4e9f338392c596da18fcd466d07985ae9b218cca0b3",
+  "design": "gpt_free",
+  "selected_candidate": 4,
+  "plan": "B",
+  "summary": "SUMMARY: hairstyle a high looped ponytail with a clean side part and two temple locks; costume silhouette no armor — a long floor-length robe with wide sleeves and a broad sash, a long elegant falling silhouette; design idea Overlapping silk folds meet in square stepped hems patterned after the stacked grain measures of her supply office.; face oval face, almond-shaped eyes of natural size; expression faint knowing smile",
+  "free_prompt": "SUMMARY: hairstyle a high looped ponytail with a clean side part and two temple locks; costume silhouette no armor — a long floor-length robe with wide sleeves and a broad sash, a long elegant falling silhouette; design idea Overlapping silk folds meet in square stepped hems patterned after the stacked grain measures of her supply office.; face oval face, almond-shaped eyes of natural size; expression faint knowing smile\nA full-body character image, vertical 2:3 (1024×1536): Li Yan of the Romance of the Three Kingdoms, reimagined as an adult woman — the co-regent entrusted with the young emperor who fell over the grain supply.\n\n1. STYLE\nKorean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nHer face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\n2. CHARACTER\nAge: mid-twenties — a young-adult face.\nFace — her own, recognisably this character, a woman's face with no beard or facial hair: an elegant, refined presence; fair skin; oval face; almond-shaped eyes of natural size; forest-green eyes; gently arched, slender brows; a nose with a gentle aquiline curve; soft, full lips.\nBody and hair: tall and statuesque with long legs and a full, curvaceous figure — full bust and hips, narrow waist build; a high looped ponytail with a clean side part and two temple locks; teal hair.\nExpression: a faint knowing smile, subtle and relaxed.\nLegend, carried in her design and bearing: ambitious pride and talent, rich official robes over light armor.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME AND EQUIPMENT — THREE KINGDOMS\nCostume: a Han court official's dress — layered robes with a broad belt and a hanging seal cord, a black jinxian guan cap, an ink brush and bound bamboo slips. Late-Han Chinese dress — cross-collared silk robes with wide sleeves and a broad sash, lamellar or scale armor laced with cords where armor is worn, bronze, jade and lacquer ornament, Han court hair ornaments; silk, lacquered leather, bronze and iron.\nSilhouette: no armor — a long floor-length robe with wide sleeves and a broad sash, a long elegant falling silhouette. This silhouette sets the overall shape of the costume above — keep its materials, ornaments and rank in this shape; the details are free.\nDesign idea: Overlapping silk folds meet in square stepped hems patterned after the stacked grain measures of her supply office.\nColours: jade green, imperial gold, earthen brown, white jade, with small accents of teal green and river blue (Liu Biao), deep forest green and bronze (Liu Zhang).\nSignature item: a bronze seal of command. She holds it at full scale: one whole object, drawn once, held in front of or beside her body; a long weapon keeps one straight, unbroken shaft with a single head or blade.\nExposure (bold): her robes open to show skin — the cross collar opened into a deep neckline with natural cleavage, bare upper arms above detached wide sleeves (and bare shoulders where no shoulder guard sits), the skirt panels cut with a high side slit at full length — it shows the side line of one leg as she stands, no leg pushed out or knee bent for it; any armor pieces stay on and symmetrical. Intimate areas covered; keep the costume material and palette.\n\n4. SCENE\nWorld: Shu Han in the Sichuan basin, around 208–263 AD: the city of Chengdu, cliffside plank roads over gorges, mist-wrapped mountains and bamboo forests, peach orchards, green-and-gold banners.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nSetting detail: A cliffside boardwalk command post with grain stores under tiled roofs.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: her whole figure from the top of her head or headpiece to both feet inside the frame with clear margins, about four-fifths of the image height; camera at chest height with natural portrait perspective.\n\n5. CONSTRAINTS\nOne figure only — no second character, horse or other creature. No readable text or numbers, except that a banner, seal or emblem may carry the single character 蜀 or 李. No logo, watermark, speech bubble or frame border. Three Kingdoms-era Chinese dress, architecture and materials only.\nAvoid: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "a69a9996c146a8db497f076429d2e53358a0b7fad6847eb3ec37e484a5175914",
+  "webp": {
+   "quality": 90,
+   "size": [
+    1024,
+    1536
+   ]
+  },
+  "retries": []
+ },
+ "execution": "sam-liyan-a6f531b70339",
+ "imported": "2026-11-24",
+ "qa": {
+  "reviewer": "sam-liyan-a6f531b70339",
+  "image_sha256": "a69a9996c146a8db497f076429d2e53358a0b7fad6847eb3ec37e484a5175914",
+  "passed": true,
+  "anatomy": "ok",
+  "exposure": "match",
+  "observations": [
+   "성인 여성 한 명, 삼국시대 관복과 군량 창고 잔도. 지휘 인장과 붓이 이어지며 전신이 프레임 안에 있음."
+  ]
+ },
+ "acceptance": "user_approval_2026-11-24 — 세계컷 4,1,4와 이미지·도감 등록 승인",
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ }
+}
