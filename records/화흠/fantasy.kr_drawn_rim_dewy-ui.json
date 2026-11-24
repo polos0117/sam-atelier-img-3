@@ -1,0 +1,122 @@
+{
+ "atelier": "samguk",
+ "card": "화흠",
+ "faction": "wei",
+ "role": "official",
+ "world": "fantasy",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "dark_brown",
+   "impression": "cool",
+   "expr": "cold_smile",
+   "skin_tone": "warm_beige",
+   "age": "mid_20s",
+   "eye_size": "medium",
+   "eye_tilt": "level",
+   "mark": "gloss",
+   "brows": "feathered",
+   "nose": "high_bridge",
+   "lips": "thin_bow",
+   "face_shape": "inverted_triangle",
+   "eyes": "phoenix"
+  },
+  "silhouette": {
+   "body": "willowy_curvy",
+   "hair_color": "caramel",
+   "hair": "tilted_bun",
+   "bangs": "one_eye"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "화흠_fantasy_kr_drawn_rim_dewy_f.webp",
+ "prompt": "A full-body character image, vertical 2:3 (1024×1536): Hua Xin of the Romance of the Three Kingdoms, reimagined as an adult woman — the official who parted from her friend to serve at court.\n\n1. STYLE\nKorean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nHer face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\n2. CHARACTER\nAge: mid-twenties — a young-adult face.\nFace — her own, recognisably this character, a woman's face with no beard or facial hair: a cool, aloof beauty; warm beige skin; softly tapered face narrowing to a small, soft chin; eyes of natural size — phoenix eyes with gracefully lifted outer corners, of natural size, level outer eye corners; soft feathered brows; slim, delicate nose with a refined bridge; thin lips with a defined cupid's bow; dark brown eyes; glossy nude lips.\nBody and hair: willowy and long-limbed with soft curves — a full bust, rounded hips and a slender waist build; a bun tilted to one side with loose strands with long bangs falling over one eye; caramel-brown hair.\nExpression: a faint cool smile, calm composed eyes, subtle and relaxed.\nLegend, carried in her design and bearing: worldly ambition and polished manners, fine official robes.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME AND EQUIPMENT — MEDIEVAL FANTASY\nCostume: a royal chancellor's or court scholar's dress — a long embroidered coat with a stole, a seal ring, ledgers and a quill. Western medieval high-fantasy dress — plate, mail and heraldic tabards, gowns and mantles, circlets and crowns; steel, leather, wool, velvet and gold, with a subtle magical glow along the patterns. Her Three Kingdoms origin shows through her signature item, her colours and her bearing.\nSilhouette: a floor-length priestly vestment with gold-trimmed stoles and a tall head ornament — a long, devout silhouette. This silhouette sets the overall shape of the costume above — keep its materials, ornaments and rank in this shape; the details are free.\nColours: deep navy blue, black lacquer, cold steel silver, ivory white, with small accents of Han black and vermilion (the Han court), crimson red and gold (Eastern Wu).\nSignature item: a gold ingot, reimagined as a Western high-fantasy version of the same kind of object with the same silhouette — polished steel and silvered mithril throughout, the shaft or hilt also forged metal with engraved runes (never plain wood), a faint magical glow running along the edge and the runes, a gem-set guard or socket, a leather-wrapped grip and heraldic or elven ornament, with any animal motif re-sculpted in Western heraldic style. She holds it at full scale: one whole object, drawn once, held in front of or beside her body; a long weapon keeps one straight, unbroken shaft with a single head or blade.\nExposure (bold): her regalia opens to show skin — bare upper arms below the pauldrons, which stay seated on top of her shoulders (bare shoulders only where no shoulder guard sits), a deep open neckline under the gorget with natural cleavage, the tabard or gown cut with a high side slit at full length — it shows the side line of one leg as she stands, no leg pushed out or knee bent for it; armor pieces stay on and symmetrical. Intimate areas covered; no corset; keep the costume material and palette.\n\n4. SCENE\nWorld: a stern northern empire of medieval high fantasy: black-stone citadels with blue banners, iron-shod heavy cavalry, snowy plains and pine forests, a court ruled by strict law, cold blue sigil-magic.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: her whole figure from the top of her head or headpiece to both feet inside the frame with clear margins, about four-fifths of the image height; camera at chest height with natural portrait perspective.\n\n5. CONSTRAINTS\nOne figure only — no second character, horse or other creature. No readable text or numbers — banners and shields carry only heraldic devices (a beast or a crest), never letters or Chinese characters. No logo, watermark, speech bubble or frame border. A Western medieval setting and dress only — stone castles, Romanesque or Gothic architecture — with no Chinese architecture, robes or hanzi.\nAvoid: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+ "date": "2026-11-24",
+ "record": "records/화흠/fantasy.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "화흠",
+  "out": "world",
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {
+   "화흠|fantasy": {}
+  },
+  "looks": {
+   "화흠|fantasy": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "화흠|fantasy": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "55858d3528f0a43f3799be1c7fc646b97d82cb68c1632a831666ba8033502cfb",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "size": [
+    1024,
+    1536
+   ]
+  },
+  "retries": [],
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "2edffef7892d9c2e695b27a81c4f581ba4498b655176132b5f0a5f9ec3105fc8",
+  "selection": {
+   "number": 2,
+   "design": "atelier"
+  }
+ },
+ "execution": "sam-huaxin-17e671c0ddcf",
+ "imported": "2026-11-24",
+ "qa": {
+  "reviewer": "sam-huaxin-17e671c0ddcf",
+  "image_sha256": "55858d3528f0a43f3799be1c7fc646b97d82cb68c1632a831666ba8033502cfb",
+  "passed": false,
+  "exposure": "match",
+  "anatomy": "ok",
+  "observations": [
+   "설산 성채, 의상과 전신 구도 확인. 금괴가 은색 지팡이 머리로 표현됨."
+  ],
+  "cause": "금괴 지시와 샤프트·그립을 묘사한 줄이 함께 들어가 있음."
+ },
+ "acceptance": "User selected world candidates 2,2,2 and approved publishing after QA.",
+ "review": {
+  "reviewed": true,
+  "by": "user",
+  "result": "selected"
+ }
+}
