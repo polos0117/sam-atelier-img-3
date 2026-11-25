@@ -1,0 +1,117 @@
+{
+ "atelier": "samguk",
+ "card": "미방",
+ "faction": "shu",
+ "role": "general",
+ "world": "mecha",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "amber",
+   "impression": "languid",
+   "expr": "pensive",
+   "skin_tone": "fair",
+   "age": "late_20s",
+   "eye_size": "medium",
+   "eye_tilt": "down",
+   "mark": "winged_liner",
+   "brows": "arched_thin",
+   "nose": "small_button",
+   "lips": "soft_medium",
+   "face_shape": "heart",
+   "eyes": "almond_wide"
+  },
+  "silhouette": {
+   "body": "petite_curvy",
+   "hair_color": "strawberry_blonde",
+   "hair": "finger_waves",
+   "bangs": "parted"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "미방_mecha_kr_drawn_rim_dewy_f.webp",
+ "prompt": "A full-body character image, vertical 2:3 (1024×1536): Mi Fang of the Romance of the Three Kingdoms, reimagined as an adult woman — Mi Zhu's sibling who betrayed Jing province to Wu.\n\n1. STYLE\nKorean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nHer face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\n2. CHARACTER\nAge: late twenties — a clear adult face with soft, smooth contours.\nFace — her own, recognisably this character, a woman's face with no beard or facial hair: a languid, sleepy-eyed ease; fair skin; heart-shaped face; eyes of natural size — almond-shaped eyes of natural size, outer eye corners drooping downward; gently arched, slender brows; a nose with a soft, rounded tip, of natural size; soft medium lips; amber eyes; sharp winged eyeliner.\nBody and hair: petite and compact yet curvaceous — full bust and rounded hips on a small frame build; glossy chin-length finger waves with center-parted bangs framing the face; strawberry-blonde hair.\nExpression: a quiet, thoughtful look, lips lightly closed, subtle and relaxed.\nLegend, carried in her design and bearing: guilt and evasive eyes, luxurious armor that never saw much battle.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME AND EQUIPMENT — MECHA\nCostume: a female mecha personification built as an assault-type mecha frame — heavy armor plates, thruster packs, reinforced limbs, her weapon rebuilt as a large mecha armament. Solid hard-surface plates with visible joints cover her frame except at the openings named under Exposure; any cape or skirt is made of rigid armored plates; her face and hair stay human.\nSilhouette: a slender torso with oversized mechanical forearms and lower legs — huge gauntlets and boots — the contrast is the main shape. This silhouette sets the overall shape of the costume above — keep its materials, ornaments and rank in this shape; the details are free.\nColours: jade green, imperial gold, earthen brown, white jade, with small accents of sea-salt blue and pearl white (Tao Qian), crimson red and gold (Eastern Wu). Faction frame: jade-green and white plating with imperial-gold trims, organic layered armor like overlapping leaves, a resilient all-terrain frame, warm green glow lines.\nSignature item: a gilded ceremonial sword, rebuilt as a far-future high-tech version of the same kind of object with the same silhouette — hard-surface alloy plates with panel lines, mechanical joints, vents and emitter nodes, an energy edge, plasma blade or glowing core in her glow-line colour and small status lights, with any animal motif re-sculpted as sleek machined armour. She holds it at full scale: one whole object, drawn once, held in front of or beside her body; a long weapon keeps one straight, unbroken shaft with a single head or blade.\nExposure (bold): her mecha frame is cut open by design in only these places — bare upper arms below the pauldrons, which stay seated on top of her shoulders, and a deep open chest window with natural cleavage framed by the chest plates; everywhere else she stays fully plated. The plates stay on, fitted and symmetrical, with skin clearly showing in each opening. Intimate areas covered; keep the plate material and palette.\n\n4. SCENE\nWorld: year 2190, the Shu frontier colony on a jade-green moon: terraced garden cities under vast glass domes, a ringed gas giant filling the sky, an orbital elevator climbing into space, starship docks glowing green.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: her whole figure from the top of her head or headpiece to both feet inside the frame with clear margins, about four-fifths of the image height; camera at chest height with natural portrait perspective.\n\n5. CONSTRAINTS\nOne figure only — no second character, horse or other creature. No readable text or numbers — emblems are abstract insignia shapes only, never letters or Chinese characters. No logo, watermark, speech bubble or frame border. A far-future setting only — space stations, starships and high-tech structures — with no traditional East-Asian architecture.\nAvoid: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+ "date": "2026-11-25",
+ "record": "records/미방/mecha.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "미방",
+  "out": "world",
+  "world": "mecha",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {
+   "미방|mecha": {}
+  },
+  "looks": {
+   "미방|mecha": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "미방|mecha": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/generations",
+  "png_sha256": "a1eb16160caeca16bcb4bf1ac99899272141eebc05ad83c2a1b654c736b7ed89",
+  "selected_candidate": 1,
+  "selection_user": "2,1,1",
+  "retries": [],
+  "size": [
+   1024,
+   1536
+  ],
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "b3939beff352fef5ce893cb5bb0f2390ebaa7e8827398308828cbf8d695a204d"
+ },
+ "review": {
+  "reviewed": true,
+  "by": "user",
+  "result": "selected"
+ },
+ "execution": "mifang-0501ee44",
+ "imported": "2026-11-26",
+ "acceptance": "user_selection_2,1,1_2026-11-26",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "a1eb16160caeca16bcb4bf1ac99899272141eebc05ad83c2a1b654c736b7ed89",
+  "passed": true,
+  "anatomy": "ok",
+  "exposure": "match",
+  "observations": [
+   "사용자가 선택한 원본. 성인 여성 한 명, 머리부터 양발까지 프레임 안에 있음.",
+   "세계별 의상과 한 자루의 의장검 확인. 임의 재생성 없음."
+  ],
+  "cause": ""
+ }
+}

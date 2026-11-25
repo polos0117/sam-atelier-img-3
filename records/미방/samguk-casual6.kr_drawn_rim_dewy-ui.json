@@ -1,0 +1,139 @@
+{
+ "atelier": "samguk",
+ "card": "미방",
+ "faction": "shu",
+ "slot": "casual6",
+ "treeV": 2,
+ "world": "samguk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "ref": "미방_samguk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "library_reading",
+  "ofam": "bridal",
+  "item": "beaded_mini",
+  "posture": "sit_chair",
+  "support": "none",
+  "frame": "environmental",
+  "body": "front",
+  "head": "turn_side",
+  "camera": "eye",
+  "right": "prop",
+  "left": "lap",
+  "use": "glass_carry",
+  "legs": "knees_together",
+  "gaze": "screen_left",
+  "time": "morning",
+  "ofree": true,
+  "ofreeRecent": "the central atrium of a space station — carries her keepsake low at her side; a quiet modern apartment window seat at night — she settles down to watch a film with a bowl of popcorn; a modern outdoor model-sailboat pond beside a bright white promenade in late morning — she enjoys steering a tiny remote-controlled sailboat around a buoy; the open deck of a wooden sightseeing boat on the Yangtze — rests the pen from a notebook against her lips; a cedar-wood tub by the window of a mountain inn — chest-deep in the water; a stage under a painted night sky of crystal stars — kneeling on the ground; a hydroponic bathing pool aboard a starship — standing with one foot up on a step; a rocky waterfall pool under green trees — swimming freestyle at an easy pace; a domed marble hammam with warm stone slabs and brass bowls — standing and leaning her upper body forward toward the camera from the hips; a scholar's study stacked with bound bamboo slips — lifts a small storage box onto the shelf above her; a stage under a painted night sky of crystal stars — standing; a lantern-lit old-town street at night — standing; a Peking opera dressing room — standing at a work surface",
+  "expr": "wink",
+  "preset": "bench_sit",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "미방_samguk_kr_drawn_rim_dewy_f_casual6.webp",
+ "prompt": "INPUT: the attached image is the approved character — her Three kingdoms card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of Mi Fang of the Three Kingdoms, seen in her everyday life. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change, and her hair may be worn differently only as SCENE's Hair line says. Her Three Kingdoms identity shows ONLY as a small accessory, an object around her, or the object PROP says she holds — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume.\n\nDESIGN (accessory hints only): her legend — guilt and evasive eyes, luxurious armor that never saw much battle — may inform at most one small accessory, a hair ornament or an object beside her, in its palette (deep green, imperial gold, earthen brown, soft white, with small accents of sea-salt blue and pearl white (Tao Qian), crimson red and gold (Eastern Wu)). The clothes keep the chosen outfit's own colours; her skin, hair and eyes stay as in the attached image.\n\nOBJECTS: any identity accessory or object, including the one PROP names, takes a present-day form that fits this place — a charm, a hairpin, a phone strap, a modern cup or bottle; no Chinese antique objects such as jade carvings, porcelain wine cups, bronze vessels or paper lanterns.\n\nSIGNATURE ACCESSORY: off duty she carries no weapon — no sword, saber, spear, glaive, halberd, bow, axe, shield or any blade in her hands, on her back or anywhere in the scene. Her signature weapon (a gilded ceremonial sword) appears only as one small worn accessory modelled on its shape and colours — a hair ornament, pendant, earring, brooch or belt charm a few centimetres long, clearly jewellery and not a usable weapon.\n\nSTYLE: Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nAGE: the same adult woman as in the attached image — keep her own face shape, cheekbones, eye proportions and skin tone exactly; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases). Keep her face soft, feminine and attractive in every framing — never elongated, gaunt, mannish or heavy-jawed, even in close-ups, profiles or low angles.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her legend shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nSCENE (chosen):\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: the central atrium of a space station — carries her keepsake low at her side; a quiet modern apartment window seat at night — she settles down to watch a film with a bowl of popcorn; a modern outdoor model-sailboat pond beside a bright white promenade in late morning — she enjoys steering a tiny remote-controlled sailboat around a buoy; the open deck of a wooden sightseeing boat on the Yangtze — rests the pen from a notebook against her lips; a cedar-wood tub by the window of a mountain inn — chest-deep in the water; a stage under a painted night sky of crystal stars — kneeling on the ground; a hydroponic bathing pool aboard a starship — standing with one foot up on a step; a rocky waterfall pool under green trees — swimming freestyle at an easy pace; a domed marble hammam with warm stone slabs and brass bowls — standing and leaning her upper body forward toward the camera from the hips; a scholar's study stacked with bound bamboo slips — lifts a small storage box onto the shelf above her; a stage under a painted night sky of crystal stars — standing; a lantern-lit old-town street at night — standing; a Peking opera dressing room — standing at a work surface.\nPlace: a modern intercity ferry departure lounge with windows overlooking an empty morning harbor\nActivity: she pauses over two blank route cards, then confidently places one into her small travel pouch\nPose: seated facing three-quarters forward; her right forearm rests over her lap holding a route card, her left hand holds the open pouch on her thigh; both elbows visible\nFraming: a vertical seated three-quarter portrait with her face clear, eyes lowered to the card\nTime of day (fixed): early morning — low clean light, long soft shadows — set your scene at this time.\nOutfit: a terracotta halter travel playsuit with a folded crossover bust, open shoulders, a fitted waist and short overlapping culotte panels, cream ankle boots (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack)\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing; nothing slipped off; intimate areas covered\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its garment, armor, regalia, ornaments, mecha plates or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her Three Kingdoms identity belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her faction's palette, armor, robes or regalia.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers. No animals or other creatures.\n\nANATOMY: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nFIGURE: petite and compact yet curvaceous — full bust and rounded hips on a small frame — keep this exact build from the attached image, neither slimmer nor fuller.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.\n\nAVOID: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+ "date": "2026-11-25",
+ "record": "records/미방/samguk-casual6.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "미방",
+  "out": "casual",
+  "world": "samguk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 6,
+  "scenes": {
+   "미방": {
+    "era": "now",
+    "place": "library_reading",
+    "ofam": "bridal",
+    "treeV": 2,
+    "prop": "",
+    "preset": "bench_sit",
+    "use": "glass_carry",
+    "posture": "sit_chair",
+    "support": "none",
+    "frame": "environmental",
+    "body": "front",
+    "head": "turn_side",
+    "camera": "eye",
+    "right": "prop",
+    "left": "lap",
+    "legs": "knees_together",
+    "gaze": "screen_left",
+    "item": "beaded_mini",
+    "expr": "wink",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "ofree": true,
+    "time": "morning",
+    "ofreeRecent": "the central atrium of a space station — carries her keepsake low at her side; a quiet modern apartment window seat at night — she settles down to watch a film with a bowl of popcorn; a modern outdoor model-sailboat pond beside a bright white promenade in late morning — she enjoys steering a tiny remote-controlled sailboat around a buoy; the open deck of a wooden sightseeing boat on the Yangtze — rests the pen from a notebook against her lips; a cedar-wood tub by the window of a mountain inn — chest-deep in the water; a stage under a painted night sky of crystal stars — kneeling on the ground; a hydroponic bathing pool aboard a starship — standing with one foot up on a step; a rocky waterfall pool under green trees — swimming freestyle at an easy pace; a domed marble hammam with warm stone slabs and brass bowls — standing and leaning her upper body forward toward the camera from the hips; a scholar's study stacked with bound bamboo slips — lifts a small storage box onto the shelf above her; a stage under a painted night sky of crystal stars — standing; a lantern-lit old-town street at night — standing; a Peking opera dressing room — standing at a work surface"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "date": "2026-11-26T00:28:09.129804+09:00",
+  "png_sha256": "ec82fafd53bb2d26e8de5281c568c762dc50b6ae702e2926724e448f58ce9c8a",
+  "ref_sha256": "6d7af8c14770c3b8d327e103ae67d86ccd6f493c7bfaf560bf269425a006a8a7",
+  "prompt_sha256": "5f1cb891eaf03a18b99416f987a39224d216ee39872e0f8245dea787319a0698",
+  "source_dimensions": [
+   1024,
+   1536
+  ],
+  "size": [
+   1024,
+   1536
+  ],
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt_form": "en-prompt",
+  "retries": [],
+  "free_design": {
+   "Place": "a modern intercity ferry departure lounge with windows overlooking an empty morning harbor",
+   "Activity": "she pauses over two blank route cards, then confidently places one into her small travel pouch",
+   "Pose": "seated facing three-quarters forward; her right forearm rests over her lap holding a route card, her left hand holds the open pouch on her thigh; both elbows visible",
+   "Framing": "a vertical seated three-quarter portrait with her face clear, eyes lowered to the card",
+   "Outfit": "a terracotta halter travel playsuit with a folded crossover bust, open shoulders, a fitted waist and short overlapping culotte panels, cream ankle boots"
+  },
+  "free_prompt": "INPUT: the attached image is the approved character — her Three kingdoms card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of Mi Fang of the Three Kingdoms, seen in her everyday life. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change, and her hair may be worn differently only as SCENE's Hair line says. Her Three Kingdoms identity shows ONLY as a small accessory, an object around her, or the object PROP says she holds — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume.\n\nDESIGN (accessory hints only): her legend — guilt and evasive eyes, luxurious armor that never saw much battle — may inform at most one small accessory, a hair ornament or an object beside her, in its palette (deep green, imperial gold, earthen brown, soft white, with small accents of sea-salt blue and pearl white (Tao Qian), crimson red and gold (Eastern Wu)). The clothes keep the chosen outfit's own colours; her skin, hair and eyes stay as in the attached image.\n\nOBJECTS: any identity accessory or object, including the one PROP names, takes a present-day form that fits this place — a charm, a hairpin, a phone strap, a modern cup or bottle; no Chinese antique objects such as jade carvings, porcelain wine cups, bronze vessels or paper lanterns.\n\nSIGNATURE ACCESSORY: off duty she carries no weapon — no sword, saber, spear, glaive, halberd, bow, axe, shield or any blade in her hands, on her back or anywhere in the scene. Her signature weapon (a gilded ceremonial sword) appears only as one small worn accessory modelled on its shape and colours — a hair ornament, pendant, earring, brooch or belt charm a few centimetres long, clearly jewellery and not a usable weapon.\n\nSTYLE: Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nAGE: the same adult woman as in the attached image — keep her own face shape, cheekbones, eye proportions and skin tone exactly; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases). Keep her face soft, feminine and attractive in every framing — never elongated, gaunt, mannish or heavy-jawed, even in close-ups, profiles or low angles.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her legend shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nSCENE (chosen):\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: the central atrium of a space station — carries her keepsake low at her side; a quiet modern apartment window seat at night — she settles down to watch a film with a bowl of popcorn; a modern outdoor model-sailboat pond beside a bright white promenade in late morning — she enjoys steering a tiny remote-controlled sailboat around a buoy; the open deck of a wooden sightseeing boat on the Yangtze — rests the pen from a notebook against her lips; a cedar-wood tub by the window of a mountain inn — chest-deep in the water; a stage under a painted night sky of crystal stars — kneeling on the ground; a hydroponic bathing pool aboard a starship — standing with one foot up on a step; a rocky waterfall pool under green trees — swimming freestyle at an easy pace; a domed marble hammam with warm stone slabs and brass bowls — standing and leaning her upper body forward toward the camera from the hips; a scholar's study stacked with bound bamboo slips — lifts a small storage box onto the shelf above her; a stage under a painted night sky of crystal stars — standing; a lantern-lit old-town street at night — standing; a Peking opera dressing room — standing at a work surface.\nPlace: a modern intercity ferry departure lounge with windows overlooking an empty morning harbor\nActivity: she pauses over two blank route cards, then confidently places one into her small travel pouch\nPose: seated facing three-quarters forward; her right forearm rests over her lap holding a route card, her left hand holds the open pouch on her thigh; both elbows visible\nFraming: a vertical seated three-quarter portrait with her face clear, eyes lowered to the card\nTime of day (fixed): early morning — low clean light, long soft shadows — set your scene at this time.\nOutfit: a terracotta halter travel playsuit with a folded crossover bust, open shoulders, a fitted waist and short overlapping culotte panels, cream ankle boots (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack)\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing; nothing slipped off; intimate areas covered\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its garment, armor, regalia, ornaments, mecha plates or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her Three Kingdoms identity belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her faction's palette, armor, robes or regalia.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers. No animals or other creatures.\n\nANATOMY: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nFIGURE: petite and compact yet curvaceous — full bust and rounded hips on a small frame — keep this exact build from the attached image, neither slimmer nor fuller.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.\n\nAVOID: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin."
+ },
+ "imported": "2026-11-26T00:28:09.129804+09:00",
+ "execution": "mifang-0501ee44",
+ "acceptance": "user_approval_2026-11-26 — selected 2,1,1; publish after AI review",
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "ec82fafd53bb2d26e8de5281c568c762dc50b6ae702e2926724e448f58ce9c8a",
+  "passed": true,
+  "anatomy": "ok",
+  "exposure": "match",
+  "observations": [
+   "참조 세계컷의 얼굴·머리색·체형을 유지한 일상 장면.",
+   "손·팔의 연결과 가시 범위 확인. 추가 팔다리의 뚜렷한 오류 없음.",
+   "생성된 원본 그대로 사용. 노출을 이유로 재생성하지 않음."
+  ],
+  "cause": ""
+ }
+}
