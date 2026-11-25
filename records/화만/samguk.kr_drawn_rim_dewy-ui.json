@@ -1,0 +1,115 @@
+{
+ "atelier": "samguk",
+ "card": "화만",
+ "faction": "qun",
+ "role": "general",
+ "world": "samguk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "emerald",
+   "impression": "coquettish",
+   "expr": "mischievous",
+   "skin_tone": "golden_tan",
+   "age": "early_20s",
+   "eye_size": "medium",
+   "eye_tilt": "level",
+   "mark": "blush",
+   "brows": "straight_thin",
+   "nose": "high_bridge",
+   "lips": "full_wide",
+   "face_shape": "oval",
+   "eyes": "narrow_upturned"
+  },
+  "silhouette": {
+   "body": "hourglass",
+   "hair_color": "fuchsia",
+   "hair": "mermaid_waves",
+   "bangs": "side_swept"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "화만_samguk_kr_drawn_rim_dewy_f.webp",
+ "prompt": "A full-body character image, vertical 2:3 (1024×1536): Hua Man of the Romance of the Three Kingdoms, reimagined as an adult woman — the daughter of Meng Huo and Lady Zhurong who fought Guan Suo, was traded back in a captive exchange and married him (from Peking opera).\n\n1. STYLE\nKorean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nHer face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\n2. CHARACTER\nAge: about twenty — a youthful face.\nFace — her own, recognisably this character, a woman's face with no beard or facial hair: a coquettish, flirtatious charm — a sidelong glance and a playful pout; light warm-beige skin with a golden undertone; oval face; eyes of natural size — almond eyes whose outer corners lift slightly, level outer eye corners; thin straight brows; slim, delicate nose with a refined bridge; medium-full lips of natural width; emerald-green eyes; rosy flushed cheeks.\nBody and hair: hourglass-figured — full bust and hips, distinctly narrow-waisted build; very long loose mermaid waves to the waist with side-swept bangs; fuchsia-pink hair.\nExpression: a small sly smile, bright eyes, subtle and relaxed.\nLegend, carried in her design and bearing: mischievous daring, a southern princess's flower-garland armor, throwing knives tucked in a woven sash.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME AND EQUIPMENT — THREE KINGDOMS\nCostume: Three Kingdoms war general's armor — lamellar scale armor laced over a silk battle robe, beast-head shoulder guards, a plumed helmet or a war headband, a long war cape, her weapon at hand. Late-Han Chinese dress — cross-collared silk robes with wide sleeves and a broad sash, lamellar or scale armor laced with cords where armor is worn, bronze, jade and lacquer ornament, Han court hair ornaments; silk, lacquered leather, bronze and iron.\nSilhouette: a heavy fur mantle over the shoulders with leather straps and beast ornaments — a rugged frontier silhouette. This silhouette sets the overall shape of the costume above — keep its materials, ornaments and rank in this shape; the details are free.\nColours: bronze-gold, deep crimson, jade green and dark wood brown.\nSignature item: a pair of curved short blades. She holds it at full scale: one whole object, drawn once, held in front of or beside her body; a long weapon keeps one straight, unbroken shaft with a single head or blade.\nExposure (bold): her robes open to show skin — the cross collar opened into a deep neckline with natural cleavage, bare upper arms above detached wide sleeves (and bare shoulders where no shoulder guard sits), the skirt panels cut with a high side slit at full length — it shows the side line of one leg as she stands, no leg pushed out or knee bent for it; any armor pieces stay on and symmetrical. Intimate areas covered; keep the costume material and palette.\n\n4. SCENE\nWorld: the chaos of the late Eastern Han, around 184–200 AD: burning Luoyang, the Hulao Pass, Yellow Turban fields, warlord camps of rival banners, frontier steppe and the southern jungles of the Nanman.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: her whole figure from the top of her head or headpiece to both feet inside the frame with clear margins, about four-fifths of the image height; camera at chest height with natural portrait perspective.\n\n5. CONSTRAINTS\nOne figure only — no second character, horse or other creature. No readable text or numbers, except that a banner, seal or emblem may carry the single character 雄 or 花. No logo, watermark, speech bubble or frame border. Three Kingdoms-era Chinese dress, architecture and materials only.\nAvoid: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+ "date": "2026-11-25",
+ "record": "records/화만/samguk.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "화만",
+  "out": "world",
+  "world": "samguk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {
+   "화만|samguk": {}
+  },
+  "looks": {
+   "화만|samguk": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "화만|samguk": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "0845096b258ecf51fc450f98eda7b331218635a925a1d13082d77b5a4ae1d23d",
+  "prompt_sha256": "3d7c6a7ffc9460f5e06cc112b6e9b1bcf0eb515a2b718087e9753964100ce57b",
+  "prompt_form": "en-prompt",
+  "design": "ours",
+  "selected_candidate": 2,
+  "webp": {
+   "quality": 90,
+   "method": 6
+  }
+ },
+ "execution": "sam-huaman-6357ca",
+ "imported": "2026-11-26",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "0845096b258ecf51fc450f98eda7b331218635a925a1d13082d77b5a4ae1d23d",
+  "passed": true,
+  "anatomy": "ok",
+  "exposure": "match",
+  "observations": [
+   "One adult woman, full figure and paired curved blades visible.",
+   "User selected this candidate; preserved without regeneration."
+  ]
+ },
+ "acceptance": "user selected 2,4,3; approved normal push to main",
+ "review": {
+  "reviewed": true,
+  "by": "user",
+  "result": "selected"
+ }
+}

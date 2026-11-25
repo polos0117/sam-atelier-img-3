@@ -1,0 +1,134 @@
+{
+ "atelier": "samguk",
+ "card": "화만",
+ "faction": "qun",
+ "slot": "casual7",
+ "treeV": 2,
+ "world": "samguk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "ref": "화만_samguk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "heritage",
+  "place": "heritage_inkshop",
+  "ofam": "subculture",
+  "item": "trad_goth",
+  "posture": "sit_sideways",
+  "support": "none",
+  "frame": "three_quarter",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "prop",
+  "use": "ink_grind",
+  "legs": "",
+  "gaze": "at_prop",
+  "time": "morning",
+  "ofree": true,
+  "ofreeRecent": "a small repair kiosk with a cluttered workbench — carries a camera by its grip at her side; an outdoor thermal swimming terrace inside an old volcanic quarry — she laughs softly when a sudden bubble plume pops beside her; the upper balcony of a wooden pavilion with upturned eaves — standing at a waist-high railing or sill; a quiet saltwater floatation spa beside a large round window — she tests the salinity by floating a tiny empty transparent bowl on the water and watches it bob with an amused half-smile; an open-air miniature railway station platform with an empty bench — she sits on her small suitcase eating a roasted sweet potato wrapped in plain paper; an editorial photo studio with a seamless backdrop and dramatic lights — lying on her left side; her bedroom — holds a cup at chest height; a glass greenhouse full of plants with a wooden potting bench — kneeling on the ground; a Korean jjimjilbang hall with heated floors and sleeping mats — standing; a narrow path through a tall bamboo grove — standing; an editorial photo studio with a seamless backdrop and dramatic lights — standing; an open-air hot spring among steaming rocks — works a soft mesh bath puff into a rich lather between her hands; a traditional archery ground beside a temple wall — standing close to a high shelf or line",
+  "expr": "amused",
+  "preset": "bench_fix",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "화만_samguk_kr_drawn_rim_dewy_f_casual7.webp",
+ "prompt": "INPUT: the attached image is the approved character — her Three kingdoms card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of Hua Man of the Three Kingdoms, seen in her everyday life. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change, and her hair may be worn differently only as SCENE's Hair line says. Her Three Kingdoms identity shows ONLY as a small accessory, an object around her, or the object PROP says she holds — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume.\n\nDESIGN (accessory hints only): her legend — mischievous daring, a southern princess's flower-garland armor, throwing knives tucked in a woven sash — may inform at most one small accessory, a hair ornament or an object beside her, in its palette (bronze-gold, deep crimson, jade green and dark wood brown). The clothes keep the chosen outfit's own colours; her skin, hair and eyes stay as in the attached image.\n\nSIGNATURE ACCESSORY: off duty she carries no weapon — no sword, saber, spear, glaive, halberd, bow, axe, shield or any blade in her hands, on her back or anywhere in the scene. Her signature weapon (a pair of curved short blades) appears only as one small worn accessory modelled on its shape and colours — a hair ornament, pendant, earring, brooch or belt charm a few centimetres long, clearly jewellery and not a usable weapon.\n\nSTYLE: Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nAGE: the same adult woman as in the attached image — keep her own face shape, cheekbones, eye proportions and skin tone exactly; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases). Keep her face soft, feminine and attractive in every framing — never elongated, gaunt, mannish or heavy-jawed, even in close-ups, profiles or low angles.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her legend shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nSCENE (chosen):\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a small repair kiosk with a cluttered workbench — carries a camera by its grip at her side; an outdoor thermal swimming terrace inside an old volcanic quarry — she laughs softly when a sudden bubble plume pops beside her; the upper balcony of a wooden pavilion with upturned eaves — standing at a waist-high railing or sill; a quiet saltwater floatation spa beside a large round window — she tests the salinity by floating a tiny empty transparent bowl on the water and watches it bob with an amused half-smile; an open-air miniature railway station platform with an empty bench — she sits on her small suitcase eating a roasted sweet potato wrapped in plain paper; an editorial photo studio with a seamless backdrop and dramatic lights — lying on her left side; her bedroom — holds a cup at chest height; a glass greenhouse full of plants with a wooden potting bench — kneeling on the ground; a Korean jjimjilbang hall with heated floors and sleeping mats — standing; a narrow path through a tall bamboo grove — standing; an editorial photo studio with a seamless backdrop and dramatic lights — standing; an open-air hot spring among steaming rocks — works a soft mesh bath puff into a rich lather between her hands; a traditional archery ground beside a temple wall — standing close to a high shelf or line.\nPlace: a quiet ferry terminal breakfast terrace facing still water in early morning.\nActivity: she takes a delighted first bite of a warm corn cob while waiting for the ferry.\nPose: seated facing the camera, right forearm raised holding the corn at mouth height, left hand resting flat on her own left thigh, feet naturally grounded.\nFraming: vertical seated three-quarter portrait from head to knees, face clearly visible.\nTime of day (fixed): early morning — low clean light, long soft shadows — set your scene at this time.\nOutfit: a butter-cream scarf-front cropped top tied through a polished oval ring, fitted terracotta culotte shorts with curved side hems and woven flat sandals; deep neckline, bare shoulders and waist, opaque coverage.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing; nothing slipped off; intimate areas covered\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its garment, armor, regalia, ornaments, mecha plates or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her Three Kingdoms identity belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her faction's palette, armor, robes or regalia.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers. No animals or other creatures.\n\nANATOMY: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nFIGURE: hourglass-figured — full bust and hips, distinctly narrow-waisted — keep this exact build from the attached image, neither slimmer nor fuller.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.\n\nAVOID: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+ "date": "2026-11-25",
+ "record": "records/화만/samguk-casual7.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "화만",
+  "out": "casual",
+  "world": "samguk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 7,
+  "scenes": {
+   "화만": {
+    "era": "heritage",
+    "place": "heritage_inkshop",
+    "ofam": "subculture",
+    "treeV": 2,
+    "prop": "",
+    "preset": "bench_fix",
+    "use": "ink_grind",
+    "posture": "sit_sideways",
+    "support": "none",
+    "frame": "three_quarter",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "prop",
+    "legs": "",
+    "gaze": "at_prop",
+    "item": "trad_goth",
+    "expr": "amused",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "ofree": true,
+    "time": "morning",
+    "ofreeRecent": "a small repair kiosk with a cluttered workbench — carries a camera by its grip at her side; an outdoor thermal swimming terrace inside an old volcanic quarry — she laughs softly when a sudden bubble plume pops beside her; the upper balcony of a wooden pavilion with upturned eaves — standing at a waist-high railing or sill; a quiet saltwater floatation spa beside a large round window — she tests the salinity by floating a tiny empty transparent bowl on the water and watches it bob with an amused half-smile; an open-air miniature railway station platform with an empty bench — she sits on her small suitcase eating a roasted sweet potato wrapped in plain paper; an editorial photo studio with a seamless backdrop and dramatic lights — lying on her left side; her bedroom — holds a cup at chest height; a glass greenhouse full of plants with a wooden potting bench — kneeling on the ground; a Korean jjimjilbang hall with heated floors and sleeping mats — standing; a narrow path through a tall bamboo grove — standing; an editorial photo studio with a seamless backdrop and dramatic lights — standing; an open-air hot spring among steaming rocks — works a soft mesh bath puff into a rich lather between her hands; a traditional archery ground beside a temple wall — standing close to a high shelf or line"
+   }
+  }
+ },
+ "generation": {
+  "design": "ofree",
+  "free_design": "FREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a small repair kiosk with a cluttered workbench — carries a camera by its grip at her side; an outdoor thermal swimming terrace inside an old volcanic quarry — she laughs softly when a sudden bubble plume pops beside her; the upper balcony of a wooden pavilion with upturned eaves — standing at a waist-high railing or sill; a quiet saltwater floatation spa beside a large round window — she tests the salinity by floating a tiny empty transparent bowl on the water and watches it bob with an amused half-smile; an open-air miniature railway station platform with an empty bench — she sits on her small suitcase eating a roasted sweet potato wrapped in plain paper; an editorial photo studio with a seamless backdrop and dramatic lights — lying on her left side; her bedroom — holds a cup at chest height; a glass greenhouse full of plants with a wooden potting bench — kneeling on the ground; a Korean jjimjilbang hall with heated floors and sleeping mats — standing; a narrow path through a tall bamboo grove — standing; an editorial photo studio with a seamless backdrop and dramatic lights — standing; an open-air hot spring among steaming rocks — works a soft mesh bath puff into a rich lather between her hands; a traditional archery ground beside a temple wall — standing close to a high shelf or line.\nPlace: a quiet ferry terminal breakfast terrace facing still water in early morning.\nActivity: she takes a delighted first bite of a warm corn cob while waiting for the ferry.\nPose: seated facing the camera, right forearm raised holding the corn at mouth height, left hand resting flat on her own left thigh, feet naturally grounded.\nFraming: vertical seated three-quarter portrait from head to knees, face clearly visible.\nTime of day (fixed): early morning — low clean light, long soft shadows — set your scene at this time.\nOutfit: a butter-cream scarf-front cropped top tied through a polished oval ring, fitted terracotta culotte shorts with curved side hems and woven flat sandals; deep neckline, bare shoulders and waist, opaque coverage.",
+  "free_prompt": "INPUT: the attached image is the approved character — her Three kingdoms card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of Hua Man of the Three Kingdoms, seen in her everyday life. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change, and her hair may be worn differently only as SCENE's Hair line says. Her Three Kingdoms identity shows ONLY as a small accessory, an object around her, or the object PROP says she holds — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume.\n\nDESIGN (accessory hints only): her legend — mischievous daring, a southern princess's flower-garland armor, throwing knives tucked in a woven sash — may inform at most one small accessory, a hair ornament or an object beside her, in its palette (bronze-gold, deep crimson, jade green and dark wood brown). The clothes keep the chosen outfit's own colours; her skin, hair and eyes stay as in the attached image.\n\nSIGNATURE ACCESSORY: off duty she carries no weapon — no sword, saber, spear, glaive, halberd, bow, axe, shield or any blade in her hands, on her back or anywhere in the scene. Her signature weapon (a pair of curved short blades) appears only as one small worn accessory modelled on its shape and colours — a hair ornament, pendant, earring, brooch or belt charm a few centimetres long, clearly jewellery and not a usable weapon.\n\nSTYLE: Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nAGE: the same adult woman as in the attached image — keep her own face shape, cheekbones, eye proportions and skin tone exactly; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases). Keep her face soft, feminine and attractive in every framing — never elongated, gaunt, mannish or heavy-jawed, even in close-ups, profiles or low angles.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her legend shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nSCENE (chosen):\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a small repair kiosk with a cluttered workbench — carries a camera by its grip at her side; an outdoor thermal swimming terrace inside an old volcanic quarry — she laughs softly when a sudden bubble plume pops beside her; the upper balcony of a wooden pavilion with upturned eaves — standing at a waist-high railing or sill; a quiet saltwater floatation spa beside a large round window — she tests the salinity by floating a tiny empty transparent bowl on the water and watches it bob with an amused half-smile; an open-air miniature railway station platform with an empty bench — she sits on her small suitcase eating a roasted sweet potato wrapped in plain paper; an editorial photo studio with a seamless backdrop and dramatic lights — lying on her left side; her bedroom — holds a cup at chest height; a glass greenhouse full of plants with a wooden potting bench — kneeling on the ground; a Korean jjimjilbang hall with heated floors and sleeping mats — standing; a narrow path through a tall bamboo grove — standing; an editorial photo studio with a seamless backdrop and dramatic lights — standing; an open-air hot spring among steaming rocks — works a soft mesh bath puff into a rich lather between her hands; a traditional archery ground beside a temple wall — standing close to a high shelf or line.\nPlace: a quiet ferry terminal breakfast terrace facing still water in early morning.\nActivity: she takes a delighted first bite of a warm corn cob while waiting for the ferry.\nPose: seated facing the camera, right forearm raised holding the corn at mouth height, left hand resting flat on her own left thigh, feet naturally grounded.\nFraming: vertical seated three-quarter portrait from head to knees, face clearly visible.\nTime of day (fixed): early morning — low clean light, long soft shadows — set your scene at this time.\nOutfit: a butter-cream scarf-front cropped top tied through a polished oval ring, fitted terracotta culotte shorts with curved side hems and woven flat sandals; deep neckline, bare shoulders and waist, opaque coverage.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing; nothing slipped off; intimate areas covered\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its garment, armor, regalia, ornaments, mecha plates or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her Three Kingdoms identity belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her faction's palette, armor, robes or regalia.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers. No animals or other creatures.\n\nANATOMY: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nFIGURE: hourglass-figured — full bust and hips, distinctly narrow-waisted — keep this exact build from the attached image, neither slimmer nor fuller.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.\n\nAVOID: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+  "free_by": "gpt",
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "ref_sha256": "0845096b258ecf51fc450f98eda7b331218635a925a1d13082d77b5a4ae1d23d",
+  "ref_webp_sha256": "acdccb955cb46a1389e3bcfa35b86130de1c13182139c8263d639456e1089c6d",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "2d64a7ff63c5a6a67d431bd38708baf8afecde74eee1c4b63cdcb38734f59870",
+  "prompt_sha256": "f84d408cfdf4021fd5f9b72c955f28980d60b0e48812ac417ee53d231b6e2d61",
+  "prompt_form": "en-prompt",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "size": [
+    1024,
+    1536
+   ]
+  },
+  "retries": []
+ },
+ "execution": "sam-huaman-6357ca",
+ "imported": "2026-11-26",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "2d64a7ff63c5a6a67d431bd38708baf8afecde74eee1c4b63cdcb38734f59870",
+  "passed": false,
+  "anatomy": "ok",
+  "exposure": "match",
+  "observations": [
+   "Corn is held in her left hand and her right hand rests on her thigh, reversing the written hand assignment.",
+   "Seated ferry breakfast, character identity and outfit match."
+  ],
+  "cause": "Model mirrored the free-design hand jobs."
+ },
+ "acceptance": "user approved completion and normal push to main; selected worlds 2,4,3",
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ }
+}
