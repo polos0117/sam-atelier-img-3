@@ -1,0 +1,121 @@
+{
+ "atelier": "samguk",
+ "card": "예형",
+ "faction": "qun",
+ "role": "official",
+ "world": "samguk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "ember",
+   "impression": "provocative",
+   "expr": "cold_smile",
+   "skin_tone": "fair",
+   "age": "early_20s",
+   "eye_size": "large",
+   "eye_tilt": "level",
+   "mark": "freckles",
+   "brows": "angled_sharp",
+   "nose": "straight_narrow",
+   "lips": "heart_full",
+   "face_shape": "round",
+   "eyes": "almond_wide"
+  },
+  "silhouette": {
+   "body": "strong_curvy",
+   "hair_color": "ombre_azure",
+   "hair": "updo_bun",
+   "bangs": "swept_back"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "예형_samguk_kr_drawn_rim_dewy_f.webp",
+ "prompt": "A full-body character image, vertical 2:3 (1024×1536): Mi Heng of the Romance of the Three Kingdoms, reimagined as an adult woman — the arrogant prodigy who, made a drummer by Cao Cao, stripped at the banquet and shamed him instead.\n\n1. STYLE\nKorean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nHer face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\n2. CHARACTER\nAge: about twenty — a youthful face.\nFace — her own, recognisably this character, a woman's face with no beard or facial hair: a provocative, teasing boldness — a challenging, half-lidded stare and a knowing closed-lip smile; fair skin; softly rounded face that still tapers to a small chin; eyes on the larger side of natural — almond-shaped eyes of natural size, level outer eye corners; brows with a clean, angled peak; a straight nose with a slim bridge; softly full, heart-shaped lips of natural size; ember-orange eyes; a dusting of freckles across nose and cheeks.\nBody and hair: strong and broad-shouldered with firm muscle, yet full-busted with wide rounded hips and a defined waist build; an updo bun with hair swept back off the forehead; silver hair fading to azure at the tips.\nExpression: a faint cool smile, calm composed eyes, subtle and relaxed.\nLegend, carried in her design and bearing: scornful brilliance, a plain hemp robe, a drumstick tucked through her sash.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME AND EQUIPMENT — THREE KINGDOMS\nCostume: a Han court official's dress — layered robes with a broad belt and a hanging seal cord, a black jinxian guan cap, an ink brush and bound bamboo slips. Late-Han Chinese dress — cross-collared silk robes with wide sleeves and a broad sash, lamellar or scale armor laced with cords where armor is worn, bronze, jade and lacquer ornament, Han court hair ornaments; silk, lacquered leather, bronze and iron.\nSilhouette: a long silk shawl wrapping the shoulders and arms and floating in the air, light layered robes — an airy, celestial silhouette. This silhouette sets the overall shape of the costume above — keep its materials, ornaments and rank in this shape; the details are free.\nColours: teal green, river blue, silver and ivory.\nSignature item: a pair of war-drum sticks. She holds it at full scale: one whole object, drawn once, held in front of or beside her body; a long weapon keeps one straight, unbroken shaft with a single head or blade.\nExposure (bold): her robes open to show skin — the cross collar opened into a deep neckline with natural cleavage, bare upper arms above detached wide sleeves (and bare shoulders where no shoulder guard sits), the skirt panels cut with a high side slit at full length — it shows the side line of one leg as she stands, no leg pushed out or knee bent for it; any armor pieces stay on and symmetrical. Intimate areas covered; keep the costume material and palette.\n\n4. SCENE\nWorld: the chaos of the late Eastern Han, around 184–200 AD: burning Luoyang, the Hulao Pass, Yellow Turban fields, warlord camps of rival banners, frontier steppe and the southern jungles of the Nanman.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: her whole figure from the top of her head or headpiece to both feet inside the frame with clear margins, about four-fifths of the image height; camera at chest height with natural portrait perspective.\n\n5. CONSTRAINTS\nOne figure only — no second character, horse or other creature. No readable text or numbers, except that a banner, seal or emblem may carry the single character 雄 or 禰. No logo, watermark, speech bubble or frame border. Three Kingdoms-era Chinese dress, architecture and materials only.\nAvoid: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+ "date": "2026-11-25",
+ "record": "records/예형/samguk.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "예형",
+  "out": "world",
+  "world": "samguk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {
+   "예형|samguk": {}
+  },
+  "looks": {
+   "예형|samguk": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "예형|samguk": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "03f581bad6bdd826dbc1b6cc58b2e34b9bff117b3e893ebccc15014203feea53",
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "8969513078edeb31dd6f7dfb9a67c67f5b0958c4fb411755fd4396babae3770b",
+  "free_prompt": "SUMMARY: hairstyle a chin-length asymmetrical bob with one side tucked behind the ear; costume silhouette very long flowing water sleeves trailing past the hands through the air over a fitted dancer's dress — the sleeves make the shape; design idea The sleeve seams divide into measured overlapping folds like alternating drumbeats, secured by paired straight rod-shaped silk toggles.; face a distinct proud scholar; expression cool smile.\n\nA full-body character image, vertical 2:3 (1024×1536): Mi Heng of the Romance of the Three Kingdoms, reimagined as an adult woman — the arrogant prodigy who, made a drummer by Cao Cao, stripped at the banquet and shamed him instead.\n\n1. STYLE\nKorean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nHer face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\n2. CHARACTER\nAge: about twenty — a youthful face.\nFace — her own, recognisably this character, a woman's face with no beard or facial hair: a sassy, spirited attitude — a raised brow and a sharp little smile; warm beige skin; heart-shaped face; almond eyes whose outer corners lift slightly; azure-blue eyes; gently arched, slender brows; a nose with a gentle aquiline curve; slender lips of natural width.\nBody and hair: toned athletic-curvy, full-busted with rounded hips build; a chin-length asymmetrical bob with one side tucked behind the ear; silver hair fading to azure at the tips.\nExpression: a faint cool smile, calm composed eyes, subtle and relaxed.\nLegend, carried in her design and bearing: scornful brilliance, a plain hemp robe, a drumstick tucked through her sash.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME AND EQUIPMENT — THREE KINGDOMS\nCostume: a Han court official's dress — layered robes with a broad belt and a hanging seal cord, a black jinxian guan cap, an ink brush and bound bamboo slips. Late-Han Chinese dress — cross-collared silk robes with wide sleeves and a broad sash, lamellar or scale armor laced with cords where armor is worn, bronze, jade and lacquer ornament, Han court hair ornaments; silk, lacquered leather, bronze and iron.\nSilhouette: very long flowing water sleeves trailing past the hands through the air over a fitted dancer's dress — the sleeves make the shape. This silhouette sets the overall shape of the costume above — keep its materials, ornaments and rank in this shape; the details are free.\nDesign idea: The sleeve seams divide into measured overlapping folds like alternating drumbeats, secured by paired straight rod-shaped silk toggles.\nColours: teal green, river blue, silver and ivory.\nSignature item: a pair of war-drum sticks. She holds it at full scale: one whole object, drawn once, held in front of or beside her body; a long weapon keeps one straight, unbroken shaft with a single head or blade.\nExposure (bold): her robes open to show skin — the cross collar opened into a deep neckline with natural cleavage, bare upper arms above detached wide sleeves (and bare shoulders where no shoulder guard sits), the skirt panels cut with a high side slit at full length — it shows the side line of one leg as she stands, no leg pushed out or knee bent for it; any armor pieces stay on and symmetrical. Intimate areas covered; keep the costume material and palette.\n\n4. SCENE\nWorld: the chaos of the late Eastern Han, around 184–200 AD: burning Luoyang, the Hulao Pass, Yellow Turban fields, warlord camps of rival banners, frontier steppe and the southern jungles of the Nanman.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nStance and hands: Both feet rest naturally on the ground; one drumstick held in each hand at her sides.\n\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: her whole figure from the top of her head or headpiece to both feet inside the frame with clear margins, about four-fifths of the image height; camera at chest height with natural portrait perspective.\n\n5. CONSTRAINTS\nOne figure only — no second character, horse or other creature. No readable text or numbers, except that a banner, seal or emblem may carry the single character 雄 or 禰. No logo, watermark, speech bubble or frame border. Three Kingdoms-era Chinese dress, architecture and materials only.\nAvoid: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "retries": [],
+  "design": "gpt_free",
+  "plan": "B",
+  "summary": "SUMMARY: hairstyle a chin-length asymmetrical bob with one side tucked behind the ear; costume silhouette very long flowing water sleeves trailing past the hands through the air over a fitted dancer's dress — the sleeves make the shape; design idea The sleeve seams divide into measured overlapping folds like alternating drumbeats, secured by paired straight rod-shaped silk toggles.; face a distinct proud scholar; expression cool smile.",
+  "candidate": 4
+ },
+ "execution": "sam-miheng-bd9c",
+ "imported": "2026-11-25",
+ "acceptance": "User authorized normal main push; preserve generated outputs without exposure-based regeneration.",
+ "qa": {
+  "reviewer": "sam-miheng-bd9c",
+  "image_sha256": "03f581bad6bdd826dbc1b6cc58b2e34b9bff117b3e893ebccc15014203feea53",
+  "passed": true,
+  "anatomy": "ok",
+  "exposure": "match",
+  "observations": [
+   "Single adult woman; limbs naturally joined; no extra limbs observed.",
+   "Requested world or off-duty setting and clothing visible.",
+   "Image matches the planned aspect ratio.",
+   "User selected candidate 4; retained original without regeneration."
+  ]
+ },
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ }
+}

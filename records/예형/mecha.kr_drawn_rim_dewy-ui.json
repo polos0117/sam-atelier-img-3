@@ -1,0 +1,121 @@
+{
+ "atelier": "samguk",
+ "card": "예형",
+ "faction": "qun",
+ "role": "official",
+ "world": "mecha",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "ember",
+   "impression": "provocative",
+   "expr": "cold_smile",
+   "skin_tone": "fair",
+   "age": "early_20s",
+   "eye_size": "large",
+   "eye_tilt": "level",
+   "mark": "freckles",
+   "brows": "angled_sharp",
+   "nose": "straight_narrow",
+   "lips": "heart_full",
+   "face_shape": "round",
+   "eyes": "deep_set"
+  },
+  "silhouette": {
+   "body": "strong_curvy",
+   "hair_color": "ombre_azure",
+   "hair": "side_braid",
+   "bangs": "parted"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "예형_mecha_kr_drawn_rim_dewy_f.webp",
+ "prompt": "A full-body character image, vertical 2:3 (1024×1536): Mi Heng of the Romance of the Three Kingdoms, reimagined as an adult woman — the arrogant prodigy who, made a drummer by Cao Cao, stripped at the banquet and shamed him instead.\n\n1. STYLE\nKorean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nHer face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\n2. CHARACTER\nAge: about twenty — a youthful face.\nFace — her own, recognisably this character, a woman's face with no beard or facial hair: a provocative, teasing boldness — a challenging, half-lidded stare and a knowing closed-lip smile; fair skin; softly rounded face that still tapers to a small chin; eyes on the larger side of natural — softly deep-set eyes of natural size, level outer eye corners; brows with a clean, angled peak; a straight nose with a slim bridge; softly full, heart-shaped lips of natural size; ember-orange eyes; a dusting of freckles across nose and cheeks.\nBody and hair: strong and broad-shouldered with firm muscle, yet full-busted with wide rounded hips and a defined waist build; a single thick braid over one shoulder with center-parted bangs framing the face; silver hair fading to azure at the tips.\nExpression: a faint cool smile, calm composed eyes, subtle and relaxed.\nLegend, carried in her design and bearing: scornful brilliance, a plain hemp robe, a drumstick tucked through her sash.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME AND EQUIPMENT — MECHA\nCostume: a female mecha personification built as a support and logistics mecha frame — lighter plating, data panels and shield units, utility sub-arms. Solid hard-surface plates with visible joints cover her frame except at the openings named under Exposure; any cape or skirt is made of rigid armored plates; her face and hair stay human.\nSilhouette: a large equipment unit worn on the back (tanks, a cannon barrel or antennae) rising above her head as the main shape, with medium body armor. This silhouette sets the overall shape of the costume above — keep its materials, ornaments and rank in this shape; the details are free.\nColours: teal green, river blue, silver and ivory. Faction frame: teal and river-blue plating with silver trim and ivory panels, smooth naval silhouette, wave motifs, cyan glow lines.\nSignature item: a pair of war-drum sticks, rebuilt as a far-future high-tech version of the same kind of object with the same silhouette — hard-surface alloy plates with panel lines, mechanical joints, vents and emitter nodes, an energy edge, plasma blade or glowing core in her glow-line colour and small status lights, with any animal motif re-sculpted as sleek machined armour. She holds it at full scale: one whole object, drawn once, held in front of or beside her body; a long weapon keeps one straight, unbroken shaft with a single head or blade.\nExposure (bold): her mecha frame is cut open by design in only these places — bare upper arms below the pauldrons, which stay seated on top of her shoulders, and a deep open chest window with natural cleavage framed by the chest plates; everywhere else she stays fully plated. The plates stay on, fitted and symmetrical, with skin clearly showing in each opening. Intimate areas covered; keep the plate material and palette.\n\n4. SCENE\nWorld: year 2190, the Free Zones — a lawless asteroid belt between the three powers: warlord fortresses carved into asteroids, wrecked starships drifting in the dark, a violet nebula, warning lights blinking.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: her whole figure from the top of her head or headpiece to both feet inside the frame with clear margins, about four-fifths of the image height; camera at chest height with natural portrait perspective.\n\n5. CONSTRAINTS\nOne figure only — no second character, horse or other creature. No readable text or numbers — emblems are abstract insignia shapes only, never letters or Chinese characters. No logo, watermark, speech bubble or frame border. A far-future setting only — space stations, starships and high-tech structures — with no traditional East-Asian architecture.\nAvoid: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+ "date": "2026-11-25",
+ "record": "records/예형/mecha.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "예형",
+  "out": "world",
+  "world": "mecha",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {
+   "예형|mecha": {}
+  },
+  "looks": {
+   "예형|mecha": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "예형|mecha": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "6aed88a6acaa02bfb6ad7afe01fb17996dbf5950180a36fa10f8d9c5e2a093f9",
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "3a0373cda943c277da4c795ce999457c76c0569a91462217998cfd0e5d499a24",
+  "free_prompt": "SUMMARY: hairstyle a high swept crest with shaved temples and a long flowing tail; costume silhouette a long coat made of rigid plates from the shoulders to below the knees, open at the front to show the body armor, with an angular collar; design idea The angular collar and rigid coat plates overlap as concentric resonator rings, turning her drum rhythm into load-bearing acoustic armor.; face a distinct proud scholar; expression cool smile.\n\nA full-body character image, vertical 2:3 (1024×1536): Mi Heng of the Romance of the Three Kingdoms, reimagined as an adult woman — the arrogant prodigy who, made a drummer by Cao Cao, stripped at the banquet and shamed him instead.\n\n1. STYLE\nKorean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nHer face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\n2. CHARACTER\nAge: about twenty — a youthful face.\nFace — her own, recognisably this character, a woman's face with no beard or facial hair: a haughty, untouchable pride — a cool, superior gaze and a proud, straight-backed poise; porcelain-pale skin; oval face; almond-shaped eyes of natural size; amber eyes; straight brows of natural fullness; a nose with a soft, rounded tip, of natural size; medium-full lips of natural width.\nBody and hair: strong and broad-shouldered with firm muscle, yet full-busted with wide rounded hips and a defined waist build; a high swept crest with shaved temples and a long flowing tail; silver hair fading to azure at the tips.\nExpression: a faint cool smile, calm composed eyes, subtle and relaxed.\nLegend, carried in her design and bearing: scornful brilliance, a plain hemp robe, a drumstick tucked through her sash.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME AND EQUIPMENT — MECHA\nCostume: a female mecha personification built as a support and logistics mecha frame — lighter plating, data panels and shield units, utility sub-arms. Solid hard-surface plates with visible joints cover her frame except at the openings named under Exposure; any cape or skirt is made of rigid armored plates; her face and hair stay human.\nSilhouette: a long coat made of rigid plates from the shoulders to below the knees, open at the front to show the body armor, with an angular collar. This silhouette sets the overall shape of the costume above — keep its materials, ornaments and rank in this shape; the details are free.\nDesign idea: The angular collar and rigid coat plates overlap as concentric resonator rings, turning her drum rhythm into load-bearing acoustic armor.\nColours: teal green, river blue, silver and ivory. Faction frame: teal and river-blue plating with silver trim and ivory panels, smooth naval silhouette, wave motifs, cyan glow lines.\nSignature item: a pair of war-drum sticks, rebuilt as a far-future high-tech version of the same kind of object with the same silhouette — hard-surface alloy plates with panel lines, mechanical joints, vents and emitter nodes, an energy edge, plasma blade or glowing core in her glow-line colour and small status lights, with any animal motif re-sculpted as sleek machined armour. She holds it at full scale: one whole object, drawn once, held in front of or beside her body; a long weapon keeps one straight, unbroken shaft with a single head or blade.\nExposure (bold): her mecha frame is cut open by design in only these places — bare upper arms below the pauldrons, which stay seated on top of her shoulders, and a deep open chest window with natural cleavage framed by the chest plates; everywhere else she stays fully plated. The plates stay on, fitted and symmetrical, with skin clearly showing in each opening. Intimate areas covered; keep the plate material and palette.\n\n4. SCENE\nWorld: year 2190, the Free Zones — a lawless asteroid belt between the three powers: warlord fortresses carved into asteroids, wrecked starships drifting in the dark, a violet nebula, warning lights blinking.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nStance and hands: Balanced upright stance, both drumsticks held separately in front of her waist.\n\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: her whole figure from the top of her head or headpiece to both feet inside the frame with clear margins, about four-fifths of the image height; camera at chest height with natural portrait perspective.\n\n5. CONSTRAINTS\nOne figure only — no second character, horse or other creature. No readable text or numbers — emblems are abstract insignia shapes only, never letters or Chinese characters. No logo, watermark, speech bubble or frame border. A far-future setting only — space stations, starships and high-tech structures — with no traditional East-Asian architecture.\nAvoid: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "retries": [],
+  "design": "gpt_free",
+  "plan": "A",
+  "summary": "SUMMARY: hairstyle a high swept crest with shaved temples and a long flowing tail; costume silhouette a long coat made of rigid plates from the shoulders to below the knees, open at the front to show the body armor, with an angular collar; design idea The angular collar and rigid coat plates overlap as concentric resonator rings, turning her drum rhythm into load-bearing acoustic armor.; face a distinct proud scholar; expression cool smile.",
+  "candidate": 3
+ },
+ "execution": "sam-miheng-bd9c",
+ "imported": "2026-11-25",
+ "acceptance": "User authorized normal main push; preserve generated outputs without exposure-based regeneration.",
+ "qa": {
+  "reviewer": "sam-miheng-bd9c",
+  "image_sha256": "6aed88a6acaa02bfb6ad7afe01fb17996dbf5950180a36fa10f8d9c5e2a093f9",
+  "passed": true,
+  "anatomy": "ok",
+  "exposure": "match",
+  "observations": [
+   "Single adult woman; limbs naturally joined; no extra limbs observed.",
+   "Requested world or off-duty setting and clothing visible.",
+   "Image matches the planned aspect ratio.",
+   "User selected candidate 3; retained original without regeneration."
+  ]
+ },
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ }
+}
