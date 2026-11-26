@@ -1,0 +1,115 @@
+{
+  "atelier": "samguk",
+  "card": "주방",
+  "faction": "wu",
+  "role": "official",
+  "world": "samguk",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v1",
+  "notes": {},
+  "look": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+  },
+  "design": {
+    "face": {
+      "eye_color": "silver",
+      "impression": "mischievous",
+      "expr": "half_smile",
+      "skin_tone": "fair",
+      "age": "late_20s",
+      "eye_size": "large",
+      "eye_tilt": "level",
+      "mark": "freckles",
+      "brows": "angled_sharp",
+      "nose": "aquiline",
+      "lips": "thin_long",
+      "face_shape": "v_line",
+      "eyes": "deep_set"
+    },
+    "silhouette": {
+      "body": "busty_slender",
+      "hair_color": "peach",
+      "hair": "tilted_bun",
+      "bangs": "swept_back"
+    }
+  },
+  "shot": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+  },
+  "file": "주방_samguk_kr_drawn_rim_dewy_f.webp",
+  "prompt": "A full-body character image, vertical 2:3 (1024×1536): Zhou Fang of the Romance of the Three Kingdoms, reimagined as an adult woman — the governor who cut her own hair to deceive Cao Xiu.\n\n1. STYLE\nKorean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nHer face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\n2. CHARACTER\nAge: late twenties — a clear adult face with soft, smooth contours.\nFace — her own, recognisably this character, a woman's face with no beard or facial hair: a mischievous, sly-fox playfulness — narrowed, amused eyes; fair skin; delicate V-line face with a small, soft chin; eyes on the larger side of natural — softly deep-set eyes of natural size, level outer eye corners; brows with a clean, angled peak; a nose with a gentle aquiline curve; slender lips of natural width; silver-grey eyes; a dusting of freckles across nose and cheeks.\nBody and hair: slender-limbed yet full-busted with rounded hips and a narrow waist build; a bun tilted to one side with loose strands with hair swept back off the forehead; peach-blonde hair.\nExpression: a slight smile, lips closed, subtle and relaxed.\nLegend, carried in her design and bearing: daring deception, a short-cut hair lock tied as a token.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME AND EQUIPMENT — THREE KINGDOMS\nCostume: a Han court official's dress — layered robes with a broad belt and a hanging seal cord, a black jinxian guan cap, an ink brush and bound bamboo slips. Late-Han Chinese dress — cross-collared silk robes with wide sleeves and a broad sash, lamellar or scale armor laced with cords where armor is worn, bronze, jade and lacquer ornament, Han court hair ornaments; silk, lacquered leather, bronze and iron.\nSilhouette: very long flowing water sleeves trailing past the hands through the air over a fitted dancer's dress — the sleeves make the shape. This silhouette sets the overall shape of the costume above — keep its materials, ornaments and rank in this shape; the details are free.\nColours: crimson red, gold, river teal, black lacquer.\nSignature item: a lock of cut hair tied with red string. She holds it at full scale: one whole object, drawn once, held in front of or beside her body; a long weapon keeps one straight, unbroken shaft with a single head or blade.\nExposure (bold): her robes open to show skin — the cross collar opened into a deep neckline with natural cleavage, bare upper arms above detached wide sleeves (and bare shoulders where no shoulder guard sits), the skirt panels cut with a high side slit at full length — it shows the side line of one leg as she stands, no leg pushed out or knee bent for it; any armor pieces stay on and symmetrical. Intimate areas covered; keep the costume material and palette.\n\n4. SCENE\nWorld: Eastern Wu along the Yangtze, around 200–280 AD: the river capital Jianye, great war junks with crimson sails, river fortresses, southern rain and lotus marshes, the fire ships of the Red Cliffs.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: her whole figure from the top of her head or headpiece to both feet inside the frame with clear margins, about four-fifths of the image height; camera at chest height with natural portrait perspective.\n\n5. CONSTRAINTS\nOne figure only — no second character, horse or other creature. No readable text or numbers, except that a banner, seal or emblem may carry the single character 吳 or 周. No logo, watermark, speech bubble or frame border. Three Kingdoms-era Chinese dress, architecture and materials only.\nAvoid: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+  "date": "2026-11-26",
+  "record": "records/주방/samguk.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "주방",
+    "out": "world",
+    "world": "samguk",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {
+      "주방|samguk": {}
+    },
+    "looks": {
+      "주방|samguk": {
+        "params": {},
+        "faceDesignOn": true,
+        "silhouetteOn": true,
+        "exposure": "bold"
+      }
+    },
+    "shots": {
+      "주방|samguk": {
+        "scene": "",
+        "time": "",
+        "pose": "",
+        "expr": "",
+        "frame": ""
+      }
+    },
+    "walked": {},
+    "casualN": 1,
+    "scenes": {}
+  },
+  "generation": {
+    "tool": "image_gen",
+    "endpoint": "images/generations",
+    "reference": null,
+    "retries": [],
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "a2d1b81f988ce826f9df2bcf80c9ddf508d76081f5abde6e61624012f162b8a1",
+    "prompt_sha256": "d8fa45bbf12122fa28527d15bb04e97c7deeb838d5abcab72f785b76c6ae1376",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "selection": 1,
+    "prompt_form": "en-prompt",
+    "free_prompt": "A full-body character image, vertical 2:3 (1024×1536): Zhou Fang of the Romance of the Three Kingdoms, reimagined as an adult woman — the governor who cut her own hair to deceive Cao Xiu.\n\n1. STYLE\nKorean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nHer face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\n2. CHARACTER\nAge: late twenties — a clear adult face with soft, smooth contours.\nFace — her own, recognisably this character, a woman's face with no beard or facial hair: a mischievous, sly-fox playfulness — narrowed, amused eyes; fair skin; delicate V-line face with a small, soft chin; eyes on the larger side of natural — softly deep-set eyes of natural size, level outer eye corners; brows with a clean, angled peak; a nose with a gentle aquiline curve; slender lips of natural width; silver-grey eyes; a dusting of freckles across nose and cheeks.\nBody and hair: slender-limbed yet full-busted with rounded hips and a narrow waist build; a bun tilted to one side with loose strands with hair swept back off the forehead; peach-blonde hair.\nExpression: a slight smile, lips closed, subtle and relaxed.\nLegend, carried in her design and bearing: daring deception, a short-cut hair lock tied as a token.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME AND EQUIPMENT — THREE KINGDOMS\nCostume: a Han court official's dress — layered robes with a broad belt and a hanging seal cord, a black jinxian guan cap, an ink brush and bound bamboo slips. Late-Han Chinese dress — cross-collared silk robes with wide sleeves and a broad sash, lamellar or scale armor laced with cords where armor is worn, bronze, jade and lacquer ornament, Han court hair ornaments; silk, lacquered leather, bronze and iron.\nSilhouette: very long flowing water sleeves trailing past the hands through the air over a fitted dancer's dress — the sleeves make the shape. This silhouette sets the overall shape of the costume above — keep its materials, ornaments and rank in this shape; the details are free.\nColours: crimson red, gold, river teal, black lacquer.\nSignature item: a lock of cut hair tied with red string. She holds it at full scale: one whole object, drawn once, held in front of or beside her body; a long weapon keeps one straight, unbroken shaft with a single head or blade.\nExposure (bold): her robes open to show skin — the cross collar opened into a deep neckline with natural cleavage, bare upper arms above detached wide sleeves (and bare shoulders where no shoulder guard sits), the skirt panels cut with a high side slit at full length — it shows the side line of one leg as she stands, no leg pushed out or knee bent for it; any armor pieces stay on and symmetrical. Intimate areas covered; keep the costume material and palette.\n\n4. SCENE\nWorld: Eastern Wu along the Yangtze, around 200–280 AD: the river capital Jianye, great war junks with crimson sails, river fortresses, southern rain and lotus marshes, the fire ships of the Red Cliffs.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: her whole figure from the top of her head or headpiece to both feet inside the frame with clear margins, about four-fifths of the image height; camera at chest height with natural portrait perspective.\n\n5. CONSTRAINTS\nOne figure only — no second character, horse or other creature. No readable text or numbers, except that a banner, seal or emblem may carry the single character 吳 or 周. No logo, watermark, speech bubble or frame border. Three Kingdoms-era Chinese dress, architecture and materials only.\nAvoid: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin."
+  },
+  "execution": "sam-zhoufang-34a007d",
+  "imported": "2026-11-27",
+  "qa": {
+    "anatomy": "ok",
+    "exposure": "match",
+    "observations": [
+      "One adult woman, full-length framing.",
+      "No regeneration.",
+      "Details vary from prescribed silhouette; retained for user selection."
+    ]
+  },
+  "review": {
+    "reviewed": true,
+    "by": "user",
+    "result": "selected"
+  },
+  "acceptance": "User selected 1,2,4 and authorized normal push to main."
+}
