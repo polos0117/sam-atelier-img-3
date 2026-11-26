@@ -53,7 +53,7 @@
  "generation": {
   "tool": "image_gen",
   "endpoint": "images/edits",
-  "ref_sha256": "73ec0d86090fc6e2c10752784b611504422046ac350c212343c12806bba39cba",
+  "ref_sha256": "946dc3f261c13957ccce6627fe81ea8930b40431b9c7233cf882e412520e2714",
   "size": [
    1254,
    1254
@@ -68,7 +68,9 @@
    ]
   },
   "prompt_form": "en-prompt",
-  "prompt_sha256": "1ba169b5e0ab78cdd6536b2919f9454198e9379a5c670e47f03f25e53940ed1e"
+  "prompt_sha256": "1ba169b5e0ab78cdd6536b2919f9454198e9379a5c670e47f03f25e53940ed1e",
+  "ref_webp_sha256": "73ec0d86090fc6e2c10752784b611504422046ac350c212343c12806bba39cba",
+  "ref_format": "original PNG attached to image_gen"
  },
  "execution": "sam-hanyun-7bc6b894",
  "imported": "2026-11-26",

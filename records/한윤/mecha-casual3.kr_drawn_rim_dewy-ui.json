@@ -104,7 +104,7 @@
  "generation": {
   "tool": "image_gen",
   "endpoint": "images/edits",
-  "ref_sha256": "3e29858dfd3871c611b1eff254f3357f17d3df9c9e59878dbfefb261bc3c844f",
+  "ref_sha256": "e27008e81bb025d70fe8693c74324753bd2c88f915857c266e6672f42341643d",
   "size": [
    1024,
    1536
@@ -124,7 +124,9 @@
    "game": "street_fighter_2",
    "character": "M. Bison",
    "cut": "idol"
-  }
+  },
+  "ref_webp_sha256": "3e29858dfd3871c611b1eff254f3357f17d3df9c9e59878dbfefb261bc3c844f",
+  "ref_format": "original PNG attached to image_gen"
  },
  "refDesign": "gpt_free",
  "execution": "sam-hanyun-7bc6b894",

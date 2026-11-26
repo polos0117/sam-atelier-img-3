@@ -106,7 +106,7 @@
  "generation": {
   "tool": "image_gen",
   "endpoint": "images/edits",
-  "ref_sha256": "3e29858dfd3871c611b1eff254f3357f17d3df9c9e59878dbfefb261bc3c844f",
+  "ref_sha256": "e27008e81bb025d70fe8693c74324753bd2c88f915857c266e6672f42341643d",
   "size": [
    1254,
    1254
@@ -121,7 +121,9 @@
    ]
   },
   "prompt_form": "en-prompt",
-  "prompt_sha256": "b1fc8d885e0044e21b90a077c4bc5503154c2d7d3bcb0d9e2faaf26b11756cf3"
+  "prompt_sha256": "b1fc8d885e0044e21b90a077c4bc5503154c2d7d3bcb0d9e2faaf26b11756cf3",
+  "ref_webp_sha256": "3e29858dfd3871c611b1eff254f3357f17d3df9c9e59878dbfefb261bc3c844f",
+  "ref_format": "original PNG attached to image_gen"
  },
  "refDesign": "gpt_free",
  "execution": "sam-hanyun-7bc6b894",

@@ -54,7 +54,7 @@
  "generation": {
   "tool": "image_gen",
   "endpoint": "images/edits",
-  "ref_sha256": "6aeb36cbd74ef4e66651ab578523e9211e0200ea1d552f071a2462cfc8ae8f45",
+  "ref_sha256": "35e67215ec21f8f12f3c695920bdb36ebd33d7d77be0669b2ffc6df72cddad61",
   "size": [
    1024,
    1536
@@ -69,21 +69,25 @@
    ]
   },
   "prompt_form": "en-prompt",
-  "prompt_sha256": "56bfa637a7c5812a6a47945e267a9b934c51032d8988d1bfea69872dfdbdadff"
+  "prompt_sha256": "56bfa637a7c5812a6a47945e267a9b934c51032d8988d1bfea69872dfdbdadff",
+  "ref_webp_sha256": "6aeb36cbd74ef4e66651ab578523e9211e0200ea1d552f071a2462cfc8ae8f45",
+  "ref_format": "original PNG attached to image_gen"
  },
  "execution": "sam-hanyun-7bc6b894",
  "imported": "2026-11-26",
  "qa": {
   "reviewer": "gpt",
   "image_sha256": "0f648e6a5e84671f639f0fecde08798b9980fbd85bad95ec17b056cc6d7ceac2",
-  "passed": true,
+  "passed": false,
   "anatomy": "ok",
   "exposure": "match",
   "observations": [
    "첨부한 세계컷의 얼굴·눈색·머리색을 대조함",
    "팔다리 연결과 보이는 손에 추가·분리된 부분 없음",
-   "계획한 화면비와 일치"
-  ]
+   "계획한 화면비와 일치",
+   "가슴 위 크롭 지정보다 허리까지 넓게 보임"
+  ],
+  "cause": "소품 선물 상자와 양손을 보여주며 크롭이 아래로 넓어짐; 원본 보존"
  },
  "acceptance": "user request: commit and normal push to main; no exposure-based regeneration",
  "review": {
