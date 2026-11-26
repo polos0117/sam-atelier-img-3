@@ -1,0 +1,118 @@
+{
+ "atelier": "samguk",
+ "card": "한윤",
+ "faction": "qun",
+ "role": "official",
+ "world": "mecha",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "teal",
+   "impression": "cool",
+   "expr": "half_smile",
+   "skin_tone": "warm_beige",
+   "age": "mid_20s",
+   "eye_size": "medium",
+   "eye_tilt": "level",
+   "mark": "red_lip",
+   "brows": "soft_round",
+   "nose": "straight_narrow",
+   "lips": "full_wide",
+   "face_shape": "oval",
+   "eyes": "monolid_long"
+  },
+  "silhouette": {
+   "body": "voluptuous",
+   "hair_color": "ombre_azure",
+   "hair": "twin_tails",
+   "bangs": "none"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "한윤_mecha_kr_drawn_rim_dewy_f.webp",
+ "prompt": "SUMMARY: hairstyle short swept-up horn-shaped locks and a compact cropped nape; costume silhouette a long coat made of rigid plates from the shoulders to below the knees, open at the front to show the body armor, with an angular collar; design idea Nested square alloy plates form a seal-box interlock across the armored torso.; face an elegant, refined presence; expression slight closed-lip smile.\n\nA full-body character image, vertical 2:3 (1024×1536): Han Yin of the Romance of the Three Kingdoms, reimagined as an adult woman — the envoy who carried the jade seal to bargain for a throne.\n\n1. STYLE\nKorean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nHer face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\n2. CHARACTER\nAge: mid-twenties — a young-adult face.\nFace — her own, recognisably this character, a woman's face with no beard or facial hair: an elegant, refined presence; porcelain-pale skin; softly rounded face that still tapers to a small chin; almond-shaped eyes of natural size; amber eyes; straight brows of natural fullness; a nose with a soft, rounded tip, of natural size; slender lips of natural width.\nBody and hair: voluptuous, generously curved at bust, hips and thighs build; short swept-up horn-shaped locks and a compact cropped nape; silver hair fading to azure at the tips.\nExpression: a slight smile, lips closed, subtle and relaxed.\nLegend, carried in her design and bearing: smooth diplomacy, rich envoy's robes.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME AND EQUIPMENT — MECHA\nCostume: a female mecha personification built as a support and logistics mecha frame — lighter plating, data panels and shield units, utility sub-arms. Solid hard-surface plates with visible joints cover her frame except at the openings named under Exposure; any cape or skirt is made of rigid armored plates; her face and hair stay human.\nSilhouette: a long coat made of rigid plates from the shoulders to below the knees, open at the front to show the body armor, with an angular collar. This silhouette sets the overall shape of the costume above — keep its materials, ornaments and rank in this shape; the details are free.\nDesign idea: Nested square alloy plates form a seal-box interlock across the armored torso.\nColours: imperial yellow, royal purple, jade green and gold. Faction frame: imperial-yellow and royal-purple plating with jade inlays and gold trim, ornate pretender-emperor silhouette, imperial seal motifs, jade glow lines.\nSignature item: a jade seal box, rebuilt as a far-future high-tech version of the same kind of object with the same silhouette — hard-surface alloy plates with panel lines, mechanical joints, vents and emitter nodes, an energy edge, plasma blade or glowing core in her glow-line colour and small status lights, with any animal motif re-sculpted as sleek machined armour. She holds it at full scale: one whole object, drawn once, held in front of or beside her body; a long weapon keeps one straight, unbroken shaft with a single head or blade.\nExposure (bold): her mecha frame is cut open by design in only these places — a bare waist and midriff between the bust plate and the hip armor, and bare upper thighs between the hip armor and thigh-high leg plates; everywhere else she stays fully plated. The plates stay on, fitted and symmetrical, with skin clearly showing in each opening. Intimate areas covered; keep the plate material and palette.\n\n4. SCENE\nWorld: year 2190, the Free Zones — a lawless asteroid belt between the three powers: warlord fortresses carved into asteroids, wrecked starships drifting in the dark, a violet nebula, warning lights blinking.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nStance and hands: She stands balanced with both feet grounded and holds the jade seal box in both hands in front of her waist.\nSetting detail: A futuristic diplomatic docking platform with alloy walls and illuminated navigation panels.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: her whole figure from the top of her head or headpiece to both feet inside the frame with clear margins, about four-fifths of the image height; camera at chest height with natural portrait perspective.\n\n5. CONSTRAINTS\nOne figure only — no second character, horse or other creature. No readable text or numbers — emblems are abstract insignia shapes only, never letters or Chinese characters. No logo, watermark, speech bubble or frame border. A far-future setting only — space stations, starships and high-tech structures — with no traditional East-Asian architecture.\nAvoid: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.\n",
+ "date": "2026-11-26",
+ "record": "records/한윤/mecha.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "한윤",
+  "out": "world",
+  "world": "mecha",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {
+   "한윤|mecha": {}
+  },
+  "looks": {
+   "한윤|mecha": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "한윤|mecha": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/generations",
+  "design": "gpt_free",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "e27008e81bb025d70fe8693c74324753bd2c88f915857c266e6672f42341643d",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "cd12f29a138a211ab483e8a9b4775ff124647e70ab23b8825365b71dfbda65be",
+  "selected_candidate": 3,
+  "free_prompt": "SUMMARY: hairstyle short swept-up horn-shaped locks and a compact cropped nape; costume silhouette a long coat made of rigid plates from the shoulders to below the knees, open at the front to show the body armor, with an angular collar; design idea Nested square alloy plates form a seal-box interlock across the armored torso.; face an elegant, refined presence; expression slight closed-lip smile.\n\nA full-body character image, vertical 2:3 (1024×1536): Han Yin of the Romance of the Three Kingdoms, reimagined as an adult woman — the envoy who carried the jade seal to bargain for a throne.\n\n1. STYLE\nKorean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nHer face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\n2. CHARACTER\nAge: mid-twenties — a young-adult face.\nFace — her own, recognisably this character, a woman's face with no beard or facial hair: an elegant, refined presence; porcelain-pale skin; softly rounded face that still tapers to a small chin; almond-shaped eyes of natural size; amber eyes; straight brows of natural fullness; a nose with a soft, rounded tip, of natural size; slender lips of natural width.\nBody and hair: voluptuous, generously curved at bust, hips and thighs build; short swept-up horn-shaped locks and a compact cropped nape; silver hair fading to azure at the tips.\nExpression: a slight smile, lips closed, subtle and relaxed.\nLegend, carried in her design and bearing: smooth diplomacy, rich envoy's robes.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME AND EQUIPMENT — MECHA\nCostume: a female mecha personification built as a support and logistics mecha frame — lighter plating, data panels and shield units, utility sub-arms. Solid hard-surface plates with visible joints cover her frame except at the openings named under Exposure; any cape or skirt is made of rigid armored plates; her face and hair stay human.\nSilhouette: a long coat made of rigid plates from the shoulders to below the knees, open at the front to show the body armor, with an angular collar. This silhouette sets the overall shape of the costume above — keep its materials, ornaments and rank in this shape; the details are free.\nDesign idea: Nested square alloy plates form a seal-box interlock across the armored torso.\nColours: imperial yellow, royal purple, jade green and gold. Faction frame: imperial-yellow and royal-purple plating with jade inlays and gold trim, ornate pretender-emperor silhouette, imperial seal motifs, jade glow lines.\nSignature item: a jade seal box, rebuilt as a far-future high-tech version of the same kind of object with the same silhouette — hard-surface alloy plates with panel lines, mechanical joints, vents and emitter nodes, an energy edge, plasma blade or glowing core in her glow-line colour and small status lights, with any animal motif re-sculpted as sleek machined armour. She holds it at full scale: one whole object, drawn once, held in front of or beside her body; a long weapon keeps one straight, unbroken shaft with a single head or blade.\nExposure (bold): her mecha frame is cut open by design in only these places — a bare waist and midriff between the bust plate and the hip armor, and bare upper thighs between the hip armor and thigh-high leg plates; everywhere else she stays fully plated. The plates stay on, fitted and symmetrical, with skin clearly showing in each opening. Intimate areas covered; keep the plate material and palette.\n\n4. SCENE\nWorld: year 2190, the Free Zones — a lawless asteroid belt between the three powers: warlord fortresses carved into asteroids, wrecked starships drifting in the dark, a violet nebula, warning lights blinking.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nStance and hands: She stands balanced with both feet grounded and holds the jade seal box in both hands in front of her waist.\nSetting detail: A futuristic diplomatic docking platform with alloy walls and illuminated navigation panels.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: her whole figure from the top of her head or headpiece to both feet inside the frame with clear margins, about four-fifths of the image height; camera at chest height with natural portrait perspective.\n\n5. CONSTRAINTS\nOne figure only — no second character, horse or other creature. No readable text or numbers — emblems are abstract insignia shapes only, never letters or Chinese characters. No logo, watermark, speech bubble or frame border. A far-future setting only — space stations, starships and high-tech structures — with no traditional East-Asian architecture.\nAvoid: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.\n",
+  "plan": "A",
+  "summary": "SUMMARY: hairstyle short swept-up horn-shaped locks and a compact cropped nape; costume silhouette a long coat made of rigid plates from the shoulders to below the knees, open at the front to show the body armor, with an angular collar; design idea Nested square alloy plates form a seal-box interlock across the armored torso.; face an elegant, refined presence; expression slight closed-lip smile."
+ },
+ "execution": "sam-hanyun-7bc6b894",
+ "imported": "2026-11-26",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "e27008e81bb025d70fe8693c74324753bd2c88f915857c266e6672f42341643d",
+  "passed": true,
+  "anatomy": "ok",
+  "exposure": "match",
+  "observations": [
+   "성인 여성 단독, 전신 및 양손, 옥새 함 확인",
+   "해당 세계 의상과 배경 확인"
+  ]
+ },
+ "acceptance": "user selection 2,2,3; normal push to main authorized",
+ "review": {
+  "reviewed": true,
+  "by": "user",
+  "result": "selected_world"
+ }
+}
