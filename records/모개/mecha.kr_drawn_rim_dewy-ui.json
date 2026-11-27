@@ -1,0 +1,117 @@
+{
+ "atelier": "samguk",
+ "card": "모개",
+ "faction": "wei",
+ "role": "official",
+ "world": "mecha",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "graphite_grey",
+   "impression": "soft",
+   "expr": "calm",
+   "skin_tone": "fair",
+   "age": "late_20s",
+   "eye_size": "medium",
+   "eye_tilt": "up",
+   "mark": "gloss",
+   "brows": "soft_round",
+   "nose": "straight_narrow",
+   "lips": "heart_full",
+   "face_shape": "diamond",
+   "eyes": "hooded"
+  },
+  "silhouette": {
+   "body": "tall_curvy",
+   "hair_color": "coral_pink",
+   "hair": "giant_braid",
+   "bangs": "one_eye"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "모개_mecha_kr_drawn_rim_dewy_f.webp",
+ "prompt": "A full-body character image, vertical 2:3 (1024×1536): Mao Jie of the Romance of the Three Kingdoms, reimagined as an adult woman — the incorruptible selector of officials whom Cao Cao rewarded with a plain screen and a plain armrest.\n\n1. STYLE\nKorean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nHer face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\n2. CHARACTER\nAge: late twenties — a clear adult face with soft, smooth contours.\nFace — her own, recognisably this character, a woman's face with no beard or facial hair: a soft, gentle warmth; fair skin; diamond-shaped face with softly defined cheekbones and a tapered chin; eyes of natural size — hooded eyes, outer eye corners slightly lifted; soft rounded brows; a straight nose with a slim bridge; softly full, heart-shaped lips of natural size; graphite-grey eyes; glossy nude lips.\nBody and hair: tall and statuesque with long legs and a full, curvaceous figure — full bust and hips, narrow waist build; one enormous thick braid down to the knees with long bangs falling over one eye; coral-pink hair.\nExpression: a relaxed, unforced face, lips gently closed, subtle and relaxed.\nLegend, carried in her design and bearing: austere honesty, a plain undyed official's robe, a single plain wooden hairpin.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME AND EQUIPMENT — MECHA\nCostume: a female mecha personification built as a support and logistics mecha frame — lighter plating, data panels and shield units, utility sub-arms. Solid hard-surface plates with visible joints cover her frame except at the openings named under Exposure; any cape or skirt is made of rigid armored plates; her face and hair stay human.\nSilhouette: a large equipment unit worn on the back (tanks, a cannon barrel or antennae) rising above her head as the main shape, with medium body armor. This silhouette sets the overall shape of the costume above — keep its materials, ornaments and rank in this shape; the details are free.\nColours: deep navy blue, black lacquer, cold steel silver, ivory white. Faction frame: navy-blue and black lacquer heavy plating with cold steel-silver edges, angular command fins, a disciplined symmetrical frame, cold blue glow lines.\nSignature item: a plain undecorated folding screen panel, rebuilt as a far-future high-tech version of the same kind of object with the same silhouette — hard-surface alloy plates with panel lines, mechanical joints, vents and emitter nodes, an energy edge, plasma blade or glowing core in her glow-line colour and small status lights, with any animal motif re-sculpted as sleek machined armour. She holds it at full scale: one whole object, drawn once, held in front of or beside her body; a long weapon keeps one straight, unbroken shaft with a single head or blade.\nExposure (bold): her mecha frame is cut open by design in only these places — a deep open chest window with natural cleavage framed by the chest plates, and a bare waist and midriff between the bust plate and the hip armor; everywhere else she stays fully plated. The plates stay on, fitted and symmetrical, with skin clearly showing in each opening. Intimate areas covered; keep the plate material and palette.\n\n4. SCENE\nWorld: year 2190, the Wei Federation in orbit: a navy-black orbital fortress and capital-ship fleet above a cold blue planet, starfields and a distant sun, hard white floodlights on armored hulls.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: her whole figure from the top of her head or headpiece to both feet inside the frame with clear margins, about four-fifths of the image height; camera at chest height with natural portrait perspective.\n\n5. CONSTRAINTS\nOne figure only — no second character, horse or other creature. No readable text or numbers — emblems are abstract insignia shapes only, never letters or Chinese characters. No logo, watermark, speech bubble or frame border. A far-future setting only — space stations, starships and high-tech structures — with no traditional East-Asian architecture.\nAvoid: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+ "date": "2026-11-27",
+ "record": "records/모개/mecha.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "모개",
+  "out": "world",
+  "world": "mecha",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {
+   "모개|mecha": {}
+  },
+  "looks": {
+   "모개|mecha": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "모개|mecha": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "86c70a0d02679f54946e02788cfc27adc1d0c5f25861819d7eae5966898ae05a",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "7453d8ae4b841e67f4268c933e7dfe502c4e5d0eb3125a6c643983393072d0a9",
+  "free_prompt": "A full-body character image, vertical 2:3 (1024×1536): Mao Jie of the Romance of the Three Kingdoms, reimagined as an adult woman — the incorruptible selector of officials whom Cao Cao rewarded with a plain screen and a plain armrest.\n\n1. STYLE\nKorean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nHer face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\n2. CHARACTER\nAge: late twenties — a clear adult face with soft, smooth contours.\nFace — her own, recognisably this character, a woman's face with no beard or facial hair: a soft, gentle warmth; fair skin; diamond-shaped face with softly defined cheekbones and a tapered chin; eyes of natural size — hooded eyes, outer eye corners slightly lifted; soft rounded brows; a straight nose with a slim bridge; softly full, heart-shaped lips of natural size; graphite-grey eyes; glossy nude lips.\nBody and hair: tall and statuesque with long legs and a full, curvaceous figure — full bust and hips, narrow waist build; one enormous thick braid down to the knees with long bangs falling over one eye; coral-pink hair.\nExpression: a relaxed, unforced face, lips gently closed, subtle and relaxed.\nLegend, carried in her design and bearing: austere honesty, a plain undyed official's robe, a single plain wooden hairpin.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME AND EQUIPMENT — MECHA\nCostume: a female mecha personification built as a support and logistics mecha frame — lighter plating, data panels and shield units, utility sub-arms. Solid hard-surface plates with visible joints cover her frame except at the openings named under Exposure; any cape or skirt is made of rigid armored plates; her face and hair stay human.\nSilhouette: a large equipment unit worn on the back (tanks, a cannon barrel or antennae) rising above her head as the main shape, with medium body armor. This silhouette sets the overall shape of the costume above — keep its materials, ornaments and rank in this shape; the details are free.\nColours: deep navy blue, black lacquer, cold steel silver, ivory white. Faction frame: navy-blue and black lacquer heavy plating with cold steel-silver edges, angular command fins, a disciplined symmetrical frame, cold blue glow lines.\nSignature item: a plain undecorated folding screen panel, rebuilt as a far-future high-tech version of the same kind of object with the same silhouette — hard-surface alloy plates with panel lines, mechanical joints, vents and emitter nodes, an energy edge, plasma blade or glowing core in her glow-line colour and small status lights, with any animal motif re-sculpted as sleek machined armour. She holds it at full scale: one whole object, drawn once, held in front of or beside her body; a long weapon keeps one straight, unbroken shaft with a single head or blade.\nExposure (bold): her mecha frame is cut open by design in only these places — a deep open chest window with natural cleavage framed by the chest plates, and a bare waist and midriff between the bust plate and the hip armor; everywhere else she stays fully plated. The plates stay on, fitted and symmetrical, with skin clearly showing in each opening. Intimate areas covered; keep the plate material and palette.\n\n4. SCENE\nWorld: year 2190, the Wei Federation in orbit: a navy-black orbital fortress and capital-ship fleet above a cold blue planet, starfields and a distant sun, hard white floodlights on armored hulls.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: her whole figure from the top of her head or headpiece to both feet inside the frame with clear margins, about four-fifths of the image height; camera at chest height with natural portrait perspective.\n\n5. CONSTRAINTS\nOne figure only — no second character, horse or other creature. No readable text or numbers — emblems are abstract insignia shapes only, never letters or Chinese characters. No logo, watermark, speech bubble or frame border. A far-future setting only — space stations, starships and high-tech structures — with no traditional East-Asian architecture.\nAvoid: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+  "selected_candidate": 2,
+  "restored_original": true
+ },
+ "execution": "sam-maojie-627c94a",
+ "imported": "2026-11-27",
+ "acceptance": "user selected 1,4,2; approved commit and normal main push",
+ "review": {
+  "reviewed": true,
+  "by": "user",
+  "result": "selected_world"
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "86c70a0d02679f54946e02788cfc27adc1d0c5f25861819d7eae5966898ae05a",
+  "passed": true,
+  "anatomy": "ok",
+  "exposure": "match",
+  "observations": [
+   "Selected candidate matches the numbered selection sheet.",
+   "Full-body single adult woman, both feet present; no extra human arms.",
+   "Screen panel and world-specific clothing visible."
+  ]
+ }
+}
