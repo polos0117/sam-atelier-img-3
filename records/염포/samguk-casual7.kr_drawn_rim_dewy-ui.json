@@ -1,0 +1,136 @@
+{
+ "atelier": "samguk",
+ "card": "염포",
+ "faction": "qun",
+ "slot": "casual7",
+ "treeV": 2,
+ "world": "samguk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "ref": "염포_samguk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "water_dive_pool",
+  "ofam": "active",
+  "item": "esports_jersey",
+  "posture": "swim",
+  "support": "water",
+  "frame": "chest_up",
+  "body": "front",
+  "head": "with_body",
+  "camera": "high",
+  "right": "out",
+  "left": "out",
+  "use": "",
+  "legs": "",
+  "gaze": "camera",
+  "time": "fluorescent",
+  "ofree": true,
+  "ofreeFamily": "roleplay",
+  "ofreeSitu": "free",
+  "ofreeRecent": "a beach club of white daybeds and parasols on the sand — holds her keepsake up beside her face; a sunlit white marble temple; a cinema lobby with a popcorn counter; a small open pavilion with upturned eaves perched on a sheer mountain cliff above a sea of clouds; a calligraphy classroom with low wooden desks; a sunny concrete skate park of smooth bowls and ramps; the Changban Bridge memorial — holds her keepsake in both hands in front of her; an editorial photo studio with a seamless backdrop and dramatic lights; terraced tea fields on a misty Sichuan hillside — fans her face with a wide-brimmed straw sun hat; high above a dense bamboo forest — standing weightlessly on one foot on the very tip of something far too thin to hold her; a cinema lobby with a popcorn counter — holds out a folded festival flyer with bright doodles; the boarding stairs of a small plane on a sunny airfield — holds her keepsake at chest height; overgrown jungle temple ruins — kneeling on one knee",
+  "expr": "calm",
+  "preset": "swim_close",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "염포_samguk_kr_drawn_rim_dewy_f_casual7.webp",
+ "prompt": "INPUT: the attached image is the approved character — her Three kingdoms card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of Yan Pu of the Three Kingdoms, seen in her everyday life. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change, and her hair may be worn differently only as SCENE's Hair line says. Her Three Kingdoms identity shows ONLY as a small accessory, an object around her, or the object PROP says she holds — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume.\n\nDESIGN (accessory hints only): her legend — prudent wisdom, Taoist-tinged robes — may inform at most one small accessory, a hair ornament or an object beside her, in its palette (Taoist indigo, white, black and cinnabar red). The clothes keep the chosen outfit's own colours; her skin, hair and eyes stay as in the attached image.\n\nOBJECTS: any identity accessory or object, including the one PROP names, takes a present-day form that fits this place — a charm, a hairpin, a phone strap, a modern cup or bottle; no Chinese antique objects such as jade carvings, porcelain wine cups, bronze vessels or paper lanterns.\n\nSTYLE: Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nAGE: the same adult woman as in the attached image — keep her own face shape, cheekbones, eye proportions and skin tone exactly; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases). Keep her face soft, feminine and attractive in every framing — never elongated, gaunt, mannish or heavy-jawed, even in close-ups, profiles or low angles.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her legend shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nSCENE (chosen):\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a beach club of white daybeds and parasols on the sand — holds her keepsake up beside her face; a sunlit white marble temple; a cinema lobby with a popcorn counter; a small open pavilion with upturned eaves perched on a sheer mountain cliff above a sea of clouds; a calligraphy classroom with low wooden desks; a sunny concrete skate park of smooth bowls and ramps; the Changban Bridge memorial — holds her keepsake in both hands in front of her; an editorial photo studio with a seamless backdrop and dramatic lights; terraced tea fields on a misty Sichuan hillside — fans her face with a wide-brimmed straw sun hat; high above a dense bamboo forest — standing weightlessly on one foot on the very tip of something far too thin to hold her; a cinema lobby with a popcorn counter — holds out a folded festival flyer with bright doodles; the boarding stairs of a small plane on a sunny airfield — holds her keepsake at chest height; overgrown jungle temple ruins — kneeling on one knee.\nPlace: an empty planetarium demonstration room beneath cool white ceiling lights, a large blank projection dome behind\nActivity: taking a playful rest during an astronomer-host costume event; as she settles into a reclining demonstration seat the loose back panel of her costume folds beneath her hip, exposing more of one upper thigh while its opaque shorts remain secure\nPose: sitting diagonally toward the viewer, both shoulders visible; her right elbow bends at her side to hold a small star-shaped pointer at chest height, her left arm extends down with the palm on the chair armrest\nFraming: vertical seated full-body composition at natural chest height with her face clearly visible\nOutfit family (required): role-play costume — any role-play costume outfit; you may pick one from our outfit catalog (outfit-catalog.md in this pack) or design your own, but prefer one that is not in it.\nSituation (required): a situational exposure moment of your own design that fits the scene — prefer one that is not among ours: clothes soaked by rain or a splash, clothes caught by a strong gust of wind, a top worn half undone, a strap slipped off the shoulder, a hem knotted up under the bust, an outer layer tied around the waist, a sheen of sweat from heat, a backlit silhouette through thin fabric, a skirt slit fallen open, sleeves pushed up with one more button undone, a tie or scarf pulled loose.\nTime of day (fixed): cool white overhead light, flat and bright — set your scene at this time.\nOutfit: a custom retro observatory-host role-play costume: a copper metallic halter bodice with a deep neckline, small star-shaped collar clasp, short opaque petrol-blue shorts and a detachable split-back silver capelet, low ankle boots\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing; intimate areas covered\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its garment, armor, regalia, ornaments, mecha plates or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her Three Kingdoms identity belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her faction's palette, armor, robes or regalia.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, a few background people may share the scene — same ground, light and style, sized for their distance, busy with their own activity, never facing the camera or posing beside her; quiet or private places stay empty. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.\n\nANATOMY: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nFIGURE: curvy — keep this exact build from the attached image, neither slimmer nor fuller.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.\n\nAVOID: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+ "date": "2026-11-27",
+ "record": "records/염포/samguk-casual7.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "염포",
+  "out": "casual",
+  "world": "samguk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 7,
+  "scenes": {
+   "염포": {
+    "era": "now",
+    "place": "water_dive_pool",
+    "ofam": "active",
+    "treeV": 2,
+    "prop": "",
+    "preset": "swim_close",
+    "use": "",
+    "posture": "swim",
+    "support": "water",
+    "frame": "chest_up",
+    "body": "front",
+    "head": "with_body",
+    "camera": "high",
+    "right": "out",
+    "left": "out",
+    "legs": "",
+    "gaze": "camera",
+    "item": "esports_jersey",
+    "expr": "calm",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "ofree": true,
+    "time": "fluorescent",
+    "ofreeFamily": "roleplay",
+    "ofreeSitu": "free",
+    "ofreeRecent": "a beach club of white daybeds and parasols on the sand — holds her keepsake up beside her face; a sunlit white marble temple; a cinema lobby with a popcorn counter; a small open pavilion with upturned eaves perched on a sheer mountain cliff above a sea of clouds; a calligraphy classroom with low wooden desks; a sunny concrete skate park of smooth bowls and ramps; the Changban Bridge memorial — holds her keepsake in both hands in front of her; an editorial photo studio with a seamless backdrop and dramatic lights; terraced tea fields on a misty Sichuan hillside — fans her face with a wide-brimmed straw sun hat; high above a dense bamboo forest — standing weightlessly on one foot on the very tip of something far too thin to hold her; a cinema lobby with a popcorn counter — holds out a folded festival flyer with bright doodles; the boarding stairs of a small plane on a sunny airfield — holds her keepsake at chest height; overgrown jungle temple ruins — kneeling on one knee"
+   }
+  }
+ },
+ "execution": "sam-yanpu-20261127",
+ "imported": "2026-11-27",
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "ref_sha256": "7f41eb320b922c514528e336a0af8453bb6e01a44a809f5cdc4f568a6e72b948",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "a170833e949a13d874eb70d52e8ffb299b3cc00faf02053b502bef1defdb376c",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "b6c088e0a0b6644305487e79998f28d2fb3aca2212dcfcbacde4e8e092011a33",
+  "retries": [],
+  "free_design": {
+   "Place": "an empty planetarium demonstration room beneath cool white ceiling lights, a large blank projection dome behind",
+   "Activity": "taking a playful rest during an astronomer-host costume event; as she settles into a reclining demonstration seat the loose back panel of her costume folds beneath her hip, exposing more of one upper thigh while its opaque shorts remain secure",
+   "Pose": "sitting diagonally toward the viewer, both shoulders visible; her right elbow bends at her side to hold a small star-shaped pointer at chest height, her left arm extends down with the palm on the chair armrest",
+   "Framing": "vertical seated full-body composition at natural chest height with her face clearly visible",
+   "Outfit": "a custom retro observatory-host role-play costume: a copper metallic halter bodice with a deep neckline, small star-shaped collar clasp, short opaque petrol-blue shorts and a detachable split-back silver capelet, low ankle boots"
+  },
+  "free_prompt": "INPUT: the attached image is the approved character — her Three kingdoms card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of Yan Pu of the Three Kingdoms, seen in her everyday life. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change, and her hair may be worn differently only as SCENE's Hair line says. Her Three Kingdoms identity shows ONLY as a small accessory, an object around her, or the object PROP says she holds — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume.\n\nDESIGN (accessory hints only): her legend — prudent wisdom, Taoist-tinged robes — may inform at most one small accessory, a hair ornament or an object beside her, in its palette (Taoist indigo, white, black and cinnabar red). The clothes keep the chosen outfit's own colours; her skin, hair and eyes stay as in the attached image.\n\nOBJECTS: any identity accessory or object, including the one PROP names, takes a present-day form that fits this place — a charm, a hairpin, a phone strap, a modern cup or bottle; no Chinese antique objects such as jade carvings, porcelain wine cups, bronze vessels or paper lanterns.\n\nSTYLE: Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nAGE: the same adult woman as in the attached image — keep her own face shape, cheekbones, eye proportions and skin tone exactly; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases). Keep her face soft, feminine and attractive in every framing — never elongated, gaunt, mannish or heavy-jawed, even in close-ups, profiles or low angles.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her legend shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nSCENE (chosen):\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a beach club of white daybeds and parasols on the sand — holds her keepsake up beside her face; a sunlit white marble temple; a cinema lobby with a popcorn counter; a small open pavilion with upturned eaves perched on a sheer mountain cliff above a sea of clouds; a calligraphy classroom with low wooden desks; a sunny concrete skate park of smooth bowls and ramps; the Changban Bridge memorial — holds her keepsake in both hands in front of her; an editorial photo studio with a seamless backdrop and dramatic lights; terraced tea fields on a misty Sichuan hillside — fans her face with a wide-brimmed straw sun hat; high above a dense bamboo forest — standing weightlessly on one foot on the very tip of something far too thin to hold her; a cinema lobby with a popcorn counter — holds out a folded festival flyer with bright doodles; the boarding stairs of a small plane on a sunny airfield — holds her keepsake at chest height; overgrown jungle temple ruins — kneeling on one knee.\nPlace: an empty planetarium demonstration room beneath cool white ceiling lights, a large blank projection dome behind\nActivity: taking a playful rest during an astronomer-host costume event; as she settles into a reclining demonstration seat the loose back panel of her costume folds beneath her hip, exposing more of one upper thigh while its opaque shorts remain secure\nPose: sitting diagonally toward the viewer, both shoulders visible; her right elbow bends at her side to hold a small star-shaped pointer at chest height, her left arm extends down with the palm on the chair armrest\nFraming: vertical seated full-body composition at natural chest height with her face clearly visible\nOutfit family (required): role-play costume — any role-play costume outfit; you may pick one from our outfit catalog (outfit-catalog.md in this pack) or design your own, but prefer one that is not in it.\nSituation (required): a situational exposure moment of your own design that fits the scene — prefer one that is not among ours: clothes soaked by rain or a splash, clothes caught by a strong gust of wind, a top worn half undone, a strap slipped off the shoulder, a hem knotted up under the bust, an outer layer tied around the waist, a sheen of sweat from heat, a backlit silhouette through thin fabric, a skirt slit fallen open, sleeves pushed up with one more button undone, a tie or scarf pulled loose.\nTime of day (fixed): cool white overhead light, flat and bright — set your scene at this time.\nOutfit: a custom retro observatory-host role-play costume: a copper metallic halter bodice with a deep neckline, small star-shaped collar clasp, short opaque petrol-blue shorts and a detachable split-back silver capelet, low ankle boots\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing; intimate areas covered\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its garment, armor, regalia, ornaments, mecha plates or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her Three Kingdoms identity belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her faction's palette, armor, robes or regalia.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, a few background people may share the scene — same ground, light and style, sized for their distance, busy with their own activity, never facing the camera or posing beside her; quiet or private places stay empty. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.\n\nANATOMY: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nFIGURE: curvy — keep this exact build from the attached image, neither slimmer nor fuller.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.\n\nAVOID: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin."
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "a170833e949a13d874eb70d52e8ffb299b3cc00faf02053b502bef1defdb376c",
+  "passed": true,
+  "anatomy": "ok",
+  "exposure": "match",
+  "observations": [
+   "Observatory host costume, chair rest and connected hands; long back cape visible, star pointer separate."
+  ],
+  "cause": null
+ },
+ "acceptance": "User authorized commit and normal main push; no regeneration for exposure",
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ }
+}

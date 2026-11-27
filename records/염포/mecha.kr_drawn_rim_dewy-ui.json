@@ -1,0 +1,116 @@
+{
+ "atelier": "samguk",
+ "card": "염포",
+ "faction": "qun",
+ "role": "strategist",
+ "world": "mecha",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "graphite_grey",
+   "impression": "mature",
+   "expr": "calm",
+   "skin_tone": "warm_beige",
+   "age": "mid_20s",
+   "eye_size": "medium",
+   "eye_tilt": "up",
+   "mark": "dark_lip",
+   "brows": "angled_sharp",
+   "nose": "aquiline",
+   "lips": "thin_long",
+   "face_shape": "diamond",
+   "eyes": "narrow_upturned"
+  },
+  "silhouette": {
+   "body": "curvy",
+   "hair_color": "hot_pink",
+   "hair": "long_straight",
+   "bangs": "one_eye"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "염포_mecha_kr_drawn_rim_dewy_f.webp",
+ "prompt": "A full-body character image, vertical 2:3 (1024×1536): Yan Pu of the Romance of the Three Kingdoms, reimagined as an adult woman — the adviser who talked her lord out of a royal title and saved him.\n\n1. STYLE\nKorean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nHer face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\n2. CHARACTER\nAge: mid-twenties — a young-adult face.\nFace — her own, recognisably this character, a woman's face with no beard or facial hair: a mature, poised woman; warm beige skin; diamond-shaped face with softly defined cheekbones and a tapered chin; eyes of natural size — almond eyes whose outer corners lift slightly, outer eye corners slightly lifted; brows with a clean, angled peak; a nose with a gentle aquiline curve; slender lips of natural width; graphite-grey eyes; dark berry lipstick.\nBody and hair: curvy build; long straight hair with long bangs falling over one eye; hot-pink hair.\nExpression: a relaxed, unforced face, lips gently closed, subtle and relaxed.\nLegend, carried in her design and bearing: prudent wisdom, Taoist-tinged robes.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME AND EQUIPMENT — MECHA\nCostume: a female mecha personification built as a tactical electronic-warfare mecha frame — slender plating, a sensor-array head unit, holographic map projectors and floating drone bits. Solid hard-surface plates with visible joints cover her frame except at the openings named under Exposure; any cape or skirt is made of rigid armored plates; her face and hair stay human.\nSilhouette: large wing-shaped binder plates spread symmetrically behind her back as the main shape, with light body armor. This silhouette sets the overall shape of the costume above — keep its materials, ornaments and rank in this shape; the details are free.\nColours: Taoist indigo, white, black and cinnabar red. Faction frame: indigo and white plating with black trim and cinnabar-red seals, ritual Taoist silhouette, talisman motifs, cinnabar glow lines.\nSignature item: a Taoist scroll, rebuilt as a far-future high-tech version of the same kind of object with the same silhouette — hard-surface alloy plates with panel lines, mechanical joints, vents and emitter nodes, an energy edge, plasma blade or glowing core in her glow-line colour and small status lights, with any animal motif re-sculpted as sleek machined armour. She holds it at full scale: one whole object, drawn once, held in front of or beside her body; a long weapon keeps one straight, unbroken shaft with a single head or blade.\nExposure (bold): her mecha frame is cut open by design in only these places — bare upper arms below the pauldrons, which stay seated on top of her shoulders, and a deep open chest window with natural cleavage framed by the chest plates; everywhere else she stays fully plated. The plates stay on, fitted and symmetrical, with skin clearly showing in each opening. Intimate areas covered; keep the plate material and palette.\n\n4. SCENE\nWorld: year 2190, the Free Zones — a lawless asteroid belt between the three powers: warlord fortresses carved into asteroids, wrecked starships drifting in the dark, a violet nebula, warning lights blinking.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: her whole figure from the top of her head or headpiece to both feet inside the frame with clear margins, about four-fifths of the image height; camera at chest height with natural portrait perspective.\n\n5. CONSTRAINTS\nOne figure only — no second character, horse or other creature. No readable text or numbers — emblems are abstract insignia shapes only, never letters or Chinese characters. No logo, watermark, speech bubble or frame border. A far-future setting only — space stations, starships and high-tech structures — with no traditional East-Asian architecture.\nAvoid: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+ "date": "2026-11-27",
+ "record": "records/염포/mecha.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "염포",
+  "out": "world",
+  "world": "mecha",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {
+   "염포|mecha": {}
+  },
+  "looks": {
+   "염포|mecha": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "염포|mecha": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "execution": "sam-yanpu-20261127",
+ "imported": "2026-11-27",
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "efe28d6c31c2482b51da5b8a65104face0e8859d6d53148382011646412e3237",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "33fe291538f0aba132eb42635c26fb6890352ec3f59c04ac1d80d734ab1e6c81",
+  "selection_number": 1,
+  "selection_user": "1,3,1",
+  "retries": []
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "efe28d6c31c2482b51da5b8a65104face0e8859d6d53148382011646412e3237",
+  "passed": false,
+  "anatomy": "ok",
+  "exposure": "match",
+  "observations": [
+   "Single adult woman, full figure and two feet visible; scroll continuous; world-specific attire and selected hairstyle reviewed.",
+   "Mechanical panels and scroll retain decorative tassels despite future-material instruction."
+  ]
+ },
+ "acceptance": "User selected 1,3,1 and authorized commit and normal main push",
+ "review": {
+  "reviewed": true,
+  "by": "user",
+  "result": "selected_world"
+ }
+}
