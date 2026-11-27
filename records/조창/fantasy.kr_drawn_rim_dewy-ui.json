@@ -1,0 +1,118 @@
+{
+ "atelier": "samguk",
+ "card": "조창",
+ "faction": "wei",
+ "role": "general",
+ "world": "fantasy",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "steel_blue",
+   "impression": "boyish",
+   "expr": "confident",
+   "skin_tone": "fair",
+   "age": "late_20s",
+   "eye_size": "small",
+   "eye_tilt": "up",
+   "mark": "bare",
+   "brows": "straight_thin",
+   "nose": "petite_straight",
+   "lips": "plush_pout",
+   "face_shape": "v_line",
+   "eyes": "phoenix"
+  },
+  "silhouette": {
+   "body": "strong_curvy",
+   "hair_color": "ombre_pink",
+   "hair": "triple_tails",
+   "bangs": "baby"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "조창_fantasy_kr_drawn_rim_dewy_f.webp",
+ "prompt": "SUMMARY: hairstyle a sharply layered chin-length wolf bob with choppy micro bangs; costume silhouette a fur cloak, leather straps, minimal metal plates and bone and tooth ornaments — a rugged, wild warrior silhouette; design idea The fur cloak anchors into crossing leather load-bearing shoulder straps, with a broad cut that conveys raw strength.; face a sharp, striking, intense look; expression composed.\n\nA full-body character image, vertical 2:3 (1024×1536): Cao Zhang of the Romance of the Three Kingdoms, reimagined as an adult woman — Cao Cao's warrior child, the 'yellow-bearded one' who pacified the north.\n\n1. STYLE\nKorean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nHer face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\n2. CHARACTER\nAge: late twenties — a clear adult face with soft, smooth contours.\nFace — her own, recognisably this character, a woman's face with no beard or facial hair: a sharp, striking, intense look; olive skin; heart-shaped face; almond eyes whose outer corners lift slightly; coral-orange eyes; soft rounded brows; a nose with a gentle aquiline curve; lips with a defined cupid's bow, of natural size.\nBody and hair: strong and broad-shouldered with firm muscle, yet full-busted with wide rounded hips and a defined waist build; a sharply layered chin-length wolf bob with choppy micro bangs; silver hair fading to pink at the tips.\nExpression: a composed, self-assured look, subtle and relaxed.\nLegend, carried in her design and bearing: raw martial strength, golden hair like the 'yellow beard' of the legend, northern furs over armor, impatient with books.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME AND EQUIPMENT — MEDIEVAL FANTASY\nCostume: a knight-champion's armor — articulated plate with a heraldic tabard in her faction's colours, a plumed helm or circlet, a battle cape, her weapon at hand. Western medieval high-fantasy dress — plate, mail and heraldic tabards, gowns and mantles, circlets and crowns; steel, leather, wool, velvet and gold, with a subtle magical glow along the patterns. Her Three Kingdoms origin shows through her signature item, her colours and her bearing.\nSilhouette: a fur cloak, leather straps, minimal metal plates and bone and tooth ornaments — a rugged, wild warrior silhouette. This silhouette sets the overall shape of the costume above — keep its materials, ornaments and rank in this shape; the details are free.\nDesign idea: The fur cloak anchors into crossing leather load-bearing shoulder straps, with a broad cut that conveys raw strength.\nColours: deep navy blue, black lacquer, cold steel silver, ivory white.\nSignature item: a heavy iron halberd, reimagined as a Western high-fantasy version of the same kind of object with the same silhouette — polished steel and silvered mithril throughout, the shaft or hilt also forged metal with engraved runes (never plain wood), a faint magical glow running along the edge and the runes, a gem-set guard or socket, a leather-wrapped grip and heraldic or elven ornament, with any animal motif re-sculpted in Western heraldic style. She holds it at full scale: one whole object, drawn once, held in front of or beside her body; a long weapon keeps one straight, unbroken shaft with a single head or blade.\nExposure (bold): her regalia opens to show skin — bare upper arms below the pauldrons, which stay seated on top of her shoulders (bare shoulders only where no shoulder guard sits), a deep open neckline under the gorget with natural cleavage, the tabard or gown cut with a high side slit at full length — it shows the side line of one leg as she stands, no leg pushed out or knee bent for it; armor pieces stay on and symmetrical. Intimate areas covered; no corset; keep the costume material and palette.\n\n4. SCENE\nWorld: a stern northern empire of medieval high fantasy: black-stone citadels with blue banners, iron-shod heavy cavalry, snowy plains and pine forests, a court ruled by strict law, cold blue sigil-magic.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: her whole figure from the top of her head or headpiece to both feet inside the frame with clear margins, about four-fifths of the image height; camera at chest height with natural portrait perspective.\n\n5. CONSTRAINTS\nOne figure only — no second character, horse or other creature. No readable text or numbers — banners and shields carry only heraldic devices (a beast or a crest), never letters or Chinese characters. No logo, watermark, speech bubble or frame border. A Western medieval setting and dress only — stone castles, Romanesque or Gothic architecture — with no Chinese architecture, robes or hanzi.\nAvoid: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+ "date": "2026-11-28",
+ "record": "records/조창/fantasy.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "조창",
+  "out": "world",
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {
+   "조창|fantasy": {}
+  },
+  "looks": {
+   "조창|fantasy": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "조창|fantasy": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "87a7fb55c6e26e09bfb20f6f22962a31a41df234866279fbd65484fe4afce955",
+  "source_webp_sha256": "3361a324beb6be58aa0e43548a1cbd996734047ad1a8ee7043d00375b0308726",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "ba55616e44d24c50c5552ee5650e42985546217b368598ebe5ee64a8d66ba3df",
+  "selected_candidate": 3,
+  "design": "gpt_free",
+  "plan": "A",
+  "summary": "SUMMARY: hairstyle a sharply layered chin-length wolf bob with choppy micro bangs; costume silhouette a fur cloak, leather straps, minimal metal plates and bone and tooth ornaments — a rugged, wild warrior silhouette; design idea The fur cloak anchors into crossing leather load-bearing shoulder straps, with a broad cut that conveys raw strength.; face a sharp, striking, intense look; expression composed.",
+  "free_prompt": "SUMMARY: hairstyle a sharply layered chin-length wolf bob with choppy micro bangs; costume silhouette a fur cloak, leather straps, minimal metal plates and bone and tooth ornaments — a rugged, wild warrior silhouette; design idea The fur cloak anchors into crossing leather load-bearing shoulder straps, with a broad cut that conveys raw strength.; face a sharp, striking, intense look; expression composed.\n\nA full-body character image, vertical 2:3 (1024×1536): Cao Zhang of the Romance of the Three Kingdoms, reimagined as an adult woman — Cao Cao's warrior child, the 'yellow-bearded one' who pacified the north.\n\n1. STYLE\nKorean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nHer face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\n2. CHARACTER\nAge: late twenties — a clear adult face with soft, smooth contours.\nFace — her own, recognisably this character, a woman's face with no beard or facial hair: a sharp, striking, intense look; olive skin; heart-shaped face; almond eyes whose outer corners lift slightly; coral-orange eyes; soft rounded brows; a nose with a gentle aquiline curve; lips with a defined cupid's bow, of natural size.\nBody and hair: strong and broad-shouldered with firm muscle, yet full-busted with wide rounded hips and a defined waist build; a sharply layered chin-length wolf bob with choppy micro bangs; silver hair fading to pink at the tips.\nExpression: a composed, self-assured look, subtle and relaxed.\nLegend, carried in her design and bearing: raw martial strength, golden hair like the 'yellow beard' of the legend, northern furs over armor, impatient with books.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME AND EQUIPMENT — MEDIEVAL FANTASY\nCostume: a knight-champion's armor — articulated plate with a heraldic tabard in her faction's colours, a plumed helm or circlet, a battle cape, her weapon at hand. Western medieval high-fantasy dress — plate, mail and heraldic tabards, gowns and mantles, circlets and crowns; steel, leather, wool, velvet and gold, with a subtle magical glow along the patterns. Her Three Kingdoms origin shows through her signature item, her colours and her bearing.\nSilhouette: a fur cloak, leather straps, minimal metal plates and bone and tooth ornaments — a rugged, wild warrior silhouette. This silhouette sets the overall shape of the costume above — keep its materials, ornaments and rank in this shape; the details are free.\nDesign idea: The fur cloak anchors into crossing leather load-bearing shoulder straps, with a broad cut that conveys raw strength.\nColours: deep navy blue, black lacquer, cold steel silver, ivory white.\nSignature item: a heavy iron halberd, reimagined as a Western high-fantasy version of the same kind of object with the same silhouette — polished steel and silvered mithril throughout, the shaft or hilt also forged metal with engraved runes (never plain wood), a faint magical glow running along the edge and the runes, a gem-set guard or socket, a leather-wrapped grip and heraldic or elven ornament, with any animal motif re-sculpted in Western heraldic style. She holds it at full scale: one whole object, drawn once, held in front of or beside her body; a long weapon keeps one straight, unbroken shaft with a single head or blade.\nExposure (bold): her regalia opens to show skin — bare upper arms below the pauldrons, which stay seated on top of her shoulders (bare shoulders only where no shoulder guard sits), a deep open neckline under the gorget with natural cleavage, the tabard or gown cut with a high side slit at full length — it shows the side line of one leg as she stands, no leg pushed out or knee bent for it; armor pieces stay on and symmetrical. Intimate areas covered; no corset; keep the costume material and palette.\n\n4. SCENE\nWorld: a stern northern empire of medieval high fantasy: black-stone citadels with blue banners, iron-shod heavy cavalry, snowy plains and pine forests, a court ruled by strict law, cold blue sigil-magic.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: her whole figure from the top of her head or headpiece to both feet inside the frame with clear margins, about four-fifths of the image height; camera at chest height with natural portrait perspective.\n\n5. CONSTRAINTS\nOne figure only — no second character, horse or other creature. No readable text or numbers — banners and shields carry only heraldic devices (a beast or a crest), never letters or Chinese characters. No logo, watermark, speech bubble or frame border. A Western medieval setting and dress only — stone castles, Romanesque or Gothic architecture — with no Chinese architecture, robes or hanzi.\nAvoid: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin."
+ },
+ "execution": "sam-caozhang-4291319",
+ "imported": "2026-11-28",
+ "qa": {
+  "reviewer": "gpt-session",
+  "image_sha256": "87a7fb55c6e26e09bfb20f6f22962a31a41df234866279fbd65484fe4afce955",
+  "passed": true,
+  "anatomy": "ok",
+  "exposure": "match",
+  "observations": [
+   "Selected by user: 1,3,4; 1024×1536; one adult woman, coherent arms and legs, one unbroken halberd; correct world costume."
+  ]
+ },
+ "acceptance": "user_selection_2026-11-28: 1,3,4; user authorized commit and normal main update",
+ "review": {
+  "reviewed": true,
+  "by": "user",
+  "result": "selected"
+ }
+}
