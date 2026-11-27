@@ -1,0 +1,115 @@
+{
+ "atelier": "samguk",
+ "card": "유파",
+ "faction": "shu",
+ "role": "official",
+ "world": "fantasy",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "aqua",
+   "impression": "haughty",
+   "expr": "unimpressed",
+   "skin_tone": "fair",
+   "age": "mid_20s",
+   "eye_size": "small",
+   "eye_tilt": "up",
+   "mark": "gloss",
+   "brows": "arched_thin",
+   "nose": "small_button",
+   "lips": "plush_pout",
+   "face_shape": "heart",
+   "eyes": "narrow_upturned"
+  },
+  "silhouette": {
+   "body": "voluptuous",
+   "hair_color": "electric_blue",
+   "hair": "asymmetric_bob",
+   "bangs": "side_swept"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "유파_fantasy_kr_drawn_rim_dewy_f.webp",
+ "prompt": "SUMMARY: hairstyle twin spiral drill curls with a clean central part and short temple locks; costume silhouette a long coat below the knees with epaulettes, a belt, gloves and tall boots — a crisp, commanding officer's silhouette; design idea The floor-length officer coat closes with two opposing rectangular plated lapels around a circular central clasp, like the matched halves of a precision coin mold.; face an elegant, refined presence; expression cool and reserved.\n\nA full-body character image, vertical 2:3 (1024×1536): Liu Ba of the Romance of the Three Kingdoms, reimagined as an adult woman — the aloof financial genius who stabilized Shu's coinage.\n\n1. STYLE\nKorean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nHer face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\n2. CHARACTER\nAge: mid-twenties — a young-adult face.\nFace — her own, recognisably this character, a woman's face with no beard or facial hair: an elegant, refined presence; porcelain-pale skin; oval face; almond-shaped eyes of natural size; amber eyes; straight brows of natural fullness; a straight nose with a slim bridge; medium-full lips of natural width.\nBody and hair: voluptuous, generously curved at bust, hips and thighs build; twin spiral drill curls with a clean central part and short temple locks; electric-blue hair.\nExpression: a cool, unimpressed look, subtle and relaxed.\nLegend, carried in her design and bearing: proud and reserved, scorning the uncultured, crisp formal robes.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME AND EQUIPMENT — MEDIEVAL FANTASY\nCostume: a royal chancellor's or court scholar's dress — a long embroidered coat with a stole, a seal ring, ledgers and a quill. Western medieval high-fantasy dress — plate, mail and heraldic tabards, gowns and mantles, circlets and crowns; steel, leather, wool, velvet and gold, with a subtle magical glow along the patterns. Her Three Kingdoms origin shows through her signature item, her colours and her bearing.\nSilhouette: a long coat below the knees with epaulettes, a belt, gloves and tall boots — a crisp, commanding officer's silhouette. This silhouette sets the overall shape of the costume above — keep its materials, ornaments and rank in this shape; the details are free.\nDesign idea: The floor-length officer coat closes with two opposing rectangular plated lapels around a circular central clasp, like the matched halves of a precision coin mold.\nColours: jade green, imperial gold, earthen brown, white jade, with small accents of deep forest green and bronze (Liu Zhang).\nSignature item: a bronze coin mold, reimagined as a Western high-fantasy version of the same kind of object with the same silhouette — polished steel and silvered mithril throughout, the shaft or hilt also forged metal with engraved runes (never plain wood), a faint magical glow running along the edge and the runes, a gem-set guard or socket, a leather-wrapped grip and heraldic or elven ornament, with any animal motif re-sculpted in Western heraldic style. She holds it at full scale: one whole object, drawn once, held in front of or beside her body; a long weapon keeps one straight, unbroken shaft with a single head or blade.\nExposure (bold): her regalia opens to show skin — bare upper arms below the pauldrons, which stay seated on top of her shoulders (bare shoulders only where no shoulder guard sits), a deep open neckline under the gorget with natural cleavage, the tabard or gown cut with a high side slit at full length — it shows the side line of one leg as she stands, no leg pushed out or knee bent for it; armor pieces stay on and symmetrical. Intimate areas covered; no corset; keep the costume material and palette.\n\n4. SCENE\nWorld: a righteous highland kingdom of Western medieval high fantasy: grey-stone castles and fortified abbeys on green mountain ridges, alpine meadows, waterfalls and oak forests, heraldic banners of green and gold bearing a dragon device, oaths sworn under an ancient oak, gentle green nature-magic.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: her whole figure from the top of her head or headpiece to both feet inside the frame with clear margins, about four-fifths of the image height; camera at chest height with natural portrait perspective.\n\n5. CONSTRAINTS\nOne figure only — no second character, horse or other creature. No readable text or numbers — banners and shields carry only heraldic devices (a beast or a crest), never letters or Chinese characters. No logo, watermark, speech bubble or frame border. A Western medieval setting and dress only — stone castles, Romanesque or Gothic architecture — with no Chinese architecture, robes or hanzi.\nAvoid: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+ "date": "2026-11-27",
+ "record": "records/유파/fantasy.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "유파",
+  "out": "world",
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {
+   "유파|fantasy": {}
+  },
+  "looks": {
+   "유파|fantasy": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "유파|fantasy": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "f46e355bcfcd40dd4be8e5c973b6a552c89fd8cd880889200a8684e075ac25f7",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "984553050c8f76a9617325fdc07af0116c2cca44a8ed088e3972296f35bc7511",
+  "world_selection": 3,
+  "retries": [],
+  "free_prompt": "SUMMARY: hairstyle twin spiral drill curls with a clean central part and short temple locks; costume silhouette a long coat below the knees with epaulettes, a belt, gloves and tall boots — a crisp, commanding officer's silhouette; design idea The floor-length officer coat closes with two opposing rectangular plated lapels around a circular central clasp, like the matched halves of a precision coin mold.; face an elegant, refined presence; expression cool and reserved.\n\nA full-body character image, vertical 2:3 (1024×1536): Liu Ba of the Romance of the Three Kingdoms, reimagined as an adult woman — the aloof financial genius who stabilized Shu's coinage.\n\n1. STYLE\nKorean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nHer face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\n2. CHARACTER\nAge: mid-twenties — a young-adult face.\nFace — her own, recognisably this character, a woman's face with no beard or facial hair: an elegant, refined presence; porcelain-pale skin; oval face; almond-shaped eyes of natural size; amber eyes; straight brows of natural fullness; a straight nose with a slim bridge; medium-full lips of natural width.\nBody and hair: voluptuous, generously curved at bust, hips and thighs build; twin spiral drill curls with a clean central part and short temple locks; electric-blue hair.\nExpression: a cool, unimpressed look, subtle and relaxed.\nLegend, carried in her design and bearing: proud and reserved, scorning the uncultured, crisp formal robes.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME AND EQUIPMENT — MEDIEVAL FANTASY\nCostume: a royal chancellor's or court scholar's dress — a long embroidered coat with a stole, a seal ring, ledgers and a quill. Western medieval high-fantasy dress — plate, mail and heraldic tabards, gowns and mantles, circlets and crowns; steel, leather, wool, velvet and gold, with a subtle magical glow along the patterns. Her Three Kingdoms origin shows through her signature item, her colours and her bearing.\nSilhouette: a long coat below the knees with epaulettes, a belt, gloves and tall boots — a crisp, commanding officer's silhouette. This silhouette sets the overall shape of the costume above — keep its materials, ornaments and rank in this shape; the details are free.\nDesign idea: The floor-length officer coat closes with two opposing rectangular plated lapels around a circular central clasp, like the matched halves of a precision coin mold.\nColours: jade green, imperial gold, earthen brown, white jade, with small accents of deep forest green and bronze (Liu Zhang).\nSignature item: a bronze coin mold, reimagined as a Western high-fantasy version of the same kind of object with the same silhouette — polished steel and silvered mithril throughout, the shaft or hilt also forged metal with engraved runes (never plain wood), a faint magical glow running along the edge and the runes, a gem-set guard or socket, a leather-wrapped grip and heraldic or elven ornament, with any animal motif re-sculpted in Western heraldic style. She holds it at full scale: one whole object, drawn once, held in front of or beside her body; a long weapon keeps one straight, unbroken shaft with a single head or blade.\nExposure (bold): her regalia opens to show skin — bare upper arms below the pauldrons, which stay seated on top of her shoulders (bare shoulders only where no shoulder guard sits), a deep open neckline under the gorget with natural cleavage, the tabard or gown cut with a high side slit at full length — it shows the side line of one leg as she stands, no leg pushed out or knee bent for it; armor pieces stay on and symmetrical. Intimate areas covered; no corset; keep the costume material and palette.\n\n4. SCENE\nWorld: a righteous highland kingdom of Western medieval high fantasy: grey-stone castles and fortified abbeys on green mountain ridges, alpine meadows, waterfalls and oak forests, heraldic banners of green and gold bearing a dragon device, oaths sworn under an ancient oak, gentle green nature-magic.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: her whole figure from the top of her head or headpiece to both feet inside the frame with clear margins, about four-fifths of the image height; camera at chest height with natural portrait perspective.\n\n5. CONSTRAINTS\nOne figure only — no second character, horse or other creature. No readable text or numbers — banners and shields carry only heraldic devices (a beast or a crest), never letters or Chinese characters. No logo, watermark, speech bubble or frame border. A Western medieval setting and dress only — stone castles, Romanesque or Gothic architecture — with no Chinese architecture, robes or hanzi.\nAvoid: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin."
+ },
+ "execution": "sam-liuba-20261127",
+ "imported": "2026-11-27",
+ "qa": {
+  "reviewer": "Codex",
+  "image_sha256": "f46e355bcfcd40dd4be8e5c973b6a552c89fd8cd880889200a8684e075ac25f7",
+  "passed": true,
+  "anatomy": "ok",
+  "exposure": "match",
+  "observations": [
+   "User-selected world candidate 3. Full body, both feet and natural connected limbs; selected adult face and world-specific blue hairstyle."
+  ]
+ },
+ "acceptance": "User selected 1,3,4 on 2026-11-27 and authorized commit and ordinary main update.",
+ "review": {
+  "reviewed": true,
+  "by": "user",
+  "result": "selected"
+ }
+}
