@@ -1,0 +1,120 @@
+{
+ "atelier": "samguk",
+ "card": "제갈상",
+ "faction": "shu",
+ "role": "general",
+ "world": "samguk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "teal",
+   "impression": "confident",
+   "expr": "determined",
+   "skin_tone": "fair",
+   "age": "early_20s",
+   "eye_size": "medium",
+   "eye_tilt": "level",
+   "mark": "dark_lip",
+   "brows": "straight_thick",
+   "nose": "straight_narrow",
+   "lips": "heart_full",
+   "face_shape": "oval",
+   "eyes": "monolid_long"
+  },
+  "silhouette": {
+   "body": "busty_slender",
+   "hair_color": "amethyst",
+   "hair": "floor_length",
+   "bangs": "baby"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "제갈상_samguk_kr_drawn_rim_dewy_f.webp",
+ "prompt": "SUMMARY: hairstyle half-up hair with a high topknot and two long tails, short wispy fringe; costume silhouette light armor pieces over a fitted silk martial dress, long silk sashes and a light skirt flowing from the waist and shoulders — a light, dancing silhouette; design idea Eight interlocking waist lamellae fasten radially around a small center plate, building a trigram-like structure into her cuirass.; face an elegant, refined presence, porcelain-pale skin, softly rounded face that still tapers to a small chin, almond-shaped eyes of natural size, amber eyes, gently arched, slender brows, a nose with a soft, rounded tip, of natural size, medium-full lips of natural width; expression firm resolve.\n\nA full-body character image, vertical 2:3 (1024×1536): Zhuge Shang of the Romance of the Three Kingdoms, reimagined as an adult woman — the grandchild of Zhuge Liang who charged into the Wei lines at Mianzhu.\n\n1. STYLE\nKorean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nHer face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\n2. CHARACTER\nAge: about twenty — a youthful face.\nFace — her own, recognisably this character, a woman's face with no beard or facial hair: an elegant, refined presence; porcelain-pale skin; softly rounded face that still tapers to a small chin; almond-shaped eyes of natural size; amber eyes; gently arched, slender brows; a nose with a soft, rounded tip, of natural size; medium-full lips of natural width.\nBody and hair: slender-limbed yet full-busted with rounded hips and a narrow waist build; half-up hair with a high topknot and two long tails, short wispy fringe; bright amethyst-purple hair.\nExpression: a firm, resolute look with calm, steady eyes, subtle and relaxed.\nLegend, carried in her design and bearing: fearless resolve, Shu armor with her grandmother's trigram crest, a dawn-red sash.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME AND EQUIPMENT — THREE KINGDOMS\nCostume: Three Kingdoms war general's armor — lamellar scale armor laced over a silk battle robe, beast-head shoulder guards, a plumed helmet or a war headband, a long war cape, her weapon at hand. Late-Han Chinese dress — cross-collared silk robes with wide sleeves and a broad sash, lamellar or scale armor laced with cords where armor is worn, bronze, jade and lacquer ornament, Han court hair ornaments; silk, lacquered leather, bronze and iron.\nSilhouette: light armor pieces over a fitted silk martial dress, long silk sashes and a light skirt flowing from the waist and shoulders — a light, dancing silhouette. This silhouette sets the overall shape of the costume above — keep its materials, ornaments and rank in this shape; the details are free.\nDesign idea: Eight interlocking waist lamellae fasten radially around a small center plate, building a trigram-like structure into her cuirass.\nColours: jade green, imperial gold, earthen brown, white jade.\nSignature item: a slim charging spear. She holds it at full scale: one whole object, drawn once, held in front of or beside her body; a long weapon keeps one straight, unbroken shaft with a single head or blade.\nExposure (bold): her robes open to show skin — the cross collar opened into a deep neckline with natural cleavage, bare upper arms above detached wide sleeves (and bare shoulders where no shoulder guard sits), the skirt panels cut with a high side slit at full length — it shows the side line of one leg as she stands, no leg pushed out or knee bent for it; any armor pieces stay on and symmetrical. Intimate areas covered; keep the costume material and palette.\n\n4. SCENE\nWorld: Shu Han in the Sichuan basin, around 208–263 AD: the city of Chengdu, cliffside plank roads over gorges, mist-wrapped mountains and bamboo forests, peach orchards, green-and-gold banners.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: her whole figure from the top of her head or headpiece to both feet inside the frame with clear margins, about four-fifths of the image height; camera at chest height with natural portrait perspective.\n\n5. CONSTRAINTS\nOne figure only — no second character, horse or other creature. No readable text or numbers, except that a banner, seal or emblem may carry the single character 蜀 or 諸葛. No logo, watermark, speech bubble or frame border. Three Kingdoms-era Chinese dress, architecture and materials only.\nAvoid: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+ "date": "2026-11-27",
+ "record": "records/제갈상/samguk.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "제갈상",
+  "out": "world",
+  "world": "samguk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {
+   "제갈상|samguk": {}
+  },
+  "looks": {
+   "제갈상|samguk": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "제갈상|samguk": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "execution": "sam-zhugeshang-20261128",
+ "imported": "2026-11-28",
+ "acceptance": "User authorized completion, commit and normal push to main; selection 3,2,3.",
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "9dc5acfe4c2b8fbc1400c182ed5cade2bc2422b86af14ba73656df55cc97304e",
+  "webp_sha256": "f7d81e4751b648785ee08b0112da7d4f14b6b3f928f9c845817dd4a144d7c334",
+  "prompt_sha256": "892c690130fe72beb3282e3d5258b21867178f6c568e8f6db25d1e4a49d765c4",
+  "prompt_form": "en-prompt",
+  "webp": {
+   "quality": 90
+  },
+  "selection": 3,
+  "recovered_from": "verified candidate archive",
+  "design": "gpt_free",
+  "plan": "A",
+  "summary": "SUMMARY: hairstyle half-up hair with a high topknot and two long tails, short wispy fringe; costume silhouette light armor pieces over a fitted silk martial dress, long silk sashes and a light skirt flowing from the waist and shoulders — a light, dancing silhouette; design idea Eight interlocking waist lamellae fasten radially around a small center plate, building a trigram-like structure into her cuirass.; face an elegant, refined presence, porcelain-pale skin, softly rounded face that still tapers to a small chin, almond-shaped eyes of natural size, amber eyes, gently arched, slender brows, a nose with a soft, rounded tip, of natural size, medium-full lips of natural width; expression firm resolve.",
+  "free_prompt": "SUMMARY: hairstyle half-up hair with a high topknot and two long tails, short wispy fringe; costume silhouette light armor pieces over a fitted silk martial dress, long silk sashes and a light skirt flowing from the waist and shoulders — a light, dancing silhouette; design idea Eight interlocking waist lamellae fasten radially around a small center plate, building a trigram-like structure into her cuirass.; face an elegant, refined presence, porcelain-pale skin, softly rounded face that still tapers to a small chin, almond-shaped eyes of natural size, amber eyes, gently arched, slender brows, a nose with a soft, rounded tip, of natural size, medium-full lips of natural width; expression firm resolve.\n\nA full-body character image, vertical 2:3 (1024×1536): Zhuge Shang of the Romance of the Three Kingdoms, reimagined as an adult woman — the grandchild of Zhuge Liang who charged into the Wei lines at Mianzhu.\n\n1. STYLE\nKorean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nHer face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\n2. CHARACTER\nAge: about twenty — a youthful face.\nFace — her own, recognisably this character, a woman's face with no beard or facial hair: an elegant, refined presence; porcelain-pale skin; softly rounded face that still tapers to a small chin; almond-shaped eyes of natural size; amber eyes; gently arched, slender brows; a nose with a soft, rounded tip, of natural size; medium-full lips of natural width.\nBody and hair: slender-limbed yet full-busted with rounded hips and a narrow waist build; half-up hair with a high topknot and two long tails, short wispy fringe; bright amethyst-purple hair.\nExpression: a firm, resolute look with calm, steady eyes, subtle and relaxed.\nLegend, carried in her design and bearing: fearless resolve, Shu armor with her grandmother's trigram crest, a dawn-red sash.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME AND EQUIPMENT — THREE KINGDOMS\nCostume: Three Kingdoms war general's armor — lamellar scale armor laced over a silk battle robe, beast-head shoulder guards, a plumed helmet or a war headband, a long war cape, her weapon at hand. Late-Han Chinese dress — cross-collared silk robes with wide sleeves and a broad sash, lamellar or scale armor laced with cords where armor is worn, bronze, jade and lacquer ornament, Han court hair ornaments; silk, lacquered leather, bronze and iron.\nSilhouette: light armor pieces over a fitted silk martial dress, long silk sashes and a light skirt flowing from the waist and shoulders — a light, dancing silhouette. This silhouette sets the overall shape of the costume above — keep its materials, ornaments and rank in this shape; the details are free.\nDesign idea: Eight interlocking waist lamellae fasten radially around a small center plate, building a trigram-like structure into her cuirass.\nColours: jade green, imperial gold, earthen brown, white jade.\nSignature item: a slim charging spear. She holds it at full scale: one whole object, drawn once, held in front of or beside her body; a long weapon keeps one straight, unbroken shaft with a single head or blade.\nExposure (bold): her robes open to show skin — the cross collar opened into a deep neckline with natural cleavage, bare upper arms above detached wide sleeves (and bare shoulders where no shoulder guard sits), the skirt panels cut with a high side slit at full length — it shows the side line of one leg as she stands, no leg pushed out or knee bent for it; any armor pieces stay on and symmetrical. Intimate areas covered; keep the costume material and palette.\n\n4. SCENE\nWorld: Shu Han in the Sichuan basin, around 208–263 AD: the city of Chengdu, cliffside plank roads over gorges, mist-wrapped mountains and bamboo forests, peach orchards, green-and-gold banners.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: her whole figure from the top of her head or headpiece to both feet inside the frame with clear margins, about four-fifths of the image height; camera at chest height with natural portrait perspective.\n\n5. CONSTRAINTS\nOne figure only — no second character, horse or other creature. No readable text or numbers, except that a banner, seal or emblem may carry the single character 蜀 or 諸葛. No logo, watermark, speech bubble or frame border. Three Kingdoms-era Chinese dress, architecture and materials only.\nAvoid: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin."
+ },
+ "qa": {
+  "reviewer": "gpt-session",
+  "image_sha256": "f7d81e4751b648785ee08b0112da7d4f14b6b3f928f9c845817dd4a144d7c334",
+  "passed": true,
+  "anatomy": "ok",
+  "exposure": "match",
+  "observations": [
+   "Full adult figure, both feet present.",
+   "Single straight spear, two arms and hands.",
+   "Selected world costume and palette retained."
+  ]
+ }
+}
