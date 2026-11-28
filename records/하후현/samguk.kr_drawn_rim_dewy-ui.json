@@ -1,0 +1,116 @@
+{
+ "atelier": "samguk",
+ "card": "하후현",
+ "faction": "wei",
+ "role": "official",
+ "world": "samguk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "navy",
+   "impression": "wistful",
+   "expr": "calm",
+   "skin_tone": "warm_beige",
+   "age": "late_20s",
+   "eye_size": "large",
+   "eye_tilt": "level",
+   "mark": "scar",
+   "brows": "soft_round",
+   "nose": "straight_narrow",
+   "lips": "full_wide",
+   "face_shape": "inverted_triangle",
+   "eyes": "hooded"
+  },
+  "silhouette": {
+   "body": "tall_curvy",
+   "hair_color": "turquoise",
+   "hair": "wolf_cut",
+   "bangs": "baby"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "하후현_samguk_kr_drawn_rim_dewy_f.webp",
+ "prompt": "A full-body character image, vertical 2:3 (1024×1536): Xiahou Xuan of the Romance of the Three Kingdoms, reimagined as an adult woman — the elegant noble who stayed composed even at her execution.\n\n1. STYLE\nKorean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nHer face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\n2. CHARACTER\nAge: late twenties — a clear adult face with soft, smooth contours.\nFace — her own, recognisably this character, a woman's face with no beard or facial hair: a wistful, longing tenderness — soft, misty eyes; warm beige skin; softly tapered face narrowing to a small, soft chin; eyes on the larger side of natural — hooded eyes, level outer eye corners; soft rounded brows; a straight nose with a slim bridge; medium-full lips of natural width; navy-blue eyes; a thin faint scar through one eyebrow.\nBody and hair: tall and statuesque with long legs and a full, curvaceous figure — full bust and hips, narrow waist build; a shaggy layered wolf cut with short baby bangs; turquoise hair.\nExpression: a relaxed, unforced face, lips gently closed, subtle and relaxed.\nLegend, carried in her design and bearing: refined grace and integrity, impeccable court robes.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME AND EQUIPMENT — THREE KINGDOMS\nCostume: a Han court official's dress — layered robes with a broad belt and a hanging seal cord, a black jinxian guan cap, an ink brush and bound bamboo slips. Late-Han Chinese dress — cross-collared silk robes with wide sleeves and a broad sash, lamellar or scale armor laced with cords where armor is worn, bronze, jade and lacquer ornament, Han court hair ornaments; silk, lacquered leather, bronze and iron.\nSilhouette: no armor — a long floor-length robe with wide sleeves and a broad sash, a long elegant falling silhouette. This silhouette sets the overall shape of the costume above — keep its materials, ornaments and rank in this shape; the details are free.\nColours: deep navy blue, black lacquer, cold steel silver, ivory white.\nSignature item: a jade pendant. She holds it at full scale: one whole object, drawn once, held in front of or beside her body; a long weapon keeps one straight, unbroken shaft with a single head or blade.\nExposure (bold): her robes open to show skin — the cross collar opened into a deep neckline with natural cleavage, bare upper arms above detached wide sleeves (and bare shoulders where no shoulder guard sits), the skirt panels cut with a high side slit at full length — it shows the side line of one leg as she stands, no leg pushed out or knee bent for it; any armor pieces stay on and symmetrical. Intimate areas covered; keep the costume material and palette.\n\n4. SCENE\nWorld: Cao Wei in northern China, around 200–235 AD: the walled capitals of Xuchang, Ye and Luoyang, rammed-earth ramparts and tiled watchtowers, black-and-navy banners over vast northern plains, armoured cavalry, bronze ritual vessels and lacquered halls.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: her whole figure from the top of her head or headpiece to both feet inside the frame with clear margins, about four-fifths of the image height; camera at chest height with natural portrait perspective.\n\n5. CONSTRAINTS\nOne figure only — no second character, horse or other creature. No readable text or numbers, except that a banner, seal or emblem may carry the single character 魏 or 夏侯. No logo, watermark, speech bubble or frame border. Three Kingdoms-era Chinese dress, architecture and materials only.\nAvoid: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+ "date": "2026-11-28",
+ "record": "records/하후현/samguk.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "하후현",
+  "out": "world",
+  "world": "samguk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {
+   "하후현|samguk": {}
+  },
+  "looks": {
+   "하후현|samguk": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "하후현|samguk": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "execution": "sam-xiahouxuan-20261128",
+ "imported": "2026-11-28",
+ "acceptance": "user selection 2,2,2; authorized main fast-forward publication",
+ "review": {
+  "reviewed": true,
+  "by": "user",
+  "result": "selected world candidate 2"
+ },
+ "generation": {
+  "tool": "built-in image_gen",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "webp": {
+   "quality": 90
+  },
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "1b1b42473afc04ae2c75758ecbdd829c77f30ab813089a48a718856e364e2c96",
+  "selected_candidate": 2,
+  "source_png_sha256": "4128f2bd570e09fa02de7aaf3e3bb01dc923dd4a1ca0b542ff61e692143e8f85",
+  "retries": []
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "f16098fe6e2ba30fdaf46500e822002072b0bbabac87aca1a9b8382925c4efd2",
+  "passed": false,
+  "anatomy": "ok",
+  "exposure": "match",
+  "observations": [
+   "One adult woman, full figure with both feet in frame, two connected arms.",
+   "User selected this exact candidate.",
+   "Hair is longer than the specified wolf cut."
+  ],
+  "cause": "Generated hairstyle or signature-object form differs from specification; exact user-selected image preserved."
+ }
+}

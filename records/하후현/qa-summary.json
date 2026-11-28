@@ -1,0 +1,22 @@
+{
+ "card": "하후현",
+ "selection": {
+  "samguk": 2,
+  "fantasy": 2,
+  "mecha": 2
+ },
+ "images": 27,
+ "casuals": 24,
+ "regenerations": 0,
+ "execution": "sam-xiahouxuan-20261128",
+ "checks": {
+  "images": "27 readable WebP",
+  "plans": "three worlds passed; seven general casuals each",
+  "required_branches": "all worlds passed"
+ },
+ "notes": [
+  "Selected world hairstyle or signature-object form differences are recorded in world QA.",
+  "Mecha own cut changes the planned prop action; original preserved.",
+  "Own-cut planner reports shared nation_inn/everyday category for fantasy and mecha; world settings and poses are separate."
+ ]
+}

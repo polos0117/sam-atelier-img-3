@@ -1,0 +1,116 @@
+{
+ "atelier": "samguk",
+ "card": "하후현",
+ "faction": "wei",
+ "role": "official",
+ "world": "mecha",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "navy",
+   "impression": "wistful",
+   "expr": "calm",
+   "skin_tone": "warm_beige",
+   "age": "late_20s",
+   "eye_size": "medium",
+   "eye_tilt": "level",
+   "mark": "scar",
+   "brows": "soft_round",
+   "nose": "straight_narrow",
+   "lips": "full_wide",
+   "face_shape": "v_line",
+   "eyes": "phoenix"
+  },
+  "silhouette": {
+   "body": "tall_curvy",
+   "hair_color": "turquoise",
+   "hair": "chignon",
+   "bangs": "one_eye"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "하후현_mecha_kr_drawn_rim_dewy_f.webp",
+ "prompt": "A full-body character image, vertical 2:3 (1024×1536): Xiahou Xuan of the Romance of the Three Kingdoms, reimagined as an adult woman — the elegant noble who stayed composed even at her execution.\n\n1. STYLE\nKorean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nHer face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\n2. CHARACTER\nAge: late twenties — a clear adult face with soft, smooth contours.\nFace — her own, recognisably this character, a woman's face with no beard or facial hair: a wistful, longing tenderness — soft, misty eyes; warm beige skin; delicate V-line face with a small, soft chin; eyes of natural size — phoenix eyes with gracefully lifted outer corners, of natural size, level outer eye corners; soft rounded brows; a straight nose with a slim bridge; medium-full lips of natural width; navy-blue eyes; a thin faint scar through one eyebrow.\nBody and hair: tall and statuesque with long legs and a full, curvaceous figure — full bust and hips, narrow waist build; an elegant low chignon with long bangs falling over one eye; turquoise hair.\nExpression: a relaxed, unforced face, lips gently closed, subtle and relaxed.\nLegend, carried in her design and bearing: refined grace and integrity, impeccable court robes.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME AND EQUIPMENT — MECHA\nCostume: a female mecha personification built as a support and logistics mecha frame — lighter plating, data panels and shield units, utility sub-arms. Solid hard-surface plates with visible joints cover her frame except at the openings named under Exposure; any cape or skirt is made of rigid armored plates; her face and hair stay human.\nSilhouette: light body armor with several small shield and drone units floating symmetrically around her. This silhouette sets the overall shape of the costume above — keep its materials, ornaments and rank in this shape; the details are free.\nColours: deep navy blue, black lacquer, cold steel silver, ivory white. Faction frame: navy-blue and black lacquer heavy plating with cold steel-silver edges, angular command fins, a disciplined symmetrical frame, cold blue glow lines.\nSignature item: a jade pendant, rebuilt as a far-future high-tech version of the same kind of object with the same silhouette — hard-surface alloy plates with panel lines, mechanical joints, vents and emitter nodes, an energy edge, plasma blade or glowing core in her glow-line colour and small status lights, with any animal motif re-sculpted as sleek machined armour. She holds it at full scale: one whole object, drawn once, held in front of or beside her body; a long weapon keeps one straight, unbroken shaft with a single head or blade.\nExposure (bold): her mecha frame is cut open by design in only these places — a bare waist and midriff between the bust plate and the hip armor, and bare upper thighs between the hip armor and thigh-high leg plates; everywhere else she stays fully plated. The plates stay on, fitted and symmetrical, with skin clearly showing in each opening. Intimate areas covered; keep the plate material and palette.\n\n4. SCENE\nWorld: year 2190, the Wei Federation in orbit: a navy-black orbital fortress and capital-ship fleet above a cold blue planet, starfields and a distant sun, hard white floodlights on armored hulls.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: her whole figure from the top of her head or headpiece to both feet inside the frame with clear margins, about four-fifths of the image height; camera at chest height with natural portrait perspective.\n\n5. CONSTRAINTS\nOne figure only — no second character, horse or other creature. No readable text or numbers — emblems are abstract insignia shapes only, never letters or Chinese characters. No logo, watermark, speech bubble or frame border. A far-future setting only — space stations, starships and high-tech structures — with no traditional East-Asian architecture.\nAvoid: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+ "date": "2026-11-28",
+ "record": "records/하후현/mecha.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "하후현",
+  "out": "world",
+  "world": "mecha",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {
+   "하후현|mecha": {}
+  },
+  "looks": {
+   "하후현|mecha": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "하후현|mecha": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "execution": "sam-xiahouxuan-20261128",
+ "imported": "2026-11-28",
+ "acceptance": "user selection 2,2,2; authorized main fast-forward publication",
+ "review": {
+  "reviewed": true,
+  "by": "user",
+  "result": "selected world candidate 2"
+ },
+ "generation": {
+  "tool": "built-in image_gen",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "webp": {
+   "quality": 90
+  },
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "972cdc02ac21f0932b59c284254152aeb5c41112192078335273a6be6918cdaf",
+  "selected_candidate": 2,
+  "source_png_sha256": "2cbcb54de66e3b538a2063982245894d51d66685fefa137c4cf0cf5c53884d77",
+  "retries": []
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "85c2ea5f72c4fa13d6323d821fcf441459b60d12a5bb5360cbdafe6cfa8713ed",
+  "passed": false,
+  "anatomy": "ok",
+  "exposure": "match",
+  "observations": [
+   "One adult woman, full figure with both feet in frame, two connected arms.",
+   "User selected this exact candidate.",
+   "The high-tech jade pendant is rendered as a long staff."
+  ],
+  "cause": "Generated hairstyle or signature-object form differs from specification; exact user-selected image preserved."
+ }
+}
